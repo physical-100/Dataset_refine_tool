@@ -123,8 +123,9 @@ class GUI:
 
         # 데이터셋 폴더에서 이미지 목록 가져오기
         self.img_dir = os.path.join(base_path, 'images')
-        self.images = [f[:-5] for f in os.listdir(self.img_dir) if f.endswith('.jpeg')]
-        
+        # self.images = [f[:-5] for f in os.listdir(self.img_dir) if f.endswith('.jpeg')]
+        self.images = [os.path.splitext(f)[0] for f in os.listdir(self.img_dir) if f.endswith(('.jpeg', '.png','jpg'))]
+        #여러 확장자 추가 
         # 프로그레스 로드
         self.progress_file = 'progress.json'
         self.load_progress()

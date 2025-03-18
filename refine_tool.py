@@ -23,27 +23,37 @@ logging.basicConfig(
 )
 
 # 클래스 번호와 단어 매핑
+# class_mapping = {
+#     0: "bolt_screw", 1: "nut_washers", 2: "bearing_ball", 3: "wire", 4: "fuel_lid", 5: "tire_parts",
+#     6: "paper_parts", 7: "plastic_parts", 8: "driver", 9: "wrench", 10: "plier_scissors", 11: "hammer",
+#     12: "drill", 13: "spoon_fork", 14: "paper_cup", 15: "pet_bottle", 16: "can", 17: "pen",
+#     18: "box", 19: "luggage_tag", 20: "clothes", 21: "concrete_stone", 22: "profile", 23: "plastic_bag",
+#     24: "leaf", 25: "branch"
+# }
 class_mapping = {
-    0: "bolt_screw", 1: "nut_washers", 2: "bearing_ball", 3: "wire", 4: "fuel_lid", 5: "tire_parts",
-    6: "paper_parts", 7: "plastic_parts", 8: "driver", 9: "wrench", 10: "plier_scissors", 11: "hammer",
-    12: "drill", 13: "spoon_fork", 14: "paper_cup", 15: "pet_bottle", 16: "can", 17: "pen",
-    18: "box", 19: "luggage_tag", 20: "clothes", 21: "concrete_stone", 22: "profile", 23: "plastic_bag",
-    24: "leaf", 25: "branch"
-}
+    0: "pedestrian", 1: "bicycle", 2: "motorcycle", 3: "vehicle", 4: "bus", 5: "truck"}
 
 class REFINE:
     def __init__(self, imgName, base_path):
         self.imgName = imgName
         self.bbox = []
         self.img = None
-        self.imgPath = os.path.join(base_path, 'images')
-        self.txtPath = os.path.join(base_path, 'labels')
+        # 폴더에 따라 변경
+        self.imgPath = os.path.join(base_path, 'images/train')
+        self.txtPath = os.path.join(base_path, 'labels/train')
     
-    def readImg(self):
+    def readImg(self, extensions=['.png', '.jpeg', '.jpg']):  # .jpg 추가
         try:
-            img_full_path = os.path.join(self.imgPath, self.imgName + '.jpeg')
-            if not os.path.exists(img_full_path):
-                raise FileNotFoundError(f"Image file not found at: {img_full_path}")
+            img_full_path = None
+            for ext in extensions:
+                temp_path = os.path.join(self.imgPath, self.imgName + ext)
+                if os.path.exists(temp_path):
+                    img_full_path = temp_path
+                    break
+            
+            if img_full_path is None:
+                raise FileNotFoundError(f"Image file not found for {self.imgName} with extensions {extensions}")
+
             self.img = cv2.imread(img_full_path)
             if self.img is None:
                 raise ValueError(f"Failed to load image: {img_full_path}")
@@ -54,7 +64,7 @@ class REFINE:
             with open(txt_full_path, 'r') as f:
                 for line in f:
                     self.bbox += [list(map(float, line.split()))]
-            logging.info(f"Successfully loaded image and labels for {self.imgName}")
+            logging.info(f"Successfully loaded image and labels for {self.imgName} from {img_full_path}")
         except FileNotFoundError as e:
             print(f"Error: {e}")
             logging.error(f"File not found error: {e}")
@@ -122,10 +132,9 @@ class GUI:
         self.base_path = base_path
 
         # 데이터셋 폴더에서 이미지 목록 가져오기
-        self.img_dir = os.path.join(base_path, 'images')
-        # self.images = [f[:-5] for f in os.listdir(self.img_dir) if f.endswith('.jpeg')]
-        self.images = [os.path.splitext(f)[0] for f in os.listdir(self.img_dir) if f.endswith(('.jpeg', '.png','jpg'))]
-        #여러 확장자 추가 
+        self.img_dir = os.path.join(base_path, 'images/train')
+        self.images = [os.path.splitext(f)[0] for f in os.listdir(self.img_dir) if f.endswith(('.jpeg', '.png','.jpg'))]
+        
         # 프로그레스 로드
         self.progress_file = 'progress.json'
         self.load_progress()

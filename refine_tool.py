@@ -534,7 +534,7 @@ if __name__ == "__main__":
     img_dir = os.path.join(base_path, 'images')
     label_dir = os.path.join(base_path, 'labels')
     # img_dir = os.path.join(base_path, 'images/train')
-    # label_dir = os.path.join(base_path, 'labels\train')
+    # label_dir = os.path.join(base_path, 'labels/train')
 
     root = tk.Tk()
     app = GUI(root, base_path, img_dir, label_dir)

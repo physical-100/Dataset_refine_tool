@@ -2,7 +2,7 @@ import os
 from collections import defaultdict
 from tqdm import tqdm
 
-input_label_dir = '/home/sophie/Desktop/Cheonan_Test/labels/val' 
+input_label_dir = '/home/sophie/Desktop/fisheye_crop/labels/' 
 
 class_counts = defaultdict(int)
 

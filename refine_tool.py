@@ -23,26 +23,19 @@ logging.basicConfig(
 )
 
 # 클래스 번호와 단어 매핑
-# class_mapping = {
-#     0: "bolt_screw", 1: "nut_washers", 2: "bearing_ball", 3: "wire", 4: "fuel_lid", 5: "tire_parts",
-#     6: "paper_parts", 7: "plastic_parts", 8: "driver", 9: "wrench", 10: "plier_scissors", 11: "hammer",
-#     12: "drill", 13: "spoon_fork", 14: "paper_cup", 15: "pet_bottle", 16: "can", 17: "pen",
-#     18: "box", 19: "luggage_tag", 20: "clothes", 21: "concrete_stone", 22: "profile", 23: "plastic_bag",
-#     24: "leaf", 25: "branch"
-# }
 class_mapping = {
-    0: "pedestrian", 1: "bicycle", 2: "motorcycle", 3: "vehicle", 4: "bus", 5: "truck"}
+    0: "pedestrian", 1: "bicycle", 2: "motorcycle", 3: "vehicle", 4: "bus", 5: "truck"
+}
 
 class REFINE:
     def __init__(self, imgName, base_path):
         self.imgName = imgName
         self.bbox = []
         self.img = None
-        # 폴더에 따라 변경
         self.imgPath = os.path.join(base_path, 'images/train')
         self.txtPath = os.path.join(base_path, 'labels/train')
     
-    def readImg(self, extensions=['.png', '.jpeg', '.jpg']):  # .jpg 추가
+    def readImg(self, extensions=['.png', '.jpeg', '.jpg']):
         try:
             img_full_path = None
             for ext in extensions:
@@ -117,7 +110,6 @@ class REFINE:
         try:
             with open(os.path.join(self.txtPath, self.imgName + '.txt'), 'w') as f:
                 for box in new_bbox:
-                    # 클래스 번호를 float 형태로 저장 (예: 0.0)
                     f.write(f"{float(box[0])} {' '.join(map(str, box[1:]))}\n")
             print("SAVED!!!")
             logging.info(f"Updated labels for {self.imgName}")
@@ -133,7 +125,7 @@ class GUI:
 
         # 데이터셋 폴더에서 이미지 목록 가져오기
         self.img_dir = os.path.join(base_path, 'images/train')
-        self.images = [os.path.splitext(f)[0] for f in os.listdir(self.img_dir) if f.endswith(('.jpeg', '.png','.jpg'))]
+        self.images = [os.path.splitext(f)[0] for f in os.listdir(self.img_dir) if f.endswith(('.jpeg', '.png', '.jpg'))]
         
         # 프로그레스 로드
         self.progress_file = 'progress.json'
@@ -157,19 +149,21 @@ class GUI:
         # 이미지 미리보기 캔버스
         self.canvas = tk.Canvas(root, width=600, height=600)
         self.canvas.pack(side=tk.TOP)
-        self.canvas.bind("<Button-1>", self.on_left_click)  # 좌클릭
-        self.canvas.bind("<Button-3>", self.on_right_click)  # 우클릭
+        self.canvas.bind("<Button-1>", self.on_left_click)
+        self.canvas.bind("<Button-3>", self.on_right_click)
 
         # 버튼 프레임 (하단에 고정)
         self.button_frame = tk.Frame(root)
         self.button_frame.pack(side=tk.BOTTOM, pady=10)
+        tk.Button(self.button_frame, text="Label", command=self.check_label).pack(side=tk.LEFT, padx=5)  # 새 버튼 추가
+        tk.Button(self.button_frame, text="Size", command=self.check_size).pack(side=tk.LEFT, padx=5)
         tk.Button(self.button_frame, text="Previous", command=self.prev_image).pack(side=tk.LEFT, padx=5)
         tk.Button(self.button_frame, text="Next", command=self.next_image).pack(side=tk.LEFT, padx=5)
 
         # 단축키 바인딩
         self.root.bind("m", lambda event: self.start_modify(self.last_clicked_idx) if self.last_clicked_idx is not None else None)
         self.root.bind("r", lambda event: self.remove_bbox(self.last_clicked_idx) if self.last_clicked_idx is not None else None)
-        self.root.bind("a", lambda event: self.start_add())  # 'A' 키로 Add 활성화
+        self.root.bind("a", lambda event: self.start_add())
         self.root.bind("<Left>", lambda event: self.prev_image())
         self.root.bind("<Right>", lambda event: self.next_image())
 
@@ -178,20 +172,19 @@ class GUI:
         self.modify_mode = False
         self.modify_points = []
         self.temp_lines = []
-        self.action = None  # 'modify' 또는 'add' 구분
+        self.action = None
+        self.width = 0  # 초기 너비
+        self.height = 0  # 초기 높이
 
         # 초기 이미지 로드
         self.load_image()
 
     def load_progress(self):
         try:
-            # progress.json 파일이 존재하면 읽기
             if os.path.exists(self.progress_file):
                 with open(self.progress_file, 'r') as f:
                     progress = json.load(f)
-
-                # 기존 단일 객체 형식인지 확인하고 변환
-                if 'base_path' in progress:  # 이전 형식이 단일 객체일 경우
+                if 'base_path' in progress:
                     old_progress = {
                         progress['base_path']: {
                             'current_idx': progress['current_idx'],
@@ -199,40 +192,33 @@ class GUI:
                         }
                     }
                     progress = old_progress
-                    # 변환 후 저장
                     with open(self.progress_file, 'w') as f:
                         json.dump(progress, f)
                     logging.info("Converted old progress format to new dictionary format")
             else:
-                progress = {}  # 파일이 없으면 빈 딕셔너리 생성
+                progress = {}
 
-            # 현재 base_path에 대한 진행 상황 확인
             if self.base_path in progress and progress[self.base_path].get('total_files') == len(self.images):
                 self.current_idx = progress[self.base_path].get('current_idx', 0)
             else:
-                # 새로운 경로라면 0으로 초기화하고 추가
                 progress[self.base_path] = {
                     'current_idx': 0,
                     'total_files': len(self.images)
                 }
                 self.current_idx = 0
-                # 변경된 progress를 즉시 저장
                 with open(self.progress_file, 'w') as f:
                     json.dump(progress, f)
                 logging.info(f"Initialized new path {self.base_path} in progress.json")
         except Exception as e:
             print(f"Error loading progress: {e}")
             logging.error(f"Progress load error: {e}")
-            self.current_idx = 0  # 예외 발생 시 기본값 0
+            self.current_idx = 0
 
     def save_progress(self):
         try:
-            # 기존 progress.json 읽기 (없으면 빈 딕셔너리)
             if os.path.exists(self.progress_file):
                 with open(self.progress_file, 'r') as f:
                     progress = json.load(f)
-
-                # 기존 단일 객체 형식인지 확인하고 변환 (호환성 유지)
                 if 'base_path' in progress:
                     old_progress = {
                         progress['base_path']: {
@@ -244,13 +230,11 @@ class GUI:
             else:
                 progress = {}
 
-            # 현재 경로의 진행 상황 업데이트
             progress[self.base_path] = {
                 'current_idx': self.current_idx,
                 'total_files': len(self.images)
             }
 
-            # 수정된 progress를 저장
             with open(self.progress_file, 'w') as f:
                 json.dump(progress, f)
             logging.info(f"Saved progress: {self.current_idx}/{len(self.images)} for {self.base_path}")
@@ -302,6 +286,75 @@ class GUI:
             self.current_idx += 1
             self.load_image()
             self.save_progress()
+
+    def check_size(self):
+        """현재 이미지의 크기를 표시"""
+        if self.width and self.height:
+            messagebox.showinfo("Image Size", f"Width: {self.width}px, Height: {self.height}px")
+        else:
+            messagebox.showwarning("Image Size", "Image not loaded yet or size unavailable.")
+
+    def check_label(self):
+    # 현재 이미지의 라벨 값을 커스텀 창에 한 줄에 표시"""
+        if not self.images:
+            messagebox.showerror("Error", "No images found in dataset folder!")
+            return
+
+        # 현재 이미지 이름
+        img_name = self.images[self.current_idx]
+        label_path = os.path.join(self.base_path, 'labels/train', img_name + '.txt')
+
+        try:
+            if not os.path.exists(label_path):
+                messagebox.showwarning("Label Info", f"Label file not found for {img_name}")
+                return
+
+            # 라벨 파일 읽기
+            with open(label_path, 'r') as f:
+                lines = f.readlines()
+
+            if not lines:
+                messagebox.showinfo("Label Info", f"No labels found for {img_name}")
+                return
+
+            # 라벨 정보 포맷팅 (한 줄에 표시)
+            label_info = [f"Labels for {img_name}: "]
+            for idx, line in enumerate(lines):
+                parts = list(map(float, line.strip().split()))
+                if len(parts) != 5:
+                    label_info.append(f"Box {idx}: Invalid format | ")
+                    continue
+                class_id, x, y, w, h = parts
+                class_name = class_mapping.get(int(class_id), f"Unknown Class ({int(class_id)})")
+                label_info.append(f"Box {idx}: {class_name} (x={x:.3f}, y={y:.3f}, w={w:.3f}, h={h:.3f}) | ")
+
+            # 커스텀 창 생성
+            label_window = tk.Toplevel(self.root)
+            label_window.title("Label Info")
+            label_window.geometry("800x200")  # 창 크기 수동 설정 (너비 800, 높이 200)
+
+            # 스크롤바와 Text 위젯 결합
+            text_frame = tk.Frame(label_window)
+            text_frame.pack(fill=tk.BOTH, expand=True)
+
+            scrollbar = tk.Scrollbar(text_frame)
+            scrollbar.pack(side=tk.RIGHT, fill=tk.Y)
+
+            text_widget = tk.Text(text_frame, wrap=tk.NONE, yscrollcommand=scrollbar.set, height=5)
+            text_widget.pack(side=tk.LEFT, fill=tk.BOTH, expand=True)
+            scrollbar.config(command=text_widget.yview)
+
+            text_widget.insert(tk.END, "\n".join(label_info))
+            text_widget.config(state=tk.DISABLED)  # 텍스트 위젯 읽기 전용 설정
+
+            # 창 닫기 버튼
+            tk.Button(label_window, text="Close", command=label_window.destroy).pack(pady=5)
+
+            # Esc 키 바인딩
+            label_window.bind("<Escape>", lambda event: label_window.destroy())
+        except Exception as e:
+            messagebox.showerror("Error", f"Failed to read label file: {e}")
+            logging.error(f"Error reading label file for {img_name}: {e}")
 
     def on_left_click(self, event):
         if self.modify_mode:
@@ -364,7 +417,6 @@ class GUI:
 
     def start_add(self):
         self.hide_popup()
-        # 클래스 선택 다이얼로그에 class_mapping 표시
         class_options = "\n".join([f"{k}: {v}" for k, v in class_mapping.items()])
         class_input = simpledialog.askstring(
             "Class Input", 
@@ -373,8 +425,8 @@ class GUI:
         )
         if class_input is None or not class_input.isdigit() or int(class_input) not in class_mapping:
             print("Add cancelled: No valid class number provided")
-            return  # 취소 시 추가 모드로 들어가지 않음
-        self.new_class = float(class_input)  # float 형태로 저장
+            return
+        self.new_class = float(class_input)
         
         self.modify_mode = True
         self.modify_points = []
@@ -412,7 +464,6 @@ class GUI:
         new_bbox = self.bbox[:]
         converted = self.refine.convert(self.width, self.height, coordinates)
         if converted:
-            # float 형태로 클래스 번호 유지
             new_bbox[self.modify_idx] = [float(self.bbox[self.modify_idx][0]), *converted]
             self.refine.update_labels(new_bbox)
             self.bbox = new_bbox
@@ -436,7 +487,6 @@ class GUI:
 
         converted = self.refine.convert(self.width, self.height, coordinates)
         if converted:
-            # float 형태로 새로운 바운딩 박스 추가
             new_bbox = self.bbox + [[self.new_class, *converted]]
             self.refine.update_labels(new_bbox)
             self.bbox = new_bbox

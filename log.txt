@@ -2773,3 +2773,1292 @@
 2025-03-18 16:33:44,408 - INFO - Drew bounding boxes for 240826211010_left_frame_0006_crop_8
 2025-03-18 16:33:44,415 - INFO - Saved progress: 22/14845 for /home/sophie/Desktop/Cheonan_Test
 2025-03-18 16:37:57,637 - INFO - Saved progress: 22/14845 for /home/sophie/Desktop/Cheonan_Test
+2025-03-19 09:46:29,983 - INFO - Initialized new path ../Fisheye8K_all_including_train&test/train in progress.json
+2025-03-19 09:46:30,016 - INFO - Successfully loaded image and labels for camera3_N_333 from ../Fisheye8K_all_including_train&test/train/images/camera3_N_333.png
+2025-03-19 09:46:30,018 - INFO - Drew bounding boxes for camera3_N_333
+2025-03-19 09:46:36,436 - INFO - Successfully loaded image and labels for camera3_N_729 from ../Fisheye8K_all_including_train&test/train/images/camera3_N_729.png
+2025-03-19 09:46:36,436 - INFO - Drew bounding boxes for camera3_N_729
+2025-03-19 09:46:36,452 - INFO - Saved progress: 1/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:46:44,595 - INFO - Successfully loaded image and labels for camera11_M_140 from ../Fisheye8K_all_including_train&test/train/images/camera11_M_140.png
+2025-03-19 09:46:44,595 - INFO - Drew bounding boxes for camera11_M_140
+2025-03-19 09:46:44,617 - INFO - Saved progress: 2/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:46:49,318 - INFO - Successfully loaded image and labels for camera13_A_309 from ../Fisheye8K_all_including_train&test/train/images/camera13_A_309.png
+2025-03-19 09:46:49,319 - INFO - Drew bounding boxes for camera13_A_309
+2025-03-19 09:46:49,382 - INFO - Saved progress: 3/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:46:52,745 - INFO - Successfully loaded image and labels for camera13_A_75 from ../Fisheye8K_all_including_train&test/train/images/camera13_A_75.png
+2025-03-19 09:46:52,746 - INFO - Drew bounding boxes for camera13_A_75
+2025-03-19 09:46:52,804 - INFO - Saved progress: 4/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:46:53,582 - INFO - Successfully loaded image and labels for camera8_A_550 from ../Fisheye8K_all_including_train&test/train/images/camera8_A_550.png
+2025-03-19 09:46:53,583 - INFO - Drew bounding boxes for camera8_A_550
+2025-03-19 09:46:53,601 - INFO - Saved progress: 5/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:46:57,451 - INFO - Successfully loaded image and labels for camera13_A_429 from ../Fisheye8K_all_including_train&test/train/images/camera13_A_429.png
+2025-03-19 09:46:57,452 - INFO - Drew bounding boxes for camera13_A_429
+2025-03-19 09:46:57,515 - INFO - Saved progress: 6/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:46:58,005 - INFO - Successfully loaded image and labels for camera8_A_550 from ../Fisheye8K_all_including_train&test/train/images/camera8_A_550.png
+2025-03-19 09:46:58,005 - INFO - Drew bounding boxes for camera8_A_550
+2025-03-19 09:46:58,022 - INFO - Saved progress: 5/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:46:59,270 - INFO - Successfully loaded image and labels for camera13_A_75 from ../Fisheye8K_all_including_train&test/train/images/camera13_A_75.png
+2025-03-19 09:46:59,271 - INFO - Drew bounding boxes for camera13_A_75
+2025-03-19 09:46:59,331 - INFO - Saved progress: 4/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:00,668 - INFO - Successfully loaded image and labels for camera13_A_309 from ../Fisheye8K_all_including_train&test/train/images/camera13_A_309.png
+2025-03-19 09:47:00,670 - INFO - Drew bounding boxes for camera13_A_309
+2025-03-19 09:47:00,719 - INFO - Saved progress: 3/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:01,422 - INFO - Successfully loaded image and labels for camera13_A_75 from ../Fisheye8K_all_including_train&test/train/images/camera13_A_75.png
+2025-03-19 09:47:01,423 - INFO - Drew bounding boxes for camera13_A_75
+2025-03-19 09:47:01,469 - INFO - Saved progress: 4/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:01,884 - INFO - Successfully loaded image and labels for camera8_A_550 from ../Fisheye8K_all_including_train&test/train/images/camera8_A_550.png
+2025-03-19 09:47:01,885 - INFO - Drew bounding boxes for camera8_A_550
+2025-03-19 09:47:01,902 - INFO - Saved progress: 5/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:02,501 - INFO - Successfully loaded image and labels for camera13_A_429 from ../Fisheye8K_all_including_train&test/train/images/camera13_A_429.png
+2025-03-19 09:47:02,502 - INFO - Drew bounding boxes for camera13_A_429
+2025-03-19 09:47:02,554 - INFO - Saved progress: 6/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:03,544 - INFO - Successfully loaded image and labels for camera14_A_479 from ../Fisheye8K_all_including_train&test/train/images/camera14_A_479.png
+2025-03-19 09:47:03,545 - INFO - Drew bounding boxes for camera14_A_479
+2025-03-19 09:47:03,585 - INFO - Saved progress: 7/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:03,867 - INFO - Successfully loaded image and labels for camera10_A_416 from ../Fisheye8K_all_including_train&test/train/images/camera10_A_416.png
+2025-03-19 09:47:03,867 - INFO - Drew bounding boxes for camera10_A_416
+2025-03-19 09:47:03,884 - INFO - Saved progress: 8/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:04,344 - INFO - Successfully loaded image and labels for camera14_A_152 from ../Fisheye8K_all_including_train&test/train/images/camera14_A_152.png
+2025-03-19 09:47:04,344 - INFO - Drew bounding boxes for camera14_A_152
+2025-03-19 09:47:04,368 - INFO - Saved progress: 9/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:04,821 - INFO - Successfully loaded image and labels for camera3_A_390 from ../Fisheye8K_all_including_train&test/train/images/camera3_A_390.png
+2025-03-19 09:47:04,821 - INFO - Drew bounding boxes for camera3_A_390
+2025-03-19 09:47:04,832 - INFO - Saved progress: 10/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:05,511 - INFO - Successfully loaded image and labels for camera14_A_254 from ../Fisheye8K_all_including_train&test/train/images/camera14_A_254.png
+2025-03-19 09:47:05,512 - INFO - Drew bounding boxes for camera14_A_254
+2025-03-19 09:47:05,528 - INFO - Saved progress: 11/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:06,025 - INFO - Successfully loaded image and labels for camera3_N_995 from ../Fisheye8K_all_including_train&test/train/images/camera3_N_995.png
+2025-03-19 09:47:06,026 - INFO - Drew bounding boxes for camera3_N_995
+2025-03-19 09:47:06,037 - INFO - Saved progress: 12/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:06,333 - INFO - Successfully loaded image and labels for camera3_A_25 from ../Fisheye8K_all_including_train&test/train/images/camera3_A_25.png
+2025-03-19 09:47:06,334 - INFO - Drew bounding boxes for camera3_A_25
+2025-03-19 09:47:06,346 - INFO - Saved progress: 13/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:07,491 - INFO - Successfully loaded image and labels for camera11_M_38 from ../Fisheye8K_all_including_train&test/train/images/camera11_M_38.png
+2025-03-19 09:47:07,491 - INFO - Drew bounding boxes for camera11_M_38
+2025-03-19 09:47:07,503 - INFO - Saved progress: 14/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:07,870 - INFO - Successfully loaded image and labels for camera8_A_239 from ../Fisheye8K_all_including_train&test/train/images/camera8_A_239.png
+2025-03-19 09:47:07,871 - INFO - Drew bounding boxes for camera8_A_239
+2025-03-19 09:47:07,884 - INFO - Saved progress: 15/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:08,354 - INFO - Successfully loaded image and labels for camera11_M_38 from ../Fisheye8K_all_including_train&test/train/images/camera11_M_38.png
+2025-03-19 09:47:08,355 - INFO - Drew bounding boxes for camera11_M_38
+2025-03-19 09:47:08,367 - INFO - Saved progress: 14/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:10,116 - INFO - Successfully loaded image and labels for camera8_A_239 from ../Fisheye8K_all_including_train&test/train/images/camera8_A_239.png
+2025-03-19 09:47:10,117 - INFO - Drew bounding boxes for camera8_A_239
+2025-03-19 09:47:10,129 - INFO - Saved progress: 15/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:10,604 - INFO - Successfully loaded image and labels for camera3_A_237 from ../Fisheye8K_all_including_train&test/train/images/camera3_A_237.png
+2025-03-19 09:47:10,605 - INFO - Drew bounding boxes for camera3_A_237
+2025-03-19 09:47:10,617 - INFO - Saved progress: 16/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:10,988 - INFO - Successfully loaded image and labels for camera9_A_373 from ../Fisheye8K_all_including_train&test/train/images/camera9_A_373.png
+2025-03-19 09:47:10,989 - INFO - Drew bounding boxes for camera9_A_373
+2025-03-19 09:47:11,001 - INFO - Saved progress: 17/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:11,299 - INFO - Successfully loaded image and labels for camera3_A_237 from ../Fisheye8K_all_including_train&test/train/images/camera3_A_237.png
+2025-03-19 09:47:11,300 - INFO - Drew bounding boxes for camera3_A_237
+2025-03-19 09:47:11,312 - INFO - Saved progress: 16/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:11,644 - INFO - Successfully loaded image and labels for camera8_A_239 from ../Fisheye8K_all_including_train&test/train/images/camera8_A_239.png
+2025-03-19 09:47:11,645 - INFO - Drew bounding boxes for camera8_A_239
+2025-03-19 09:47:11,657 - INFO - Saved progress: 15/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:12,075 - INFO - Successfully loaded image and labels for camera3_A_237 from ../Fisheye8K_all_including_train&test/train/images/camera3_A_237.png
+2025-03-19 09:47:12,076 - INFO - Drew bounding boxes for camera3_A_237
+2025-03-19 09:47:12,088 - INFO - Saved progress: 16/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:12,291 - INFO - Successfully loaded image and labels for camera9_A_373 from ../Fisheye8K_all_including_train&test/train/images/camera9_A_373.png
+2025-03-19 09:47:12,292 - INFO - Drew bounding boxes for camera9_A_373
+2025-03-19 09:47:12,304 - INFO - Saved progress: 17/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:12,576 - INFO - Successfully loaded image and labels for camera14_A_402 from ../Fisheye8K_all_including_train&test/train/images/camera14_A_402.png
+2025-03-19 09:47:12,576 - INFO - Drew bounding boxes for camera14_A_402
+2025-03-19 09:47:12,595 - INFO - Saved progress: 18/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:13,043 - INFO - Successfully loaded image and labels for camera9_A_373 from ../Fisheye8K_all_including_train&test/train/images/camera9_A_373.png
+2025-03-19 09:47:13,043 - INFO - Drew bounding boxes for camera9_A_373
+2025-03-19 09:47:13,055 - INFO - Saved progress: 17/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:13,445 - INFO - Successfully loaded image and labels for camera14_A_402 from ../Fisheye8K_all_including_train&test/train/images/camera14_A_402.png
+2025-03-19 09:47:13,446 - INFO - Drew bounding boxes for camera14_A_402
+2025-03-19 09:47:13,465 - INFO - Saved progress: 18/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:14,036 - INFO - Successfully loaded image and labels for camera9_A_76 from ../Fisheye8K_all_including_train&test/train/images/camera9_A_76.png
+2025-03-19 09:47:14,037 - INFO - Drew bounding boxes for camera9_A_76
+2025-03-19 09:47:14,049 - INFO - Saved progress: 19/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:14,565 - INFO - Successfully loaded image and labels for camera3_A_28 from ../Fisheye8K_all_including_train&test/train/images/camera3_A_28.png
+2025-03-19 09:47:14,566 - INFO - Drew bounding boxes for camera3_A_28
+2025-03-19 09:47:14,579 - INFO - Saved progress: 20/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:14,898 - INFO - Successfully loaded image and labels for camera3_N_1081 from ../Fisheye8K_all_including_train&test/train/images/camera3_N_1081.png
+2025-03-19 09:47:14,899 - INFO - Drew bounding boxes for camera3_N_1081
+2025-03-19 09:47:14,912 - INFO - Saved progress: 21/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:15,252 - INFO - Successfully loaded image and labels for camera9_A_170 from ../Fisheye8K_all_including_train&test/train/images/camera9_A_170.png
+2025-03-19 09:47:15,253 - INFO - Drew bounding boxes for camera9_A_170
+2025-03-19 09:47:15,264 - INFO - Saved progress: 22/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:15,657 - INFO - Successfully loaded image and labels for camera3_N_811 from ../Fisheye8K_all_including_train&test/train/images/camera3_N_811.png
+2025-03-19 09:47:15,658 - INFO - Drew bounding boxes for camera3_N_811
+2025-03-19 09:47:15,669 - INFO - Saved progress: 23/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:16,103 - INFO - Successfully loaded image and labels for camera13_A_226 from ../Fisheye8K_all_including_train&test/train/images/camera13_A_226.png
+2025-03-19 09:47:16,104 - INFO - Drew bounding boxes for camera13_A_226
+2025-03-19 09:47:16,154 - INFO - Saved progress: 24/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:16,824 - INFO - Successfully loaded image and labels for camera3_N_811 from ../Fisheye8K_all_including_train&test/train/images/camera3_N_811.png
+2025-03-19 09:47:16,825 - INFO - Drew bounding boxes for camera3_N_811
+2025-03-19 09:47:16,842 - INFO - Saved progress: 23/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:17,444 - INFO - Successfully loaded image and labels for camera13_A_226 from ../Fisheye8K_all_including_train&test/train/images/camera13_A_226.png
+2025-03-19 09:47:17,445 - INFO - Drew bounding boxes for camera13_A_226
+2025-03-19 09:47:17,499 - INFO - Saved progress: 24/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:18,170 - INFO - Successfully loaded image and labels for camera3_N_54 from ../Fisheye8K_all_including_train&test/train/images/camera3_N_54.png
+2025-03-19 09:47:18,171 - INFO - Drew bounding boxes for camera3_N_54
+2025-03-19 09:47:18,187 - INFO - Saved progress: 25/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:18,663 - INFO - Successfully loaded image and labels for camera13_A_767 from ../Fisheye8K_all_including_train&test/train/images/camera13_A_767.png
+2025-03-19 09:47:18,665 - INFO - Drew bounding boxes for camera13_A_767
+2025-03-19 09:47:18,718 - INFO - Saved progress: 26/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:19,178 - INFO - Successfully loaded image and labels for camera3_N_1102 from ../Fisheye8K_all_including_train&test/train/images/camera3_N_1102.png
+2025-03-19 09:47:19,179 - INFO - Drew bounding boxes for camera3_N_1102
+2025-03-19 09:47:19,199 - INFO - Saved progress: 27/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:19,542 - INFO - Successfully loaded image and labels for camera8_A_503 from ../Fisheye8K_all_including_train&test/train/images/camera8_A_503.png
+2025-03-19 09:47:19,542 - INFO - Drew bounding boxes for camera8_A_503
+2025-03-19 09:47:19,558 - INFO - Saved progress: 28/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:19,859 - INFO - Successfully loaded image and labels for camera10_A_456 from ../Fisheye8K_all_including_train&test/train/images/camera10_A_456.png
+2025-03-19 09:47:19,859 - INFO - Drew bounding boxes for camera10_A_456
+2025-03-19 09:47:19,888 - INFO - Saved progress: 29/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:20,336 - INFO - Successfully loaded image and labels for camera14_A_497 from ../Fisheye8K_all_including_train&test/train/images/camera14_A_497.png
+2025-03-19 09:47:20,336 - INFO - Drew bounding boxes for camera14_A_497
+2025-03-19 09:47:20,364 - INFO - Saved progress: 30/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:20,852 - INFO - Successfully loaded image and labels for camera9_A_125 from ../Fisheye8K_all_including_train&test/train/images/camera9_A_125.png
+2025-03-19 09:47:20,853 - INFO - Drew bounding boxes for camera9_A_125
+2025-03-19 09:47:20,869 - INFO - Saved progress: 31/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:21,297 - INFO - Successfully loaded image and labels for camera3_N_397 from ../Fisheye8K_all_including_train&test/train/images/camera3_N_397.png
+2025-03-19 09:47:21,297 - INFO - Drew bounding boxes for camera3_N_397
+2025-03-19 09:47:21,316 - INFO - Saved progress: 32/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:21,860 - INFO - Successfully loaded image and labels for camera5_A_23 from ../Fisheye8K_all_including_train&test/train/images/camera5_A_23.png
+2025-03-19 09:47:21,860 - INFO - Drew bounding boxes for camera5_A_23
+2025-03-19 09:47:21,875 - INFO - Saved progress: 33/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:22,234 - INFO - Successfully loaded image and labels for camera11_M_409 from ../Fisheye8K_all_including_train&test/train/images/camera11_M_409.png
+2025-03-19 09:47:22,235 - INFO - Drew bounding boxes for camera11_M_409
+2025-03-19 09:47:22,250 - INFO - Saved progress: 34/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:23,108 - INFO - Successfully loaded image and labels for camera9_A_289 from ../Fisheye8K_all_including_train&test/train/images/camera9_A_289.png
+2025-03-19 09:47:23,109 - INFO - Drew bounding boxes for camera9_A_289
+2025-03-19 09:47:23,125 - INFO - Saved progress: 35/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:23,715 - INFO - Successfully loaded image and labels for camera3_A_161 from ../Fisheye8K_all_including_train&test/train/images/camera3_A_161.png
+2025-03-19 09:47:23,716 - INFO - Drew bounding boxes for camera3_A_161
+2025-03-19 09:47:23,733 - INFO - Saved progress: 36/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:23,964 - INFO - Successfully loaded image and labels for camera9_A_289 from ../Fisheye8K_all_including_train&test/train/images/camera9_A_289.png
+2025-03-19 09:47:23,964 - INFO - Drew bounding boxes for camera9_A_289
+2025-03-19 09:47:23,983 - INFO - Saved progress: 35/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:24,169 - INFO - Successfully loaded image and labels for camera11_M_409 from ../Fisheye8K_all_including_train&test/train/images/camera11_M_409.png
+2025-03-19 09:47:24,169 - INFO - Drew bounding boxes for camera11_M_409
+2025-03-19 09:47:24,185 - INFO - Saved progress: 34/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:24,811 - INFO - Successfully loaded image and labels for camera5_A_23 from ../Fisheye8K_all_including_train&test/train/images/camera5_A_23.png
+2025-03-19 09:47:24,812 - INFO - Drew bounding boxes for camera5_A_23
+2025-03-19 09:47:24,829 - INFO - Saved progress: 33/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:25,217 - INFO - Successfully loaded image and labels for camera11_M_409 from ../Fisheye8K_all_including_train&test/train/images/camera11_M_409.png
+2025-03-19 09:47:25,217 - INFO - Drew bounding boxes for camera11_M_409
+2025-03-19 09:47:25,233 - INFO - Saved progress: 34/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:25,435 - INFO - Successfully loaded image and labels for camera9_A_289 from ../Fisheye8K_all_including_train&test/train/images/camera9_A_289.png
+2025-03-19 09:47:25,435 - INFO - Drew bounding boxes for camera9_A_289
+2025-03-19 09:47:25,451 - INFO - Saved progress: 35/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:25,755 - INFO - Successfully loaded image and labels for camera3_A_161 from ../Fisheye8K_all_including_train&test/train/images/camera3_A_161.png
+2025-03-19 09:47:25,755 - INFO - Drew bounding boxes for camera3_A_161
+2025-03-19 09:47:25,772 - INFO - Saved progress: 36/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:26,140 - INFO - Successfully loaded image and labels for camera5_A_85 from ../Fisheye8K_all_including_train&test/train/images/camera5_A_85.png
+2025-03-19 09:47:26,140 - INFO - Drew bounding boxes for camera5_A_85
+2025-03-19 09:47:26,164 - INFO - Saved progress: 37/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:26,550 - INFO - Successfully loaded image and labels for camera13_A_692 from ../Fisheye8K_all_including_train&test/train/images/camera13_A_692.png
+2025-03-19 09:47:26,551 - INFO - Drew bounding boxes for camera13_A_692
+2025-03-19 09:47:26,605 - INFO - Saved progress: 38/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:27,086 - INFO - Successfully loaded image and labels for camera13_A_762 from ../Fisheye8K_all_including_train&test/train/images/camera13_A_762.png
+2025-03-19 09:47:27,087 - INFO - Drew bounding boxes for camera13_A_762
+2025-03-19 09:47:27,136 - INFO - Saved progress: 39/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:27,596 - INFO - Successfully loaded image and labels for camera9_A_327 from ../Fisheye8K_all_including_train&test/train/images/camera9_A_327.png
+2025-03-19 09:47:27,596 - INFO - Drew bounding boxes for camera9_A_327
+2025-03-19 09:47:27,618 - INFO - Saved progress: 40/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:28,082 - INFO - Successfully loaded image and labels for camera10_A_185 from ../Fisheye8K_all_including_train&test/train/images/camera10_A_185.png
+2025-03-19 09:47:28,083 - INFO - Drew bounding boxes for camera10_A_185
+2025-03-19 09:47:28,100 - INFO - Saved progress: 41/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:28,598 - INFO - Successfully loaded image and labels for camera14_A_382 from ../Fisheye8K_all_including_train&test/train/images/camera14_A_382.png
+2025-03-19 09:47:28,599 - INFO - Drew bounding boxes for camera14_A_382
+2025-03-19 09:47:28,627 - INFO - Saved progress: 42/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:29,344 - INFO - Successfully loaded image and labels for camera3_A_252 from ../Fisheye8K_all_including_train&test/train/images/camera3_A_252.png
+2025-03-19 09:47:29,344 - INFO - Drew bounding boxes for camera3_A_252
+2025-03-19 09:47:29,356 - INFO - Saved progress: 43/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:29,693 - INFO - Successfully loaded image and labels for camera14_A_382 from ../Fisheye8K_all_including_train&test/train/images/camera14_A_382.png
+2025-03-19 09:47:29,694 - INFO - Drew bounding boxes for camera14_A_382
+2025-03-19 09:47:29,712 - INFO - Saved progress: 42/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:38,315 - INFO - Successfully loaded image and labels for camera3_A_252 from ../Fisheye8K_all_including_train&test/train/images/camera3_A_252.png
+2025-03-19 09:47:38,316 - INFO - Drew bounding boxes for camera3_A_252
+2025-03-19 09:47:38,334 - INFO - Saved progress: 43/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:38,962 - INFO - Successfully loaded image and labels for camera10_A_423 from ../Fisheye8K_all_including_train&test/train/images/camera10_A_423.png
+2025-03-19 09:47:38,963 - INFO - Drew bounding boxes for camera10_A_423
+2025-03-19 09:47:38,974 - INFO - Saved progress: 44/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:39,426 - INFO - Successfully loaded image and labels for camera3_N_77 from ../Fisheye8K_all_including_train&test/train/images/camera3_N_77.png
+2025-03-19 09:47:39,426 - INFO - Drew bounding boxes for camera3_N_77
+2025-03-19 09:47:39,437 - INFO - Saved progress: 45/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:39,882 - INFO - Successfully loaded image and labels for camera3_N_975 from ../Fisheye8K_all_including_train&test/train/images/camera3_N_975.png
+2025-03-19 09:47:39,882 - INFO - Drew bounding boxes for camera3_N_975
+2025-03-19 09:47:39,900 - INFO - Saved progress: 46/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:40,280 - INFO - Successfully loaded image and labels for camera13_A_495 from ../Fisheye8K_all_including_train&test/train/images/camera13_A_495.png
+2025-03-19 09:47:40,281 - INFO - Drew bounding boxes for camera13_A_495
+2025-03-19 09:47:40,318 - INFO - Saved progress: 47/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:40,902 - INFO - Successfully loaded image and labels for camera13_A_304 from ../Fisheye8K_all_including_train&test/train/images/camera13_A_304.png
+2025-03-19 09:47:40,903 - INFO - Drew bounding boxes for camera13_A_304
+2025-03-19 09:47:40,935 - INFO - Saved progress: 48/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:41,342 - INFO - Successfully loaded image and labels for camera14_A_52 from ../Fisheye8K_all_including_train&test/train/images/camera14_A_52.png
+2025-03-19 09:47:41,342 - INFO - Drew bounding boxes for camera14_A_52
+2025-03-19 09:47:41,362 - INFO - Saved progress: 49/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:41,705 - INFO - Successfully loaded image and labels for camera3_N_315 from ../Fisheye8K_all_including_train&test/train/images/camera3_N_315.png
+2025-03-19 09:47:41,706 - INFO - Drew bounding boxes for camera3_N_315
+2025-03-19 09:47:41,718 - INFO - Saved progress: 50/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:42,067 - INFO - Successfully loaded image and labels for camera3_A_270 from ../Fisheye8K_all_including_train&test/train/images/camera3_A_270.png
+2025-03-19 09:47:42,068 - INFO - Drew bounding boxes for camera3_A_270
+2025-03-19 09:47:42,080 - INFO - Saved progress: 51/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:42,470 - INFO - Successfully loaded image and labels for camera13_A_413 from ../Fisheye8K_all_including_train&test/train/images/camera13_A_413.png
+2025-03-19 09:47:42,471 - INFO - Drew bounding boxes for camera13_A_413
+2025-03-19 09:47:42,508 - INFO - Saved progress: 52/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:42,797 - INFO - Successfully loaded image and labels for camera8_A_225 from ../Fisheye8K_all_including_train&test/train/images/camera8_A_225.png
+2025-03-19 09:47:42,797 - INFO - Drew bounding boxes for camera8_A_225
+2025-03-19 09:47:42,812 - INFO - Saved progress: 53/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:43,223 - INFO - Successfully loaded image and labels for camera14_A_34 from ../Fisheye8K_all_including_train&test/train/images/camera14_A_34.png
+2025-03-19 09:47:43,223 - INFO - Drew bounding boxes for camera14_A_34
+2025-03-19 09:47:43,245 - INFO - Saved progress: 54/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:43,537 - INFO - Successfully loaded image and labels for camera3_N_170 from ../Fisheye8K_all_including_train&test/train/images/camera3_N_170.png
+2025-03-19 09:47:43,538 - INFO - Drew bounding boxes for camera3_N_170
+2025-03-19 09:47:43,550 - INFO - Saved progress: 55/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:43,860 - INFO - Successfully loaded image and labels for camera3_A_218 from ../Fisheye8K_all_including_train&test/train/images/camera3_A_218.png
+2025-03-19 09:47:43,860 - INFO - Drew bounding boxes for camera3_A_218
+2025-03-19 09:47:43,872 - INFO - Saved progress: 56/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:44,097 - INFO - Successfully loaded image and labels for camera3_N_370 from ../Fisheye8K_all_including_train&test/train/images/camera3_N_370.png
+2025-03-19 09:47:44,097 - INFO - Drew bounding boxes for camera3_N_370
+2025-03-19 09:47:44,110 - INFO - Saved progress: 57/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:44,340 - INFO - Successfully loaded image and labels for camera3_A_229 from ../Fisheye8K_all_including_train&test/train/images/camera3_A_229.png
+2025-03-19 09:47:44,341 - INFO - Drew bounding boxes for camera3_A_229
+2025-03-19 09:47:44,353 - INFO - Saved progress: 58/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:44,587 - INFO - Successfully loaded image and labels for camera9_A_229 from ../Fisheye8K_all_including_train&test/train/images/camera9_A_229.png
+2025-03-19 09:47:44,588 - INFO - Drew bounding boxes for camera9_A_229
+2025-03-19 09:47:44,600 - INFO - Saved progress: 59/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:44,785 - INFO - Successfully loaded image and labels for camera3_N_4 from ../Fisheye8K_all_including_train&test/train/images/camera3_N_4.png
+2025-03-19 09:47:44,786 - INFO - Drew bounding boxes for camera3_N_4
+2025-03-19 09:47:44,797 - INFO - Saved progress: 60/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:45,025 - INFO - Successfully loaded image and labels for camera3_N_1194 from ../Fisheye8K_all_including_train&test/train/images/camera3_N_1194.png
+2025-03-19 09:47:45,026 - INFO - Drew bounding boxes for camera3_N_1194
+2025-03-19 09:47:45,037 - INFO - Saved progress: 61/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:45,235 - INFO - Successfully loaded image and labels for camera3_A_20 from ../Fisheye8K_all_including_train&test/train/images/camera3_A_20.png
+2025-03-19 09:47:45,236 - INFO - Drew bounding boxes for camera3_A_20
+2025-03-19 09:47:45,248 - INFO - Saved progress: 62/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:45,479 - INFO - Successfully loaded image and labels for camera14_A_341 from ../Fisheye8K_all_including_train&test/train/images/camera14_A_341.png
+2025-03-19 09:47:45,480 - INFO - Drew bounding boxes for camera14_A_341
+2025-03-19 09:47:45,498 - INFO - Saved progress: 63/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:45,700 - INFO - Successfully loaded image and labels for camera5_A_38 from ../Fisheye8K_all_including_train&test/train/images/camera5_A_38.png
+2025-03-19 09:47:45,700 - INFO - Drew bounding boxes for camera5_A_38
+2025-03-19 09:47:45,711 - INFO - Saved progress: 64/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:46,249 - INFO - Successfully loaded image and labels for camera3_N_1213 from ../Fisheye8K_all_including_train&test/train/images/camera3_N_1213.png
+2025-03-19 09:47:46,249 - INFO - Drew bounding boxes for camera3_N_1213
+2025-03-19 09:47:46,263 - INFO - Saved progress: 65/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:46,804 - INFO - Successfully loaded image and labels for camera9_A_100 from ../Fisheye8K_all_including_train&test/train/images/camera9_A_100.png
+2025-03-19 09:47:46,804 - INFO - Drew bounding boxes for camera9_A_100
+2025-03-19 09:47:46,816 - INFO - Saved progress: 66/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:47,122 - INFO - Successfully loaded image and labels for camera11_M_180 from ../Fisheye8K_all_including_train&test/train/images/camera11_M_180.png
+2025-03-19 09:47:47,123 - INFO - Drew bounding boxes for camera11_M_180
+2025-03-19 09:47:47,136 - INFO - Saved progress: 67/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:47,581 - INFO - Successfully loaded image and labels for camera8_A_476 from ../Fisheye8K_all_including_train&test/train/images/camera8_A_476.png
+2025-03-19 09:47:47,582 - INFO - Drew bounding boxes for camera8_A_476
+2025-03-19 09:47:47,596 - INFO - Saved progress: 68/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:48,322 - INFO - Successfully loaded image and labels for camera3_N_701 from ../Fisheye8K_all_including_train&test/train/images/camera3_N_701.png
+2025-03-19 09:47:48,322 - INFO - Drew bounding boxes for camera3_N_701
+2025-03-19 09:47:48,334 - INFO - Saved progress: 69/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:48,691 - INFO - Successfully loaded image and labels for camera3_A_6 from ../Fisheye8K_all_including_train&test/train/images/camera3_A_6.png
+2025-03-19 09:47:48,692 - INFO - Drew bounding boxes for camera3_A_6
+2025-03-19 09:47:48,703 - INFO - Saved progress: 70/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:48,906 - INFO - Successfully loaded image and labels for camera10_A_208 from ../Fisheye8K_all_including_train&test/train/images/camera10_A_208.png
+2025-03-19 09:47:48,907 - INFO - Drew bounding boxes for camera10_A_208
+2025-03-19 09:47:48,918 - INFO - Saved progress: 71/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:49,528 - INFO - Successfully loaded image and labels for camera13_A_743 from ../Fisheye8K_all_including_train&test/train/images/camera13_A_743.png
+2025-03-19 09:47:49,530 - INFO - Drew bounding boxes for camera13_A_743
+2025-03-19 09:47:49,568 - INFO - Saved progress: 72/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:49,860 - INFO - Successfully loaded image and labels for camera13_A_773 from ../Fisheye8K_all_including_train&test/train/images/camera13_A_773.png
+2025-03-19 09:47:49,861 - INFO - Drew bounding boxes for camera13_A_773
+2025-03-19 09:47:49,892 - INFO - Saved progress: 73/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:50,181 - INFO - Successfully loaded image and labels for camera13_A_345 from ../Fisheye8K_all_including_train&test/train/images/camera13_A_345.png
+2025-03-19 09:47:50,182 - INFO - Drew bounding boxes for camera13_A_345
+2025-03-19 09:47:50,212 - INFO - Saved progress: 74/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:50,452 - INFO - Successfully loaded image and labels for camera9_A_232 from ../Fisheye8K_all_including_train&test/train/images/camera9_A_232.png
+2025-03-19 09:47:50,452 - INFO - Drew bounding boxes for camera9_A_232
+2025-03-19 09:47:50,464 - INFO - Saved progress: 75/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:50,821 - INFO - Successfully loaded image and labels for camera8_A_426 from ../Fisheye8K_all_including_train&test/train/images/camera8_A_426.png
+2025-03-19 09:47:50,822 - INFO - Drew bounding boxes for camera8_A_426
+2025-03-19 09:47:50,834 - INFO - Saved progress: 76/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:51,141 - INFO - Successfully loaded image and labels for camera18_A_26 from ../Fisheye8K_all_including_train&test/train/images/camera18_A_26.png
+2025-03-19 09:47:51,141 - INFO - Drew bounding boxes for camera18_A_26
+2025-03-19 09:47:51,153 - INFO - Saved progress: 77/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:51,431 - INFO - Successfully loaded image and labels for camera13_A_294 from ../Fisheye8K_all_including_train&test/train/images/camera13_A_294.png
+2025-03-19 09:47:51,433 - INFO - Drew bounding boxes for camera13_A_294
+2025-03-19 09:47:51,469 - INFO - Saved progress: 78/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:51,707 - INFO - Successfully loaded image and labels for camera3_A_351 from ../Fisheye8K_all_including_train&test/train/images/camera3_A_351.png
+2025-03-19 09:47:51,708 - INFO - Drew bounding boxes for camera3_A_351
+2025-03-19 09:47:51,721 - INFO - Saved progress: 79/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:52,507 - INFO - Successfully loaded image and labels for camera3_N_1135 from ../Fisheye8K_all_including_train&test/train/images/camera3_N_1135.png
+2025-03-19 09:47:52,507 - INFO - Drew bounding boxes for camera3_N_1135
+2025-03-19 09:47:52,519 - INFO - Saved progress: 80/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:52,784 - INFO - Successfully loaded image and labels for camera14_A_383 from ../Fisheye8K_all_including_train&test/train/images/camera14_A_383.png
+2025-03-19 09:47:52,785 - INFO - Drew bounding boxes for camera14_A_383
+2025-03-19 09:47:52,802 - INFO - Saved progress: 81/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:53,102 - INFO - Successfully loaded image and labels for camera13_A_340 from ../Fisheye8K_all_including_train&test/train/images/camera13_A_340.png
+2025-03-19 09:47:53,103 - INFO - Drew bounding boxes for camera13_A_340
+2025-03-19 09:47:53,138 - INFO - Saved progress: 82/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:53,537 - INFO - Successfully loaded image and labels for camera3_N_18 from ../Fisheye8K_all_including_train&test/train/images/camera3_N_18.png
+2025-03-19 09:47:53,537 - INFO - Drew bounding boxes for camera3_N_18
+2025-03-19 09:47:53,550 - INFO - Saved progress: 83/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:55,564 - INFO - Successfully loaded image and labels for camera9_A_365 from ../Fisheye8K_all_including_train&test/train/images/camera9_A_365.png
+2025-03-19 09:47:55,564 - INFO - Drew bounding boxes for camera9_A_365
+2025-03-19 09:47:55,591 - INFO - Saved progress: 84/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:56,033 - INFO - Successfully loaded image and labels for camera3_N_1147 from ../Fisheye8K_all_including_train&test/train/images/camera3_N_1147.png
+2025-03-19 09:47:56,033 - INFO - Drew bounding boxes for camera3_N_1147
+2025-03-19 09:47:56,049 - INFO - Saved progress: 85/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:56,210 - INFO - Successfully loaded image and labels for camera10_A_334 from ../Fisheye8K_all_including_train&test/train/images/camera10_A_334.png
+2025-03-19 09:47:56,210 - INFO - Drew bounding boxes for camera10_A_334
+2025-03-19 09:47:56,229 - INFO - Saved progress: 86/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:56,458 - INFO - Successfully loaded image and labels for camera10_A_64 from ../Fisheye8K_all_including_train&test/train/images/camera10_A_64.png
+2025-03-19 09:47:56,458 - INFO - Drew bounding boxes for camera10_A_64
+2025-03-19 09:47:56,474 - INFO - Saved progress: 87/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:56,833 - INFO - Successfully loaded image and labels for camera10_A_182 from ../Fisheye8K_all_including_train&test/train/images/camera10_A_182.png
+2025-03-19 09:47:56,834 - INFO - Drew bounding boxes for camera10_A_182
+2025-03-19 09:47:56,849 - INFO - Saved progress: 88/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:57,302 - INFO - Successfully loaded image and labels for camera13_A_113 from ../Fisheye8K_all_including_train&test/train/images/camera13_A_113.png
+2025-03-19 09:47:57,303 - INFO - Drew bounding boxes for camera13_A_113
+2025-03-19 09:47:57,365 - INFO - Saved progress: 89/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:57,633 - INFO - Successfully loaded image and labels for camera3_N_888 from ../Fisheye8K_all_including_train&test/train/images/camera3_N_888.png
+2025-03-19 09:47:57,633 - INFO - Drew bounding boxes for camera3_N_888
+2025-03-19 09:47:57,650 - INFO - Saved progress: 90/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:58,057 - INFO - Successfully loaded image and labels for camera3_N_237 from ../Fisheye8K_all_including_train&test/train/images/camera3_N_237.png
+2025-03-19 09:47:58,058 - INFO - Drew bounding boxes for camera3_N_237
+2025-03-19 09:47:58,079 - INFO - Saved progress: 91/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:58,366 - INFO - Successfully loaded image and labels for camera13_A_703 from ../Fisheye8K_all_including_train&test/train/images/camera13_A_703.png
+2025-03-19 09:47:58,367 - INFO - Drew bounding boxes for camera13_A_703
+2025-03-19 09:47:58,429 - INFO - Saved progress: 92/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:58,553 - INFO - Successfully loaded image and labels for camera3_N_680 from ../Fisheye8K_all_including_train&test/train/images/camera3_N_680.png
+2025-03-19 09:47:58,553 - INFO - Drew bounding boxes for camera3_N_680
+2025-03-19 09:47:58,578 - INFO - Saved progress: 93/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:59,059 - INFO - Successfully loaded image and labels for camera9_A_95 from ../Fisheye8K_all_including_train&test/train/images/camera9_A_95.png
+2025-03-19 09:47:59,060 - INFO - Drew bounding boxes for camera9_A_95
+2025-03-19 09:47:59,072 - INFO - Saved progress: 94/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:59,337 - INFO - Successfully loaded image and labels for camera3_N_187 from ../Fisheye8K_all_including_train&test/train/images/camera3_N_187.png
+2025-03-19 09:47:59,338 - INFO - Drew bounding boxes for camera3_N_187
+2025-03-19 09:47:59,350 - INFO - Saved progress: 95/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:59,553 - INFO - Successfully loaded image and labels for camera10_A_424 from ../Fisheye8K_all_including_train&test/train/images/camera10_A_424.png
+2025-03-19 09:47:59,554 - INFO - Drew bounding boxes for camera10_A_424
+2025-03-19 09:47:59,566 - INFO - Saved progress: 96/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:59,783 - INFO - Successfully loaded image and labels for camera14_A_43 from ../Fisheye8K_all_including_train&test/train/images/camera14_A_43.png
+2025-03-19 09:47:59,783 - INFO - Drew bounding boxes for camera14_A_43
+2025-03-19 09:47:59,803 - INFO - Saved progress: 97/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:47:59,990 - INFO - Successfully loaded image and labels for camera14_A_318 from ../Fisheye8K_all_including_train&test/train/images/camera14_A_318.png
+2025-03-19 09:47:59,991 - INFO - Drew bounding boxes for camera14_A_318
+2025-03-19 09:48:00,007 - INFO - Saved progress: 98/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:48:00,496 - INFO - Successfully loaded image and labels for camera3_N_904 from ../Fisheye8K_all_including_train&test/train/images/camera3_N_904.png
+2025-03-19 09:48:00,497 - INFO - Drew bounding boxes for camera3_N_904
+2025-03-19 09:48:00,515 - INFO - Saved progress: 99/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:48:00,825 - INFO - Saved progress: 99/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:49:41,223 - INFO - Successfully loaded image and labels for camera3_N_904 from ../Fisheye8K_all_including_train&test/train/images/camera3_N_904.png
+2025-03-19 09:49:41,224 - INFO - Drew bounding boxes for camera3_N_904
+2025-03-19 09:49:44,636 - INFO - Successfully loaded image and labels for camera8_A_378 from ../Fisheye8K_all_including_train&test/train/images/camera8_A_378.png
+2025-03-19 09:49:44,636 - INFO - Drew bounding boxes for camera8_A_378
+2025-03-19 09:49:44,653 - INFO - Saved progress: 100/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:49:44,836 - INFO - Successfully loaded image and labels for camera3_A_338 from ../Fisheye8K_all_including_train&test/train/images/camera3_A_338.png
+2025-03-19 09:49:44,837 - INFO - Drew bounding boxes for camera3_A_338
+2025-03-19 09:49:44,852 - INFO - Saved progress: 101/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:49:45,016 - INFO - Successfully loaded image and labels for camera10_A_22 from ../Fisheye8K_all_including_train&test/train/images/camera10_A_22.png
+2025-03-19 09:49:45,017 - INFO - Drew bounding boxes for camera10_A_22
+2025-03-19 09:49:45,030 - INFO - Saved progress: 102/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:49:45,473 - INFO - Successfully loaded image and labels for camera3_A_338 from ../Fisheye8K_all_including_train&test/train/images/camera3_A_338.png
+2025-03-19 09:49:45,474 - INFO - Drew bounding boxes for camera3_A_338
+2025-03-19 09:49:45,488 - INFO - Saved progress: 101/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:49:46,704 - INFO - Successfully loaded image and labels for camera10_A_22 from ../Fisheye8K_all_including_train&test/train/images/camera10_A_22.png
+2025-03-19 09:49:46,704 - INFO - Drew bounding boxes for camera10_A_22
+2025-03-19 09:49:46,722 - INFO - Saved progress: 102/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:49:47,480 - INFO - Successfully loaded image and labels for camera13_A_192 from ../Fisheye8K_all_including_train&test/train/images/camera13_A_192.png
+2025-03-19 09:49:47,483 - INFO - Drew bounding boxes for camera13_A_192
+2025-03-19 09:49:47,543 - INFO - Saved progress: 103/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:49:50,280 - INFO - Successfully loaded image and labels for camera13_A_404 from ../Fisheye8K_all_including_train&test/train/images/camera13_A_404.png
+2025-03-19 09:49:50,282 - INFO - Drew bounding boxes for camera13_A_404
+2025-03-19 09:49:50,343 - INFO - Saved progress: 104/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:49:51,132 - INFO - Successfully loaded image and labels for camera13_A_192 from ../Fisheye8K_all_including_train&test/train/images/camera13_A_192.png
+2025-03-19 09:49:51,133 - INFO - Drew bounding boxes for camera13_A_192
+2025-03-19 09:49:51,181 - INFO - Saved progress: 103/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:50:12,611 - INFO - Successfully loaded image and labels for camera13_A_404 from ../Fisheye8K_all_including_train&test/train/images/camera13_A_404.png
+2025-03-19 09:50:12,613 - INFO - Drew bounding boxes for camera13_A_404
+2025-03-19 09:50:12,637 - INFO - Saved progress: 104/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:50:13,538 - INFO - Successfully loaded image and labels for camera9_A_267 from ../Fisheye8K_all_including_train&test/train/images/camera9_A_267.png
+2025-03-19 09:50:13,539 - INFO - Drew bounding boxes for camera9_A_267
+2025-03-19 09:50:13,551 - INFO - Saved progress: 105/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:50:17,074 - INFO - Successfully loaded image and labels for camera13_A_404 from ../Fisheye8K_all_including_train&test/train/images/camera13_A_404.png
+2025-03-19 09:50:17,076 - INFO - Drew bounding boxes for camera13_A_404
+2025-03-19 09:50:17,136 - INFO - Saved progress: 104/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:50:18,737 - INFO - Successfully loaded image and labels for camera13_A_192 from ../Fisheye8K_all_including_train&test/train/images/camera13_A_192.png
+2025-03-19 09:50:18,738 - INFO - Drew bounding boxes for camera13_A_192
+2025-03-19 09:50:18,787 - INFO - Saved progress: 103/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:54:25,113 - INFO - Successfully loaded image and labels for camera13_A_404 from ../Fisheye8K_all_including_train&test/train/images/camera13_A_404.png
+2025-03-19 09:54:25,114 - INFO - Drew bounding boxes for camera13_A_404
+2025-03-19 09:54:25,168 - INFO - Saved progress: 104/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:54:25,877 - INFO - Successfully loaded image and labels for camera9_A_267 from ../Fisheye8K_all_including_train&test/train/images/camera9_A_267.png
+2025-03-19 09:54:25,877 - INFO - Drew bounding boxes for camera9_A_267
+2025-03-19 09:54:25,902 - INFO - Saved progress: 105/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:54:26,322 - INFO - Successfully loaded image and labels for camera13_A_404 from ../Fisheye8K_all_including_train&test/train/images/camera13_A_404.png
+2025-03-19 09:54:26,324 - INFO - Drew bounding boxes for camera13_A_404
+2025-03-19 09:54:26,383 - INFO - Saved progress: 104/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:54:26,797 - INFO - Successfully loaded image and labels for camera9_A_267 from ../Fisheye8K_all_including_train&test/train/images/camera9_A_267.png
+2025-03-19 09:54:26,798 - INFO - Drew bounding boxes for camera9_A_267
+2025-03-19 09:54:26,815 - INFO - Saved progress: 105/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:54:34,515 - INFO - Successfully loaded image and labels for camera13_A_519 from ../Fisheye8K_all_including_train&test/train/images/camera13_A_519.png
+2025-03-19 09:54:34,517 - INFO - Drew bounding boxes for camera13_A_519
+2025-03-19 09:54:34,576 - INFO - Saved progress: 106/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:54:57,714 - INFO - Saved progress: 106/5288 for ../Fisheye8K_all_including_train&test/train
+2025-03-19 09:57:52,201 - INFO - Initialized new path ../exp50_dataset in progress.json
+2025-03-19 09:57:52,215 - INFO - Successfully loaded image and labels for f7860171059d0d7af759358451b0bcd3_0431_camera_front_center_fov60_crop_3 from ../exp50_dataset/images/train/f7860171059d0d7af759358451b0bcd3_0431_camera_front_center_fov60_crop_3.jpeg
+2025-03-19 09:57:52,215 - INFO - No bounding box data for f7860171059d0d7af759358451b0bcd3_0431_camera_front_center_fov60_crop_3
+2025-03-19 09:57:57,319 - INFO - Successfully loaded image and labels for 240826211510_rear_frame_0006_crop_6 from ../exp50_dataset/images/train/240826211510_rear_frame_0006_crop_6.png
+2025-03-19 09:57:57,320 - INFO - Drew bounding boxes for 240826211510_rear_frame_0006_crop_6
+2025-03-19 09:57:57,329 - INFO - Saved progress: 1/98182 for ../exp50_dataset
+2025-03-19 09:57:58,328 - INFO - Successfully loaded image and labels for 48a48cef5059acd3e7eabb07f9ddad9b_0483_camera_front_center_fov60_crop_0 from ../exp50_dataset/images/train/48a48cef5059acd3e7eabb07f9ddad9b_0483_camera_front_center_fov60_crop_0.jpeg
+2025-03-19 09:57:58,328 - INFO - Drew bounding boxes for 48a48cef5059acd3e7eabb07f9ddad9b_0483_camera_front_center_fov60_crop_0
+2025-03-19 09:57:58,332 - INFO - Saved progress: 2/98182 for ../exp50_dataset
+2025-03-19 09:57:59,294 - INFO - Successfully loaded image and labels for 240826211010_left_frame_0005_crop_15 from ../exp50_dataset/images/train/240826211010_left_frame_0005_crop_15.png
+2025-03-19 09:57:59,295 - INFO - Drew bounding boxes for 240826211010_left_frame_0005_crop_15
+2025-03-19 09:57:59,303 - INFO - Saved progress: 3/98182 for ../exp50_dataset
+2025-03-19 09:58:02,799 - INFO - Saved progress: 3/98182 for ../exp50_dataset
+2025-03-19 09:58:41,239 - INFO - Successfully loaded image and labels for 240826211010_left_frame_0005_crop_15 from ../exp50_dataset/images/train/240826211010_left_frame_0005_crop_15.png
+2025-03-19 09:58:41,240 - INFO - Drew bounding boxes for 240826211010_left_frame_0005_crop_15
+2025-03-19 09:58:46,248 - INFO - Successfully loaded image and labels for f7860171059d0d7af759358451b0bcd3_0245_camera_front_right_fov120_crop_2 from ../exp50_dataset/images/train/f7860171059d0d7af759358451b0bcd3_0245_camera_front_right_fov120_crop_2.jpeg
+2025-03-19 09:58:46,248 - INFO - Drew bounding boxes for f7860171059d0d7af759358451b0bcd3_0245_camera_front_right_fov120_crop_2
+2025-03-19 09:58:46,252 - INFO - Saved progress: 4/98182 for ../exp50_dataset
+2025-03-19 09:58:46,874 - INFO - Successfully loaded image and labels for camera15_A_49_crop_5 from ../exp50_dataset/images/train/camera15_A_49_crop_5.jpeg
+2025-03-19 09:58:46,874 - INFO - Drew bounding boxes for camera15_A_49_crop_5
+2025-03-19 09:58:46,879 - INFO - Saved progress: 5/98182 for ../exp50_dataset
+2025-03-19 09:58:47,399 - INFO - Successfully loaded image and labels for f7860171059d0d7af759358451b0bcd3_0245_camera_front_right_fov120_crop_2 from ../exp50_dataset/images/train/f7860171059d0d7af759358451b0bcd3_0245_camera_front_right_fov120_crop_2.jpeg
+2025-03-19 09:58:47,399 - INFO - Drew bounding boxes for f7860171059d0d7af759358451b0bcd3_0245_camera_front_right_fov120_crop_2
+2025-03-19 09:58:47,403 - INFO - Saved progress: 4/98182 for ../exp50_dataset
+2025-03-19 09:58:47,967 - INFO - Successfully loaded image and labels for camera15_A_49_crop_5 from ../exp50_dataset/images/train/camera15_A_49_crop_5.jpeg
+2025-03-19 09:58:47,967 - INFO - Drew bounding boxes for camera15_A_49_crop_5
+2025-03-19 09:58:47,972 - INFO - Saved progress: 5/98182 for ../exp50_dataset
+2025-03-19 09:58:50,750 - INFO - Successfully loaded image and labels for f7860171059d0d7af759358451b0bcd3_0245_camera_front_right_fov120_crop_2 from ../exp50_dataset/images/train/f7860171059d0d7af759358451b0bcd3_0245_camera_front_right_fov120_crop_2.jpeg
+2025-03-19 09:58:50,751 - INFO - Drew bounding boxes for f7860171059d0d7af759358451b0bcd3_0245_camera_front_right_fov120_crop_2
+2025-03-19 09:58:50,755 - INFO - Saved progress: 4/98182 for ../exp50_dataset
+2025-03-19 09:58:50,981 - INFO - Successfully loaded image and labels for 240826211010_left_frame_0005_crop_15 from ../exp50_dataset/images/train/240826211010_left_frame_0005_crop_15.png
+2025-03-19 09:58:50,981 - INFO - Drew bounding boxes for 240826211010_left_frame_0005_crop_15
+2025-03-19 09:58:50,990 - INFO - Saved progress: 3/98182 for ../exp50_dataset
+2025-03-19 09:58:51,782 - INFO - Successfully loaded image and labels for f7860171059d0d7af759358451b0bcd3_0245_camera_front_right_fov120_crop_2 from ../exp50_dataset/images/train/f7860171059d0d7af759358451b0bcd3_0245_camera_front_right_fov120_crop_2.jpeg
+2025-03-19 09:58:51,783 - INFO - Drew bounding boxes for f7860171059d0d7af759358451b0bcd3_0245_camera_front_right_fov120_crop_2
+2025-03-19 09:58:51,786 - INFO - Saved progress: 4/98182 for ../exp50_dataset
+2025-03-19 09:58:52,109 - INFO - Successfully loaded image and labels for 240826211010_left_frame_0005_crop_15 from ../exp50_dataset/images/train/240826211010_left_frame_0005_crop_15.png
+2025-03-19 09:58:52,109 - INFO - Drew bounding boxes for 240826211010_left_frame_0005_crop_15
+2025-03-19 09:58:52,116 - INFO - Saved progress: 3/98182 for ../exp50_dataset
+2025-03-19 09:58:52,903 - INFO - Successfully loaded image and labels for f7860171059d0d7af759358451b0bcd3_0245_camera_front_right_fov120_crop_2 from ../exp50_dataset/images/train/f7860171059d0d7af759358451b0bcd3_0245_camera_front_right_fov120_crop_2.jpeg
+2025-03-19 09:58:52,903 - INFO - Drew bounding boxes for f7860171059d0d7af759358451b0bcd3_0245_camera_front_right_fov120_crop_2
+2025-03-19 09:58:52,907 - INFO - Saved progress: 4/98182 for ../exp50_dataset
+2025-03-19 09:58:53,909 - INFO - Successfully loaded image and labels for 240826211010_left_frame_0005_crop_15 from ../exp50_dataset/images/train/240826211010_left_frame_0005_crop_15.png
+2025-03-19 09:58:53,909 - INFO - Drew bounding boxes for 240826211010_left_frame_0005_crop_15
+2025-03-19 09:58:53,917 - INFO - Saved progress: 3/98182 for ../exp50_dataset
+2025-03-19 09:58:54,271 - INFO - Successfully loaded image and labels for 48a48cef5059acd3e7eabb07f9ddad9b_0483_camera_front_center_fov60_crop_0 from ../exp50_dataset/images/train/48a48cef5059acd3e7eabb07f9ddad9b_0483_camera_front_center_fov60_crop_0.jpeg
+2025-03-19 09:58:54,271 - INFO - Drew bounding boxes for 48a48cef5059acd3e7eabb07f9ddad9b_0483_camera_front_center_fov60_crop_0
+2025-03-19 09:58:54,276 - INFO - Saved progress: 2/98182 for ../exp50_dataset
+2025-03-19 09:58:54,757 - INFO - Successfully loaded image and labels for 240826211010_left_frame_0005_crop_15 from ../exp50_dataset/images/train/240826211010_left_frame_0005_crop_15.png
+2025-03-19 09:58:54,757 - INFO - Drew bounding boxes for 240826211010_left_frame_0005_crop_15
+2025-03-19 09:58:54,765 - INFO - Saved progress: 3/98182 for ../exp50_dataset
+2025-03-19 09:58:59,766 - INFO - Successfully loaded image and labels for 48a48cef5059acd3e7eabb07f9ddad9b_0483_camera_front_center_fov60_crop_0 from ../exp50_dataset/images/train/48a48cef5059acd3e7eabb07f9ddad9b_0483_camera_front_center_fov60_crop_0.jpeg
+2025-03-19 09:58:59,767 - INFO - Drew bounding boxes for 48a48cef5059acd3e7eabb07f9ddad9b_0483_camera_front_center_fov60_crop_0
+2025-03-19 09:58:59,770 - INFO - Saved progress: 2/98182 for ../exp50_dataset
+2025-03-19 09:59:00,325 - INFO - Successfully loaded image and labels for 240826211510_rear_frame_0006_crop_6 from ../exp50_dataset/images/train/240826211510_rear_frame_0006_crop_6.png
+2025-03-19 09:59:00,325 - INFO - Drew bounding boxes for 240826211510_rear_frame_0006_crop_6
+2025-03-19 09:59:00,333 - INFO - Saved progress: 1/98182 for ../exp50_dataset
+2025-03-19 09:59:00,775 - INFO - Successfully loaded image and labels for 48a48cef5059acd3e7eabb07f9ddad9b_0483_camera_front_center_fov60_crop_0 from ../exp50_dataset/images/train/48a48cef5059acd3e7eabb07f9ddad9b_0483_camera_front_center_fov60_crop_0.jpeg
+2025-03-19 09:59:00,775 - INFO - Drew bounding boxes for 48a48cef5059acd3e7eabb07f9ddad9b_0483_camera_front_center_fov60_crop_0
+2025-03-19 09:59:00,779 - INFO - Saved progress: 2/98182 for ../exp50_dataset
+2025-03-19 09:59:01,572 - INFO - Successfully loaded image and labels for 240826211010_left_frame_0005_crop_15 from ../exp50_dataset/images/train/240826211010_left_frame_0005_crop_15.png
+2025-03-19 09:59:01,573 - INFO - Drew bounding boxes for 240826211010_left_frame_0005_crop_15
+2025-03-19 09:59:01,580 - INFO - Saved progress: 3/98182 for ../exp50_dataset
+2025-03-19 09:59:02,286 - INFO - Successfully loaded image and labels for 48a48cef5059acd3e7eabb07f9ddad9b_0483_camera_front_center_fov60_crop_0 from ../exp50_dataset/images/train/48a48cef5059acd3e7eabb07f9ddad9b_0483_camera_front_center_fov60_crop_0.jpeg
+2025-03-19 09:59:02,287 - INFO - Drew bounding boxes for 48a48cef5059acd3e7eabb07f9ddad9b_0483_camera_front_center_fov60_crop_0
+2025-03-19 09:59:02,291 - INFO - Saved progress: 2/98182 for ../exp50_dataset
+2025-03-19 09:59:02,868 - INFO - Successfully loaded image and labels for 240826211510_rear_frame_0006_crop_6 from ../exp50_dataset/images/train/240826211510_rear_frame_0006_crop_6.png
+2025-03-19 09:59:02,869 - INFO - Drew bounding boxes for 240826211510_rear_frame_0006_crop_6
+2025-03-19 09:59:02,876 - INFO - Saved progress: 1/98182 for ../exp50_dataset
+2025-03-19 09:59:03,702 - INFO - Successfully loaded image and labels for f7860171059d0d7af759358451b0bcd3_0431_camera_front_center_fov60_crop_3 from ../exp50_dataset/images/train/f7860171059d0d7af759358451b0bcd3_0431_camera_front_center_fov60_crop_3.jpeg
+2025-03-19 09:59:03,702 - INFO - No bounding box data for f7860171059d0d7af759358451b0bcd3_0431_camera_front_center_fov60_crop_3
+2025-03-19 09:59:03,706 - INFO - Saved progress: 0/98182 for ../exp50_dataset
+2025-03-19 09:59:05,133 - INFO - Successfully loaded image and labels for 240826211510_rear_frame_0006_crop_6 from ../exp50_dataset/images/train/240826211510_rear_frame_0006_crop_6.png
+2025-03-19 09:59:05,133 - INFO - Drew bounding boxes for 240826211510_rear_frame_0006_crop_6
+2025-03-19 09:59:05,140 - INFO - Saved progress: 1/98182 for ../exp50_dataset
+2025-03-19 09:59:05,527 - INFO - Successfully loaded image and labels for 48a48cef5059acd3e7eabb07f9ddad9b_0483_camera_front_center_fov60_crop_0 from ../exp50_dataset/images/train/48a48cef5059acd3e7eabb07f9ddad9b_0483_camera_front_center_fov60_crop_0.jpeg
+2025-03-19 09:59:05,527 - INFO - Drew bounding boxes for 48a48cef5059acd3e7eabb07f9ddad9b_0483_camera_front_center_fov60_crop_0
+2025-03-19 09:59:05,530 - INFO - Saved progress: 2/98182 for ../exp50_dataset
+2025-03-19 09:59:06,125 - INFO - Successfully loaded image and labels for 240826211510_rear_frame_0006_crop_6 from ../exp50_dataset/images/train/240826211510_rear_frame_0006_crop_6.png
+2025-03-19 09:59:06,125 - INFO - Drew bounding boxes for 240826211510_rear_frame_0006_crop_6
+2025-03-19 09:59:06,132 - INFO - Saved progress: 1/98182 for ../exp50_dataset
+2025-03-19 09:59:06,590 - INFO - Successfully loaded image and labels for f7860171059d0d7af759358451b0bcd3_0431_camera_front_center_fov60_crop_3 from ../exp50_dataset/images/train/f7860171059d0d7af759358451b0bcd3_0431_camera_front_center_fov60_crop_3.jpeg
+2025-03-19 09:59:06,590 - INFO - No bounding box data for f7860171059d0d7af759358451b0bcd3_0431_camera_front_center_fov60_crop_3
+2025-03-19 09:59:06,594 - INFO - Saved progress: 0/98182 for ../exp50_dataset
+2025-03-19 09:59:07,668 - INFO - Successfully loaded image and labels for 240826211510_rear_frame_0006_crop_6 from ../exp50_dataset/images/train/240826211510_rear_frame_0006_crop_6.png
+2025-03-19 09:59:07,669 - INFO - Drew bounding boxes for 240826211510_rear_frame_0006_crop_6
+2025-03-19 09:59:07,677 - INFO - Saved progress: 1/98182 for ../exp50_dataset
+2025-03-19 09:59:08,086 - INFO - Successfully loaded image and labels for f7860171059d0d7af759358451b0bcd3_0431_camera_front_center_fov60_crop_3 from ../exp50_dataset/images/train/f7860171059d0d7af759358451b0bcd3_0431_camera_front_center_fov60_crop_3.jpeg
+2025-03-19 09:59:08,086 - INFO - No bounding box data for f7860171059d0d7af759358451b0bcd3_0431_camera_front_center_fov60_crop_3
+2025-03-19 09:59:08,091 - INFO - Saved progress: 0/98182 for ../exp50_dataset
+2025-03-19 09:59:08,455 - INFO - Successfully loaded image and labels for 240826211510_rear_frame_0006_crop_6 from ../exp50_dataset/images/train/240826211510_rear_frame_0006_crop_6.png
+2025-03-19 09:59:08,455 - INFO - Drew bounding boxes for 240826211510_rear_frame_0006_crop_6
+2025-03-19 09:59:08,464 - INFO - Saved progress: 1/98182 for ../exp50_dataset
+2025-03-19 09:59:08,910 - INFO - Successfully loaded image and labels for 48a48cef5059acd3e7eabb07f9ddad9b_0483_camera_front_center_fov60_crop_0 from ../exp50_dataset/images/train/48a48cef5059acd3e7eabb07f9ddad9b_0483_camera_front_center_fov60_crop_0.jpeg
+2025-03-19 09:59:08,911 - INFO - Drew bounding boxes for 48a48cef5059acd3e7eabb07f9ddad9b_0483_camera_front_center_fov60_crop_0
+2025-03-19 09:59:08,914 - INFO - Saved progress: 2/98182 for ../exp50_dataset
+2025-03-19 09:59:09,757 - INFO - Successfully loaded image and labels for 240826211010_left_frame_0005_crop_15 from ../exp50_dataset/images/train/240826211010_left_frame_0005_crop_15.png
+2025-03-19 09:59:09,757 - INFO - Drew bounding boxes for 240826211010_left_frame_0005_crop_15
+2025-03-19 09:59:09,764 - INFO - Saved progress: 3/98182 for ../exp50_dataset
+2025-03-19 09:59:10,566 - INFO - Successfully loaded image and labels for f7860171059d0d7af759358451b0bcd3_0245_camera_front_right_fov120_crop_2 from ../exp50_dataset/images/train/f7860171059d0d7af759358451b0bcd3_0245_camera_front_right_fov120_crop_2.jpeg
+2025-03-19 09:59:10,566 - INFO - Drew bounding boxes for f7860171059d0d7af759358451b0bcd3_0245_camera_front_right_fov120_crop_2
+2025-03-19 09:59:10,570 - INFO - Saved progress: 4/98182 for ../exp50_dataset
+2025-03-19 09:59:10,972 - INFO - Successfully loaded image and labels for 240826211010_left_frame_0005_crop_15 from ../exp50_dataset/images/train/240826211010_left_frame_0005_crop_15.png
+2025-03-19 09:59:10,973 - INFO - Drew bounding boxes for 240826211010_left_frame_0005_crop_15
+2025-03-19 09:59:10,980 - INFO - Saved progress: 3/98182 for ../exp50_dataset
+2025-03-19 09:59:11,350 - INFO - Successfully loaded image and labels for f7860171059d0d7af759358451b0bcd3_0245_camera_front_right_fov120_crop_2 from ../exp50_dataset/images/train/f7860171059d0d7af759358451b0bcd3_0245_camera_front_right_fov120_crop_2.jpeg
+2025-03-19 09:59:11,350 - INFO - Drew bounding boxes for f7860171059d0d7af759358451b0bcd3_0245_camera_front_right_fov120_crop_2
+2025-03-19 09:59:11,354 - INFO - Saved progress: 4/98182 for ../exp50_dataset
+2025-03-19 09:59:12,092 - INFO - Successfully loaded image and labels for 240826211010_left_frame_0005_crop_15 from ../exp50_dataset/images/train/240826211010_left_frame_0005_crop_15.png
+2025-03-19 09:59:12,093 - INFO - Drew bounding boxes for 240826211010_left_frame_0005_crop_15
+2025-03-19 09:59:12,100 - INFO - Saved progress: 3/98182 for ../exp50_dataset
+2025-03-19 09:59:12,878 - INFO - Successfully loaded image and labels for 48a48cef5059acd3e7eabb07f9ddad9b_0483_camera_front_center_fov60_crop_0 from ../exp50_dataset/images/train/48a48cef5059acd3e7eabb07f9ddad9b_0483_camera_front_center_fov60_crop_0.jpeg
+2025-03-19 09:59:12,878 - INFO - Drew bounding boxes for 48a48cef5059acd3e7eabb07f9ddad9b_0483_camera_front_center_fov60_crop_0
+2025-03-19 09:59:12,882 - INFO - Saved progress: 2/98182 for ../exp50_dataset
+2025-03-19 09:59:13,244 - INFO - Successfully loaded image and labels for 240826211010_left_frame_0005_crop_15 from ../exp50_dataset/images/train/240826211010_left_frame_0005_crop_15.png
+2025-03-19 09:59:13,245 - INFO - Drew bounding boxes for 240826211010_left_frame_0005_crop_15
+2025-03-19 09:59:13,252 - INFO - Saved progress: 3/98182 for ../exp50_dataset
+2025-03-19 09:59:13,806 - INFO - Successfully loaded image and labels for f7860171059d0d7af759358451b0bcd3_0245_camera_front_right_fov120_crop_2 from ../exp50_dataset/images/train/f7860171059d0d7af759358451b0bcd3_0245_camera_front_right_fov120_crop_2.jpeg
+2025-03-19 09:59:13,806 - INFO - Drew bounding boxes for f7860171059d0d7af759358451b0bcd3_0245_camera_front_right_fov120_crop_2
+2025-03-19 09:59:13,810 - INFO - Saved progress: 4/98182 for ../exp50_dataset
+2025-03-19 09:59:14,276 - INFO - Successfully loaded image and labels for 240826211010_left_frame_0005_crop_15 from ../exp50_dataset/images/train/240826211010_left_frame_0005_crop_15.png
+2025-03-19 09:59:14,277 - INFO - Drew bounding boxes for 240826211010_left_frame_0005_crop_15
+2025-03-19 09:59:14,284 - INFO - Saved progress: 3/98182 for ../exp50_dataset
+2025-03-19 09:59:14,886 - INFO - Successfully loaded image and labels for f7860171059d0d7af759358451b0bcd3_0245_camera_front_right_fov120_crop_2 from ../exp50_dataset/images/train/f7860171059d0d7af759358451b0bcd3_0245_camera_front_right_fov120_crop_2.jpeg
+2025-03-19 09:59:14,886 - INFO - Drew bounding boxes for f7860171059d0d7af759358451b0bcd3_0245_camera_front_right_fov120_crop_2
+2025-03-19 09:59:14,890 - INFO - Saved progress: 4/98182 for ../exp50_dataset
+2025-03-19 09:59:15,212 - INFO - Successfully loaded image and labels for 240826211010_left_frame_0005_crop_15 from ../exp50_dataset/images/train/240826211010_left_frame_0005_crop_15.png
+2025-03-19 09:59:15,213 - INFO - Drew bounding boxes for 240826211010_left_frame_0005_crop_15
+2025-03-19 09:59:15,220 - INFO - Saved progress: 3/98182 for ../exp50_dataset
+2025-03-19 09:59:15,726 - INFO - Successfully loaded image and labels for f7860171059d0d7af759358451b0bcd3_0245_camera_front_right_fov120_crop_2 from ../exp50_dataset/images/train/f7860171059d0d7af759358451b0bcd3_0245_camera_front_right_fov120_crop_2.jpeg
+2025-03-19 09:59:15,726 - INFO - Drew bounding boxes for f7860171059d0d7af759358451b0bcd3_0245_camera_front_right_fov120_crop_2
+2025-03-19 09:59:15,730 - INFO - Saved progress: 4/98182 for ../exp50_dataset
+2025-03-19 09:59:16,110 - INFO - Successfully loaded image and labels for camera15_A_49_crop_5 from ../exp50_dataset/images/train/camera15_A_49_crop_5.jpeg
+2025-03-19 09:59:16,110 - INFO - Drew bounding boxes for camera15_A_49_crop_5
+2025-03-19 09:59:16,114 - INFO - Saved progress: 5/98182 for ../exp50_dataset
+2025-03-19 09:59:16,535 - INFO - Successfully loaded image and labels for f433d843885574c88a41b29795dbed76_0321_camera_front_right_fov120_crop_0 from ../exp50_dataset/images/train/f433d843885574c88a41b29795dbed76_0321_camera_front_right_fov120_crop_0.jpeg
+2025-03-19 09:59:16,535 - INFO - Drew bounding boxes for f433d843885574c88a41b29795dbed76_0321_camera_front_right_fov120_crop_0
+2025-03-19 09:59:16,541 - INFO - Saved progress: 6/98182 for ../exp50_dataset
+2025-03-19 09:59:16,862 - INFO - Successfully loaded image and labels for camera15_A_49_crop_5 from ../exp50_dataset/images/train/camera15_A_49_crop_5.jpeg
+2025-03-19 09:59:16,862 - INFO - Drew bounding boxes for camera15_A_49_crop_5
+2025-03-19 09:59:16,866 - INFO - Saved progress: 5/98182 for ../exp50_dataset
+2025-03-19 09:59:17,142 - INFO - Successfully loaded image and labels for f7860171059d0d7af759358451b0bcd3_0245_camera_front_right_fov120_crop_2 from ../exp50_dataset/images/train/f7860171059d0d7af759358451b0bcd3_0245_camera_front_right_fov120_crop_2.jpeg
+2025-03-19 09:59:17,142 - INFO - Drew bounding boxes for f7860171059d0d7af759358451b0bcd3_0245_camera_front_right_fov120_crop_2
+2025-03-19 09:59:17,146 - INFO - Saved progress: 4/98182 for ../exp50_dataset
+2025-03-19 09:59:17,500 - INFO - Successfully loaded image and labels for 240826211010_left_frame_0005_crop_15 from ../exp50_dataset/images/train/240826211010_left_frame_0005_crop_15.png
+2025-03-19 09:59:17,500 - INFO - Drew bounding boxes for 240826211010_left_frame_0005_crop_15
+2025-03-19 09:59:17,507 - INFO - Saved progress: 3/98182 for ../exp50_dataset
+2025-03-19 09:59:19,454 - INFO - Successfully loaded image and labels for f7860171059d0d7af759358451b0bcd3_0245_camera_front_right_fov120_crop_2 from ../exp50_dataset/images/train/f7860171059d0d7af759358451b0bcd3_0245_camera_front_right_fov120_crop_2.jpeg
+2025-03-19 09:59:19,454 - INFO - Drew bounding boxes for f7860171059d0d7af759358451b0bcd3_0245_camera_front_right_fov120_crop_2
+2025-03-19 09:59:19,459 - INFO - Saved progress: 4/98182 for ../exp50_dataset
+2025-03-19 09:59:19,868 - INFO - Successfully loaded image and labels for 240826211010_left_frame_0005_crop_15 from ../exp50_dataset/images/train/240826211010_left_frame_0005_crop_15.png
+2025-03-19 09:59:19,868 - INFO - Drew bounding boxes for 240826211010_left_frame_0005_crop_15
+2025-03-19 09:59:19,876 - INFO - Saved progress: 3/98182 for ../exp50_dataset
+2025-03-19 09:59:24,014 - INFO - Successfully loaded image and labels for 48a48cef5059acd3e7eabb07f9ddad9b_0483_camera_front_center_fov60_crop_0 from ../exp50_dataset/images/train/48a48cef5059acd3e7eabb07f9ddad9b_0483_camera_front_center_fov60_crop_0.jpeg
+2025-03-19 09:59:24,014 - INFO - Drew bounding boxes for 48a48cef5059acd3e7eabb07f9ddad9b_0483_camera_front_center_fov60_crop_0
+2025-03-19 09:59:24,019 - INFO - Saved progress: 2/98182 for ../exp50_dataset
+2025-03-19 09:59:27,828 - INFO - Successfully loaded image and labels for 240826211510_rear_frame_0006_crop_6 from ../exp50_dataset/images/train/240826211510_rear_frame_0006_crop_6.png
+2025-03-19 09:59:27,828 - INFO - Drew bounding boxes for 240826211510_rear_frame_0006_crop_6
+2025-03-19 09:59:27,838 - INFO - Saved progress: 1/98182 for ../exp50_dataset
+2025-03-19 09:59:28,294 - INFO - Successfully loaded image and labels for f7860171059d0d7af759358451b0bcd3_0431_camera_front_center_fov60_crop_3 from ../exp50_dataset/images/train/f7860171059d0d7af759358451b0bcd3_0431_camera_front_center_fov60_crop_3.jpeg
+2025-03-19 09:59:28,294 - INFO - No bounding box data for f7860171059d0d7af759358451b0bcd3_0431_camera_front_center_fov60_crop_3
+2025-03-19 09:59:28,298 - INFO - Saved progress: 0/98182 for ../exp50_dataset
+2025-03-19 09:59:29,044 - INFO - Successfully loaded image and labels for 240826211510_rear_frame_0006_crop_6 from ../exp50_dataset/images/train/240826211510_rear_frame_0006_crop_6.png
+2025-03-19 09:59:29,045 - INFO - Drew bounding boxes for 240826211510_rear_frame_0006_crop_6
+2025-03-19 09:59:29,054 - INFO - Saved progress: 1/98182 for ../exp50_dataset
+2025-03-19 09:59:29,374 - INFO - Successfully loaded image and labels for 48a48cef5059acd3e7eabb07f9ddad9b_0483_camera_front_center_fov60_crop_0 from ../exp50_dataset/images/train/48a48cef5059acd3e7eabb07f9ddad9b_0483_camera_front_center_fov60_crop_0.jpeg
+2025-03-19 09:59:29,375 - INFO - Drew bounding boxes for 48a48cef5059acd3e7eabb07f9ddad9b_0483_camera_front_center_fov60_crop_0
+2025-03-19 09:59:29,378 - INFO - Saved progress: 2/98182 for ../exp50_dataset
+2025-03-19 09:59:29,860 - INFO - Successfully loaded image and labels for 240826211010_left_frame_0005_crop_15 from ../exp50_dataset/images/train/240826211010_left_frame_0005_crop_15.png
+2025-03-19 09:59:29,860 - INFO - Drew bounding boxes for 240826211010_left_frame_0005_crop_15
+2025-03-19 09:59:29,867 - INFO - Saved progress: 3/98182 for ../exp50_dataset
+2025-03-19 09:59:32,351 - INFO - Successfully loaded image and labels for f7860171059d0d7af759358451b0bcd3_0245_camera_front_right_fov120_crop_2 from ../exp50_dataset/images/train/f7860171059d0d7af759358451b0bcd3_0245_camera_front_right_fov120_crop_2.jpeg
+2025-03-19 09:59:32,351 - INFO - Drew bounding boxes for f7860171059d0d7af759358451b0bcd3_0245_camera_front_right_fov120_crop_2
+2025-03-19 09:59:32,355 - INFO - Saved progress: 4/98182 for ../exp50_dataset
+2025-03-19 09:59:33,582 - INFO - Successfully loaded image and labels for camera15_A_49_crop_5 from ../exp50_dataset/images/train/camera15_A_49_crop_5.jpeg
+2025-03-19 09:59:33,582 - INFO - Drew bounding boxes for camera15_A_49_crop_5
+2025-03-19 09:59:33,586 - INFO - Saved progress: 5/98182 for ../exp50_dataset
+2025-03-19 09:59:34,462 - INFO - Successfully loaded image and labels for f433d843885574c88a41b29795dbed76_0321_camera_front_right_fov120_crop_0 from ../exp50_dataset/images/train/f433d843885574c88a41b29795dbed76_0321_camera_front_right_fov120_crop_0.jpeg
+2025-03-19 09:59:34,462 - INFO - Drew bounding boxes for f433d843885574c88a41b29795dbed76_0321_camera_front_right_fov120_crop_0
+2025-03-19 09:59:34,466 - INFO - Saved progress: 6/98182 for ../exp50_dataset
+2025-03-19 09:59:35,158 - INFO - Successfully loaded image and labels for 761f78359f0a274a4376d621327c67da_0253_camera_front_right_fov120_crop_3 from ../exp50_dataset/images/train/761f78359f0a274a4376d621327c67da_0253_camera_front_right_fov120_crop_3.jpeg
+2025-03-19 09:59:35,158 - INFO - Drew bounding boxes for 761f78359f0a274a4376d621327c67da_0253_camera_front_right_fov120_crop_3
+2025-03-19 09:59:35,161 - INFO - Saved progress: 7/98182 for ../exp50_dataset
+2025-03-19 09:59:36,861 - INFO - Saved progress: 7/98182 for ../exp50_dataset
+2025-03-19 09:59:45,288 - INFO - Successfully loaded image and labels for 240826211010_right_frame_0001_crop_17 from ../Cheonan_Test/images/train/240826211010_right_frame_0001_crop_17.png
+2025-03-19 09:59:45,288 - INFO - Drew bounding boxes for 240826211010_right_frame_0001_crop_17
+2025-03-19 09:59:46,575 - INFO - Successfully loaded image and labels for 240827193604_rear_frame_0004_crop_0 from ../Cheonan_Test/images/train/240827193604_rear_frame_0004_crop_0.png
+2025-03-19 09:59:46,575 - INFO - Drew bounding boxes for 240827193604_rear_frame_0004_crop_0
+2025-03-19 09:59:46,582 - INFO - Saved progress: 129/14845 for ../Cheonan_Test
+2025-03-19 09:59:47,021 - INFO - Successfully loaded image and labels for 240827195904_right_frame_0009_crop_0 from ../Cheonan_Test/images/train/240827195904_right_frame_0009_crop_0.png
+2025-03-19 09:59:47,021 - INFO - Drew bounding boxes for 240827195904_right_frame_0009_crop_0
+2025-03-19 09:59:47,027 - INFO - Saved progress: 130/14845 for ../Cheonan_Test
+2025-03-19 09:59:47,341 - INFO - Successfully loaded image and labels for 240826211310_left_frame_0009_crop_6 from ../Cheonan_Test/images/train/240826211310_left_frame_0009_crop_6.png
+2025-03-19 09:59:47,341 - INFO - Drew bounding boxes for 240826211310_left_frame_0009_crop_6
+2025-03-19 09:59:47,347 - INFO - Saved progress: 131/14845 for ../Cheonan_Test
+2025-03-19 09:59:47,709 - INFO - Successfully loaded image and labels for 240826211310_rear_frame_0005_crop_1 from ../Cheonan_Test/images/train/240826211310_rear_frame_0005_crop_1.png
+2025-03-19 09:59:47,709 - INFO - Drew bounding boxes for 240826211310_rear_frame_0005_crop_1
+2025-03-19 09:59:47,715 - INFO - Saved progress: 132/14845 for ../Cheonan_Test
+2025-03-19 09:59:48,125 - INFO - Successfully loaded image and labels for 240827132205_right_frame_0007_crop_0 from ../Cheonan_Test/images/train/240827132205_right_frame_0007_crop_0.png
+2025-03-19 09:59:48,126 - INFO - Drew bounding boxes for 240827132205_right_frame_0007_crop_0
+2025-03-19 09:59:48,132 - INFO - Saved progress: 133/14845 for ../Cheonan_Test
+2025-03-19 09:59:48,340 - INFO - Successfully loaded image and labels for 240826211010_front_frame_0006_crop_2 from ../Cheonan_Test/images/train/240826211010_front_frame_0006_crop_2.png
+2025-03-19 09:59:48,340 - INFO - Drew bounding boxes for 240826211010_front_frame_0006_crop_2
+2025-03-19 09:59:48,346 - INFO - Saved progress: 134/14845 for ../Cheonan_Test
+2025-03-19 09:59:48,526 - INFO - Successfully loaded image and labels for 240826211510_rear_frame_0003_crop_1 from ../Cheonan_Test/images/train/240826211510_rear_frame_0003_crop_1.png
+2025-03-19 09:59:48,526 - INFO - Drew bounding boxes for 240826211510_rear_frame_0003_crop_1
+2025-03-19 09:59:48,532 - INFO - Saved progress: 135/14845 for ../Cheonan_Test
+2025-03-19 09:59:48,693 - INFO - Successfully loaded image and labels for 240826211410_left_frame_0005_crop_2 from ../Cheonan_Test/images/train/240826211410_left_frame_0005_crop_2.png
+2025-03-19 09:59:48,693 - INFO - Drew bounding boxes for 240826211410_left_frame_0005_crop_2
+2025-03-19 09:59:48,699 - INFO - Saved progress: 136/14845 for ../Cheonan_Test
+2025-03-19 09:59:48,878 - INFO - Successfully loaded image and labels for 240827132605_right_frame_0005_crop_1 from ../Cheonan_Test/images/train/240827132605_right_frame_0005_crop_1.png
+2025-03-19 09:59:48,878 - INFO - Drew bounding boxes for 240827132605_right_frame_0005_crop_1
+2025-03-19 09:59:48,885 - INFO - Saved progress: 137/14845 for ../Cheonan_Test
+2025-03-19 09:59:49,101 - INFO - Successfully loaded image and labels for 240826211010_left_frame_0011_crop_8 from ../Cheonan_Test/images/train/240826211010_left_frame_0011_crop_8.png
+2025-03-19 09:59:49,101 - INFO - Drew bounding boxes for 240826211010_left_frame_0011_crop_8
+2025-03-19 09:59:49,108 - INFO - Saved progress: 138/14845 for ../Cheonan_Test
+2025-03-19 09:59:49,356 - INFO - Successfully loaded image and labels for 240827132605_right_frame_0005_crop_1 from ../Cheonan_Test/images/train/240827132605_right_frame_0005_crop_1.png
+2025-03-19 09:59:49,356 - INFO - Drew bounding boxes for 240827132605_right_frame_0005_crop_1
+2025-03-19 09:59:49,363 - INFO - Saved progress: 137/14845 for ../Cheonan_Test
+2025-03-19 09:59:49,548 - INFO - Successfully loaded image and labels for 240826211410_left_frame_0005_crop_2 from ../Cheonan_Test/images/train/240826211410_left_frame_0005_crop_2.png
+2025-03-19 09:59:49,548 - INFO - Drew bounding boxes for 240826211410_left_frame_0005_crop_2
+2025-03-19 09:59:49,554 - INFO - Saved progress: 136/14845 for ../Cheonan_Test
+2025-03-19 09:59:49,708 - INFO - Successfully loaded image and labels for 240826211510_rear_frame_0003_crop_1 from ../Cheonan_Test/images/train/240826211510_rear_frame_0003_crop_1.png
+2025-03-19 09:59:49,709 - INFO - Drew bounding boxes for 240826211510_rear_frame_0003_crop_1
+2025-03-19 09:59:49,715 - INFO - Saved progress: 135/14845 for ../Cheonan_Test
+2025-03-19 09:59:49,891 - INFO - Successfully loaded image and labels for 240826211010_front_frame_0006_crop_2 from ../Cheonan_Test/images/train/240826211010_front_frame_0006_crop_2.png
+2025-03-19 09:59:49,892 - INFO - Drew bounding boxes for 240826211010_front_frame_0006_crop_2
+2025-03-19 09:59:49,897 - INFO - Saved progress: 134/14845 for ../Cheonan_Test
+2025-03-19 09:59:50,381 - INFO - Successfully loaded image and labels for 240826211510_rear_frame_0003_crop_1 from ../Cheonan_Test/images/train/240826211510_rear_frame_0003_crop_1.png
+2025-03-19 09:59:50,381 - INFO - Drew bounding boxes for 240826211510_rear_frame_0003_crop_1
+2025-03-19 09:59:50,388 - INFO - Saved progress: 135/14845 for ../Cheonan_Test
+2025-03-19 09:59:50,756 - INFO - Successfully loaded image and labels for 240826211410_left_frame_0005_crop_2 from ../Cheonan_Test/images/train/240826211410_left_frame_0005_crop_2.png
+2025-03-19 09:59:50,756 - INFO - Drew bounding boxes for 240826211410_left_frame_0005_crop_2
+2025-03-19 09:59:50,766 - INFO - Saved progress: 136/14845 for ../Cheonan_Test
+2025-03-19 09:59:51,212 - INFO - Successfully loaded image and labels for 240827132605_right_frame_0005_crop_1 from ../Cheonan_Test/images/train/240827132605_right_frame_0005_crop_1.png
+2025-03-19 09:59:51,213 - INFO - Drew bounding boxes for 240827132605_right_frame_0005_crop_1
+2025-03-19 09:59:51,219 - INFO - Saved progress: 137/14845 for ../Cheonan_Test
+2025-03-19 09:59:53,828 - INFO - Successfully loaded image and labels for 240826211010_left_frame_0011_crop_8 from ../Cheonan_Test/images/train/240826211010_left_frame_0011_crop_8.png
+2025-03-19 09:59:53,828 - INFO - Drew bounding boxes for 240826211010_left_frame_0011_crop_8
+2025-03-19 09:59:53,836 - INFO - Saved progress: 138/14845 for ../Cheonan_Test
+2025-03-19 09:59:54,821 - INFO - Successfully loaded image and labels for 240827132605_right_frame_0005_crop_1 from ../Cheonan_Test/images/train/240827132605_right_frame_0005_crop_1.png
+2025-03-19 09:59:54,821 - INFO - Drew bounding boxes for 240827132605_right_frame_0005_crop_1
+2025-03-19 09:59:54,828 - INFO - Saved progress: 137/14845 for ../Cheonan_Test
+2025-03-19 09:59:55,397 - INFO - Successfully loaded image and labels for 240826211010_left_frame_0011_crop_8 from ../Cheonan_Test/images/train/240826211010_left_frame_0011_crop_8.png
+2025-03-19 09:59:55,398 - INFO - Drew bounding boxes for 240826211010_left_frame_0011_crop_8
+2025-03-19 09:59:55,405 - INFO - Saved progress: 138/14845 for ../Cheonan_Test
+2025-03-19 09:59:55,668 - INFO - Successfully loaded image and labels for 240827202504_right_frame_0008_crop_1 from ../Cheonan_Test/images/train/240827202504_right_frame_0008_crop_1.png
+2025-03-19 09:59:55,669 - INFO - Drew bounding boxes for 240827202504_right_frame_0008_crop_1
+2025-03-19 09:59:55,676 - INFO - Saved progress: 139/14845 for ../Cheonan_Test
+2025-03-19 09:59:55,980 - INFO - Successfully loaded image and labels for 240827132405_front_frame_0008_crop_5 from ../Cheonan_Test/images/train/240827132405_front_frame_0008_crop_5.png
+2025-03-19 09:59:55,980 - INFO - Drew bounding boxes for 240827132405_front_frame_0008_crop_5
+2025-03-19 09:59:55,986 - INFO - Saved progress: 140/14845 for ../Cheonan_Test
+2025-03-19 09:59:56,324 - INFO - Successfully loaded image and labels for 240826211410_front_frame_0003_crop_8 from ../Cheonan_Test/images/train/240826211410_front_frame_0003_crop_8.png
+2025-03-19 09:59:56,324 - INFO - Drew bounding boxes for 240826211410_front_frame_0003_crop_8
+2025-03-19 09:59:56,330 - INFO - Saved progress: 141/14845 for ../Cheonan_Test
+2025-03-19 09:59:56,739 - INFO - Successfully loaded image and labels for 240827132405_front_frame_0008_crop_5 from ../Cheonan_Test/images/train/240827132405_front_frame_0008_crop_5.png
+2025-03-19 09:59:56,739 - INFO - Drew bounding boxes for 240827132405_front_frame_0008_crop_5
+2025-03-19 09:59:56,747 - INFO - Saved progress: 140/14845 for ../Cheonan_Test
+2025-03-19 09:59:57,028 - INFO - Successfully loaded image and labels for 240827202504_right_frame_0008_crop_1 from ../Cheonan_Test/images/train/240827202504_right_frame_0008_crop_1.png
+2025-03-19 09:59:57,028 - INFO - Drew bounding boxes for 240827202504_right_frame_0008_crop_1
+2025-03-19 09:59:57,037 - INFO - Saved progress: 139/14845 for ../Cheonan_Test
+2025-03-19 09:59:57,515 - INFO - Successfully loaded image and labels for 240827132405_front_frame_0008_crop_5 from ../Cheonan_Test/images/train/240827132405_front_frame_0008_crop_5.png
+2025-03-19 09:59:57,515 - INFO - Drew bounding boxes for 240827132405_front_frame_0008_crop_5
+2025-03-19 09:59:57,521 - INFO - Saved progress: 140/14845 for ../Cheonan_Test
+2025-03-19 09:59:57,707 - INFO - Successfully loaded image and labels for 240826211410_front_frame_0003_crop_8 from ../Cheonan_Test/images/train/240826211410_front_frame_0003_crop_8.png
+2025-03-19 09:59:57,707 - INFO - Drew bounding boxes for 240826211410_front_frame_0003_crop_8
+2025-03-19 09:59:57,713 - INFO - Saved progress: 141/14845 for ../Cheonan_Test
+2025-03-19 09:59:57,988 - INFO - Successfully loaded image and labels for 240827193504_right_frame_0005_crop_2 from ../Cheonan_Test/images/train/240827193504_right_frame_0005_crop_2.png
+2025-03-19 09:59:57,988 - INFO - Drew bounding boxes for 240827193504_right_frame_0005_crop_2
+2025-03-19 09:59:57,995 - INFO - Saved progress: 142/14845 for ../Cheonan_Test
+2025-03-19 09:59:58,724 - INFO - Successfully loaded image and labels for 240826211410_left_frame_0001_crop_6 from ../Cheonan_Test/images/train/240826211410_left_frame_0001_crop_6.png
+2025-03-19 09:59:58,724 - INFO - Drew bounding boxes for 240826211410_left_frame_0001_crop_6
+2025-03-19 09:59:58,732 - INFO - Saved progress: 143/14845 for ../Cheonan_Test
+2025-03-19 09:59:58,988 - INFO - Successfully loaded image and labels for 240827132305_right_frame_0005_crop_1 from ../Cheonan_Test/images/train/240827132305_right_frame_0005_crop_1.png
+2025-03-19 09:59:58,988 - INFO - Drew bounding boxes for 240827132305_right_frame_0005_crop_1
+2025-03-19 09:59:58,996 - INFO - Saved progress: 144/14845 for ../Cheonan_Test
+2025-03-19 09:59:59,228 - INFO - Successfully loaded image and labels for 240826211210_rear_frame_0006_crop_6 from ../Cheonan_Test/images/train/240826211210_rear_frame_0006_crop_6.png
+2025-03-19 09:59:59,229 - INFO - Drew bounding boxes for 240826211210_rear_frame_0006_crop_6
+2025-03-19 09:59:59,235 - INFO - Saved progress: 145/14845 for ../Cheonan_Test
+2025-03-19 09:59:59,444 - INFO - Successfully loaded image and labels for 240827194404_left_frame_0002_crop_8 from ../Cheonan_Test/images/train/240827194404_left_frame_0002_crop_8.png
+2025-03-19 09:59:59,444 - INFO - Drew bounding boxes for 240827194404_left_frame_0002_crop_8
+2025-03-19 09:59:59,453 - INFO - Saved progress: 146/14845 for ../Cheonan_Test
+2025-03-19 09:59:59,749 - INFO - Successfully loaded image and labels for 240827194404_front_frame_0000_crop_8 from ../Cheonan_Test/images/train/240827194404_front_frame_0000_crop_8.png
+2025-03-19 09:59:59,750 - INFO - Drew bounding boxes for 240827194404_front_frame_0000_crop_8
+2025-03-19 09:59:59,756 - INFO - Saved progress: 147/14845 for ../Cheonan_Test
+2025-03-19 10:00:00,037 - INFO - Successfully loaded image and labels for 240827200404_front_frame_0010_crop_0 from ../Cheonan_Test/images/train/240827200404_front_frame_0010_crop_0.png
+2025-03-19 10:00:00,037 - INFO - Drew bounding boxes for 240827200404_front_frame_0010_crop_0
+2025-03-19 10:00:00,043 - INFO - Saved progress: 148/14845 for ../Cheonan_Test
+2025-03-19 10:00:00,355 - INFO - Successfully loaded image and labels for 240827194304_front_frame_0008_crop_5 from ../Cheonan_Test/images/train/240827194304_front_frame_0008_crop_5.png
+2025-03-19 10:00:00,356 - INFO - Drew bounding boxes for 240827194304_front_frame_0008_crop_5
+2025-03-19 10:00:00,361 - INFO - Saved progress: 149/14845 for ../Cheonan_Test
+2025-03-19 10:00:00,755 - INFO - Successfully loaded image and labels for 240827194504_rear_frame_0011_crop_0 from ../Cheonan_Test/images/train/240827194504_rear_frame_0011_crop_0.png
+2025-03-19 10:00:00,755 - INFO - Drew bounding boxes for 240827194504_rear_frame_0011_crop_0
+2025-03-19 10:00:00,762 - INFO - Saved progress: 150/14845 for ../Cheonan_Test
+2025-03-19 10:00:00,997 - INFO - Successfully loaded image and labels for 240827195604_right_frame_0002_crop_2 from ../Cheonan_Test/images/train/240827195604_right_frame_0002_crop_2.png
+2025-03-19 10:00:00,997 - INFO - Drew bounding boxes for 240827195604_right_frame_0002_crop_2
+2025-03-19 10:00:01,005 - INFO - Saved progress: 151/14845 for ../Cheonan_Test
+2025-03-19 10:00:01,264 - INFO - Successfully loaded image and labels for 240827200204_right_frame_0010_crop_2 from ../Cheonan_Test/images/train/240827200204_right_frame_0010_crop_2.png
+2025-03-19 10:00:01,264 - INFO - Drew bounding boxes for 240827200204_right_frame_0010_crop_2
+2025-03-19 10:00:01,270 - INFO - Saved progress: 152/14845 for ../Cheonan_Test
+2025-03-19 10:00:02,052 - INFO - Successfully loaded image and labels for 240827194604_front_frame_0008_crop_8 from ../Cheonan_Test/images/train/240827194604_front_frame_0008_crop_8.png
+2025-03-19 10:00:02,052 - INFO - Drew bounding boxes for 240827194604_front_frame_0008_crop_8
+2025-03-19 10:00:02,058 - INFO - Saved progress: 153/14845 for ../Cheonan_Test
+2025-03-19 10:00:02,340 - INFO - Successfully loaded image and labels for 240827132905_right_frame_0011_crop_2 from ../Cheonan_Test/images/train/240827132905_right_frame_0011_crop_2.png
+2025-03-19 10:00:02,340 - INFO - Drew bounding boxes for 240827132905_right_frame_0011_crop_2
+2025-03-19 10:00:02,347 - INFO - Saved progress: 154/14845 for ../Cheonan_Test
+2025-03-19 10:00:03,283 - INFO - Successfully loaded image and labels for 240827194604_front_frame_0008_crop_8 from ../Cheonan_Test/images/train/240827194604_front_frame_0008_crop_8.png
+2025-03-19 10:00:03,283 - INFO - Drew bounding boxes for 240827194604_front_frame_0008_crop_8
+2025-03-19 10:00:03,290 - INFO - Saved progress: 153/14845 for ../Cheonan_Test
+2025-03-19 10:00:03,595 - INFO - Successfully loaded image and labels for 240827200204_right_frame_0010_crop_2 from ../Cheonan_Test/images/train/240827200204_right_frame_0010_crop_2.png
+2025-03-19 10:00:03,595 - INFO - Drew bounding boxes for 240827200204_right_frame_0010_crop_2
+2025-03-19 10:00:03,601 - INFO - Saved progress: 152/14845 for ../Cheonan_Test
+2025-03-19 10:00:05,371 - INFO - Successfully loaded image and labels for 240827194604_front_frame_0008_crop_8 from ../Cheonan_Test/images/train/240827194604_front_frame_0008_crop_8.png
+2025-03-19 10:00:05,371 - INFO - Drew bounding boxes for 240827194604_front_frame_0008_crop_8
+2025-03-19 10:00:05,377 - INFO - Saved progress: 153/14845 for ../Cheonan_Test
+2025-03-19 10:00:05,859 - INFO - Successfully loaded image and labels for 240827200204_right_frame_0010_crop_2 from ../Cheonan_Test/images/train/240827200204_right_frame_0010_crop_2.png
+2025-03-19 10:00:05,859 - INFO - Drew bounding boxes for 240827200204_right_frame_0010_crop_2
+2025-03-19 10:00:05,865 - INFO - Saved progress: 152/14845 for ../Cheonan_Test
+2025-03-19 10:00:06,420 - INFO - Successfully loaded image and labels for 240827195604_right_frame_0002_crop_2 from ../Cheonan_Test/images/train/240827195604_right_frame_0002_crop_2.png
+2025-03-19 10:00:06,420 - INFO - Drew bounding boxes for 240827195604_right_frame_0002_crop_2
+2025-03-19 10:00:06,427 - INFO - Saved progress: 151/14845 for ../Cheonan_Test
+2025-03-19 10:00:07,117 - INFO - Successfully loaded image and labels for 240827194504_rear_frame_0011_crop_0 from ../Cheonan_Test/images/train/240827194504_rear_frame_0011_crop_0.png
+2025-03-19 10:00:07,117 - INFO - Drew bounding boxes for 240827194504_rear_frame_0011_crop_0
+2025-03-19 10:00:07,125 - INFO - Saved progress: 150/14845 for ../Cheonan_Test
+2025-03-19 10:00:08,298 - INFO - Successfully loaded image and labels for 240827194304_front_frame_0008_crop_5 from ../Cheonan_Test/images/train/240827194304_front_frame_0008_crop_5.png
+2025-03-19 10:00:08,299 - INFO - Drew bounding boxes for 240827194304_front_frame_0008_crop_5
+2025-03-19 10:00:08,306 - INFO - Saved progress: 149/14845 for ../Cheonan_Test
+2025-03-19 10:00:08,915 - INFO - Successfully loaded image and labels for 240827200404_front_frame_0010_crop_0 from ../Cheonan_Test/images/train/240827200404_front_frame_0010_crop_0.png
+2025-03-19 10:00:08,915 - INFO - Drew bounding boxes for 240827200404_front_frame_0010_crop_0
+2025-03-19 10:00:08,922 - INFO - Saved progress: 148/14845 for ../Cheonan_Test
+2025-03-19 10:00:09,274 - INFO - Successfully loaded image and labels for 240827194304_front_frame_0008_crop_5 from ../Cheonan_Test/images/train/240827194304_front_frame_0008_crop_5.png
+2025-03-19 10:00:09,274 - INFO - Drew bounding boxes for 240827194304_front_frame_0008_crop_5
+2025-03-19 10:00:09,280 - INFO - Saved progress: 149/14845 for ../Cheonan_Test
+2025-03-19 10:00:09,691 - INFO - Successfully loaded image and labels for 240827200404_front_frame_0010_crop_0 from ../Cheonan_Test/images/train/240827200404_front_frame_0010_crop_0.png
+2025-03-19 10:00:09,692 - INFO - Drew bounding boxes for 240827200404_front_frame_0010_crop_0
+2025-03-19 10:00:09,699 - INFO - Saved progress: 148/14845 for ../Cheonan_Test
+2025-03-19 10:00:09,908 - INFO - Successfully loaded image and labels for 240827194404_front_frame_0000_crop_8 from ../Cheonan_Test/images/train/240827194404_front_frame_0000_crop_8.png
+2025-03-19 10:00:09,908 - INFO - Drew bounding boxes for 240827194404_front_frame_0000_crop_8
+2025-03-19 10:00:09,914 - INFO - Saved progress: 147/14845 for ../Cheonan_Test
+2025-03-19 10:00:23,459 - INFO - Successfully loaded image and labels for 240827200404_front_frame_0010_crop_0 from ../Cheonan_Test/images/train/240827200404_front_frame_0010_crop_0.png
+2025-03-19 10:00:23,459 - INFO - Drew bounding boxes for 240827200404_front_frame_0010_crop_0
+2025-03-19 10:00:23,469 - INFO - Saved progress: 148/14845 for ../Cheonan_Test
+2025-03-19 10:00:23,898 - INFO - Successfully loaded image and labels for 240827194304_front_frame_0008_crop_5 from ../Cheonan_Test/images/train/240827194304_front_frame_0008_crop_5.png
+2025-03-19 10:00:23,898 - INFO - Drew bounding boxes for 240827194304_front_frame_0008_crop_5
+2025-03-19 10:00:23,906 - INFO - Saved progress: 149/14845 for ../Cheonan_Test
+2025-03-19 10:00:24,323 - INFO - Successfully loaded image and labels for 240827200404_front_frame_0010_crop_0 from ../Cheonan_Test/images/train/240827200404_front_frame_0010_crop_0.png
+2025-03-19 10:00:24,324 - INFO - Drew bounding boxes for 240827200404_front_frame_0010_crop_0
+2025-03-19 10:00:24,332 - INFO - Saved progress: 148/14845 for ../Cheonan_Test
+2025-03-19 10:00:24,532 - INFO - Successfully loaded image and labels for 240827194404_front_frame_0000_crop_8 from ../Cheonan_Test/images/train/240827194404_front_frame_0000_crop_8.png
+2025-03-19 10:00:24,532 - INFO - Drew bounding boxes for 240827194404_front_frame_0000_crop_8
+2025-03-19 10:00:24,540 - INFO - Saved progress: 147/14845 for ../Cheonan_Test
+2025-03-19 10:00:25,563 - INFO - Successfully loaded image and labels for 240827200404_front_frame_0010_crop_0 from ../Cheonan_Test/images/train/240827200404_front_frame_0010_crop_0.png
+2025-03-19 10:00:25,564 - INFO - Drew bounding boxes for 240827200404_front_frame_0010_crop_0
+2025-03-19 10:00:25,572 - INFO - Saved progress: 148/14845 for ../Cheonan_Test
+2025-03-19 10:00:27,026 - INFO - Successfully loaded image and labels for 240827194304_front_frame_0008_crop_5 from ../Cheonan_Test/images/train/240827194304_front_frame_0008_crop_5.png
+2025-03-19 10:00:27,027 - INFO - Drew bounding boxes for 240827194304_front_frame_0008_crop_5
+2025-03-19 10:00:27,032 - INFO - Saved progress: 149/14845 for ../Cheonan_Test
+2025-03-19 10:00:27,611 - INFO - Successfully loaded image and labels for 240827200404_front_frame_0010_crop_0 from ../Cheonan_Test/images/train/240827200404_front_frame_0010_crop_0.png
+2025-03-19 10:00:27,611 - INFO - Drew bounding boxes for 240827200404_front_frame_0010_crop_0
+2025-03-19 10:00:27,620 - INFO - Saved progress: 148/14845 for ../Cheonan_Test
+2025-03-19 10:00:28,203 - INFO - Successfully loaded image and labels for 240827194404_front_frame_0000_crop_8 from ../Cheonan_Test/images/train/240827194404_front_frame_0000_crop_8.png
+2025-03-19 10:00:28,204 - INFO - Drew bounding boxes for 240827194404_front_frame_0000_crop_8
+2025-03-19 10:00:28,210 - INFO - Saved progress: 147/14845 for ../Cheonan_Test
+2025-03-19 10:00:29,115 - INFO - Successfully loaded image and labels for 240827200404_front_frame_0010_crop_0 from ../Cheonan_Test/images/train/240827200404_front_frame_0010_crop_0.png
+2025-03-19 10:00:29,115 - INFO - Drew bounding boxes for 240827200404_front_frame_0010_crop_0
+2025-03-19 10:00:29,122 - INFO - Saved progress: 148/14845 for ../Cheonan_Test
+2025-03-19 10:00:29,548 - INFO - Successfully loaded image and labels for 240827194404_front_frame_0000_crop_8 from ../Cheonan_Test/images/train/240827194404_front_frame_0000_crop_8.png
+2025-03-19 10:00:29,548 - INFO - Drew bounding boxes for 240827194404_front_frame_0000_crop_8
+2025-03-19 10:00:29,555 - INFO - Saved progress: 147/14845 for ../Cheonan_Test
+2025-03-19 10:00:30,363 - INFO - Successfully loaded image and labels for 240827200404_front_frame_0010_crop_0 from ../Cheonan_Test/images/train/240827200404_front_frame_0010_crop_0.png
+2025-03-19 10:00:30,363 - INFO - Drew bounding boxes for 240827200404_front_frame_0010_crop_0
+2025-03-19 10:00:30,370 - INFO - Saved progress: 148/14845 for ../Cheonan_Test
+2025-03-19 10:00:30,786 - INFO - Successfully loaded image and labels for 240827194304_front_frame_0008_crop_5 from ../Cheonan_Test/images/train/240827194304_front_frame_0008_crop_5.png
+2025-03-19 10:00:30,786 - INFO - Drew bounding boxes for 240827194304_front_frame_0008_crop_5
+2025-03-19 10:00:30,792 - INFO - Saved progress: 149/14845 for ../Cheonan_Test
+2025-03-19 10:00:35,218 - INFO - Successfully loaded image and labels for 240827194504_rear_frame_0011_crop_0 from ../Cheonan_Test/images/train/240827194504_rear_frame_0011_crop_0.png
+2025-03-19 10:00:35,219 - INFO - Drew bounding boxes for 240827194504_rear_frame_0011_crop_0
+2025-03-19 10:00:35,225 - INFO - Saved progress: 150/14845 for ../Cheonan_Test
+2025-03-19 10:00:36,940 - INFO - Successfully loaded image and labels for 240827195604_right_frame_0002_crop_2 from ../Cheonan_Test/images/train/240827195604_right_frame_0002_crop_2.png
+2025-03-19 10:00:36,940 - INFO - Drew bounding boxes for 240827195604_right_frame_0002_crop_2
+2025-03-19 10:00:36,947 - INFO - Saved progress: 151/14845 for ../Cheonan_Test
+2025-03-19 10:00:39,075 - INFO - Successfully loaded image and labels for 240827200204_right_frame_0010_crop_2 from ../Cheonan_Test/images/train/240827200204_right_frame_0010_crop_2.png
+2025-03-19 10:00:39,075 - INFO - Drew bounding boxes for 240827200204_right_frame_0010_crop_2
+2025-03-19 10:00:39,082 - INFO - Saved progress: 152/14845 for ../Cheonan_Test
+2025-03-19 10:00:39,275 - INFO - Successfully loaded image and labels for 240827194604_front_frame_0008_crop_8 from ../Cheonan_Test/images/train/240827194604_front_frame_0008_crop_8.png
+2025-03-19 10:00:39,275 - INFO - Drew bounding boxes for 240827194604_front_frame_0008_crop_8
+2025-03-19 10:00:39,281 - INFO - Saved progress: 153/14845 for ../Cheonan_Test
+2025-03-19 10:00:39,627 - INFO - Successfully loaded image and labels for 240827132905_right_frame_0011_crop_2 from ../Cheonan_Test/images/train/240827132905_right_frame_0011_crop_2.png
+2025-03-19 10:00:39,627 - INFO - Drew bounding boxes for 240827132905_right_frame_0011_crop_2
+2025-03-19 10:00:39,635 - INFO - Saved progress: 154/14845 for ../Cheonan_Test
+2025-03-19 10:00:39,938 - INFO - Successfully loaded image and labels for 240826211610_front_frame_0002_crop_4 from ../Cheonan_Test/images/train/240826211610_front_frame_0002_crop_4.png
+2025-03-19 10:00:39,939 - INFO - Drew bounding boxes for 240826211610_front_frame_0002_crop_4
+2025-03-19 10:00:39,944 - INFO - Saved progress: 155/14845 for ../Cheonan_Test
+2025-03-19 10:00:40,411 - INFO - Successfully loaded image and labels for 240827132905_right_frame_0011_crop_2 from ../Cheonan_Test/images/train/240827132905_right_frame_0011_crop_2.png
+2025-03-19 10:00:40,411 - INFO - Drew bounding boxes for 240827132905_right_frame_0011_crop_2
+2025-03-19 10:00:40,419 - INFO - Saved progress: 154/14845 for ../Cheonan_Test
+2025-03-19 10:00:40,715 - INFO - Successfully loaded image and labels for 240827194604_front_frame_0008_crop_8 from ../Cheonan_Test/images/train/240827194604_front_frame_0008_crop_8.png
+2025-03-19 10:00:40,715 - INFO - Drew bounding boxes for 240827194604_front_frame_0008_crop_8
+2025-03-19 10:00:40,720 - INFO - Saved progress: 153/14845 for ../Cheonan_Test
+2025-03-19 10:00:41,163 - INFO - Successfully loaded image and labels for 240827132905_right_frame_0011_crop_2 from ../Cheonan_Test/images/train/240827132905_right_frame_0011_crop_2.png
+2025-03-19 10:00:41,163 - INFO - Drew bounding boxes for 240827132905_right_frame_0011_crop_2
+2025-03-19 10:00:41,170 - INFO - Saved progress: 154/14845 for ../Cheonan_Test
+2025-03-19 10:00:41,450 - INFO - Successfully loaded image and labels for 240827194604_front_frame_0008_crop_8 from ../Cheonan_Test/images/train/240827194604_front_frame_0008_crop_8.png
+2025-03-19 10:00:41,451 - INFO - Drew bounding boxes for 240827194604_front_frame_0008_crop_8
+2025-03-19 10:00:41,457 - INFO - Saved progress: 153/14845 for ../Cheonan_Test
+2025-03-19 10:00:43,754 - INFO - Successfully loaded image and labels for 240827200204_right_frame_0010_crop_2 from ../Cheonan_Test/images/train/240827200204_right_frame_0010_crop_2.png
+2025-03-19 10:00:43,754 - INFO - Drew bounding boxes for 240827200204_right_frame_0010_crop_2
+2025-03-19 10:00:43,760 - INFO - Saved progress: 152/14845 for ../Cheonan_Test
+2025-03-19 10:00:44,908 - INFO - Successfully loaded image and labels for 240827195604_right_frame_0002_crop_2 from ../Cheonan_Test/images/train/240827195604_right_frame_0002_crop_2.png
+2025-03-19 10:00:44,908 - INFO - Drew bounding boxes for 240827195604_right_frame_0002_crop_2
+2025-03-19 10:00:44,914 - INFO - Saved progress: 151/14845 for ../Cheonan_Test
+2025-03-19 10:00:45,371 - INFO - Successfully loaded image and labels for 240827200204_right_frame_0010_crop_2 from ../Cheonan_Test/images/train/240827200204_right_frame_0010_crop_2.png
+2025-03-19 10:00:45,371 - INFO - Drew bounding boxes for 240827200204_right_frame_0010_crop_2
+2025-03-19 10:00:45,377 - INFO - Saved progress: 152/14845 for ../Cheonan_Test
+2025-03-19 10:00:45,738 - INFO - Successfully loaded image and labels for 240827194604_front_frame_0008_crop_8 from ../Cheonan_Test/images/train/240827194604_front_frame_0008_crop_8.png
+2025-03-19 10:00:45,739 - INFO - Drew bounding boxes for 240827194604_front_frame_0008_crop_8
+2025-03-19 10:00:45,745 - INFO - Saved progress: 153/14845 for ../Cheonan_Test
+2025-03-19 10:00:46,058 - INFO - Successfully loaded image and labels for 240827200204_right_frame_0010_crop_2 from ../Cheonan_Test/images/train/240827200204_right_frame_0010_crop_2.png
+2025-03-19 10:00:46,058 - INFO - Drew bounding boxes for 240827200204_right_frame_0010_crop_2
+2025-03-19 10:00:46,065 - INFO - Saved progress: 152/14845 for ../Cheonan_Test
+2025-03-19 10:00:46,890 - INFO - Successfully loaded image and labels for 240827194604_front_frame_0008_crop_8 from ../Cheonan_Test/images/train/240827194604_front_frame_0008_crop_8.png
+2025-03-19 10:00:46,891 - INFO - Drew bounding boxes for 240827194604_front_frame_0008_crop_8
+2025-03-19 10:00:46,897 - INFO - Saved progress: 153/14845 for ../Cheonan_Test
+2025-03-19 10:00:47,131 - INFO - Successfully loaded image and labels for 240827132905_right_frame_0011_crop_2 from ../Cheonan_Test/images/train/240827132905_right_frame_0011_crop_2.png
+2025-03-19 10:00:47,131 - INFO - Drew bounding boxes for 240827132905_right_frame_0011_crop_2
+2025-03-19 10:00:47,139 - INFO - Saved progress: 154/14845 for ../Cheonan_Test
+2025-03-19 10:00:47,338 - INFO - Successfully loaded image and labels for 240826211610_front_frame_0002_crop_4 from ../Cheonan_Test/images/train/240826211610_front_frame_0002_crop_4.png
+2025-03-19 10:00:47,338 - INFO - Drew bounding boxes for 240826211610_front_frame_0002_crop_4
+2025-03-19 10:00:47,344 - INFO - Saved progress: 155/14845 for ../Cheonan_Test
+2025-03-19 10:00:47,523 - INFO - Successfully loaded image and labels for 240827195804_left_frame_0010_crop_0 from ../Cheonan_Test/images/train/240827195804_left_frame_0010_crop_0.png
+2025-03-19 10:00:47,523 - INFO - Drew bounding boxes for 240827195804_left_frame_0010_crop_0
+2025-03-19 10:00:47,530 - INFO - Saved progress: 156/14845 for ../Cheonan_Test
+2025-03-19 10:00:47,715 - INFO - Successfully loaded image and labels for 240826211010_left_frame_0011_crop_4 from ../Cheonan_Test/images/train/240826211010_left_frame_0011_crop_4.png
+2025-03-19 10:00:47,715 - INFO - Drew bounding boxes for 240826211010_left_frame_0011_crop_4
+2025-03-19 10:00:47,722 - INFO - Saved progress: 157/14845 for ../Cheonan_Test
+2025-03-19 10:00:47,893 - INFO - Successfully loaded image and labels for 240826211010_front_frame_0006_crop_5 from ../Cheonan_Test/images/train/240826211010_front_frame_0006_crop_5.png
+2025-03-19 10:00:47,893 - INFO - Drew bounding boxes for 240826211010_front_frame_0006_crop_5
+2025-03-19 10:00:47,899 - INFO - Saved progress: 158/14845 for ../Cheonan_Test
+2025-03-19 10:00:48,091 - INFO - Successfully loaded image and labels for 240827193904_right_frame_0000_crop_4 from ../Cheonan_Test/images/train/240827193904_right_frame_0000_crop_4.png
+2025-03-19 10:00:48,091 - INFO - Drew bounding boxes for 240827193904_right_frame_0000_crop_4
+2025-03-19 10:00:48,098 - INFO - Saved progress: 159/14845 for ../Cheonan_Test
+2025-03-19 10:00:48,260 - INFO - Successfully loaded image and labels for 240827202304_left_frame_0002_crop_2 from ../Cheonan_Test/images/train/240827202304_left_frame_0002_crop_2.png
+2025-03-19 10:00:48,260 - INFO - Drew bounding boxes for 240827202304_left_frame_0002_crop_2
+2025-03-19 10:00:48,266 - INFO - Saved progress: 160/14845 for ../Cheonan_Test
+2025-03-19 10:00:48,460 - INFO - Successfully loaded image and labels for 240827132505_left_frame_0000_crop_15 from ../Cheonan_Test/images/train/240827132505_left_frame_0000_crop_15.png
+2025-03-19 10:00:48,460 - INFO - Drew bounding boxes for 240827132505_left_frame_0000_crop_15
+2025-03-19 10:00:48,466 - INFO - Saved progress: 161/14845 for ../Cheonan_Test
+2025-03-19 10:00:48,643 - INFO - Successfully loaded image and labels for 240826211010_rear_frame_0001_crop_22 from ../Cheonan_Test/images/train/240826211010_rear_frame_0001_crop_22.png
+2025-03-19 10:00:48,643 - INFO - Drew bounding boxes for 240826211010_rear_frame_0001_crop_22
+2025-03-19 10:00:48,650 - INFO - Saved progress: 162/14845 for ../Cheonan_Test
+2025-03-19 10:00:49,098 - INFO - Successfully loaded image and labels for 240827132605_front_frame_0007_crop_14 from ../Cheonan_Test/images/train/240827132605_front_frame_0007_crop_14.png
+2025-03-19 10:00:49,098 - INFO - Drew bounding boxes for 240827132605_front_frame_0007_crop_14
+2025-03-19 10:00:49,104 - INFO - Saved progress: 163/14845 for ../Cheonan_Test
+2025-03-19 10:00:49,587 - INFO - Successfully loaded image and labels for 240827200204_left_frame_0008_crop_5 from ../Cheonan_Test/images/train/240827200204_left_frame_0008_crop_5.png
+2025-03-19 10:00:49,587 - INFO - Drew bounding boxes for 240827200204_left_frame_0008_crop_5
+2025-03-19 10:00:49,594 - INFO - Saved progress: 164/14845 for ../Cheonan_Test
+2025-03-19 10:00:50,298 - INFO - Successfully loaded image and labels for 240827132605_front_frame_0007_crop_14 from ../Cheonan_Test/images/train/240827132605_front_frame_0007_crop_14.png
+2025-03-19 10:00:50,298 - INFO - Drew bounding boxes for 240827132605_front_frame_0007_crop_14
+2025-03-19 10:00:50,305 - INFO - Saved progress: 163/14845 for ../Cheonan_Test
+2025-03-19 10:00:50,786 - INFO - Successfully loaded image and labels for 240827200204_left_frame_0008_crop_5 from ../Cheonan_Test/images/train/240827200204_left_frame_0008_crop_5.png
+2025-03-19 10:00:50,786 - INFO - Drew bounding boxes for 240827200204_left_frame_0008_crop_5
+2025-03-19 10:00:50,793 - INFO - Saved progress: 164/14845 for ../Cheonan_Test
+2025-03-19 10:00:51,204 - INFO - Successfully loaded image and labels for 240826211010_front_frame_0010_crop_23 from ../Cheonan_Test/images/train/240826211010_front_frame_0010_crop_23.png
+2025-03-19 10:00:51,205 - INFO - Drew bounding boxes for 240826211010_front_frame_0010_crop_23
+2025-03-19 10:00:51,212 - INFO - Saved progress: 165/14845 for ../Cheonan_Test
+2025-03-19 10:00:51,499 - INFO - Successfully loaded image and labels for 240827200304_right_frame_0010_crop_0 from ../Cheonan_Test/images/train/240827200304_right_frame_0010_crop_0.png
+2025-03-19 10:00:51,499 - INFO - Drew bounding boxes for 240827200304_right_frame_0010_crop_0
+2025-03-19 10:00:51,506 - INFO - Saved progress: 166/14845 for ../Cheonan_Test
+2025-03-19 10:00:51,802 - INFO - Successfully loaded image and labels for 240827132705_front_frame_0007_crop_0 from ../Cheonan_Test/images/train/240827132705_front_frame_0007_crop_0.png
+2025-03-19 10:00:51,803 - INFO - Drew bounding boxes for 240827132705_front_frame_0007_crop_0
+2025-03-19 10:00:51,809 - INFO - Saved progress: 167/14845 for ../Cheonan_Test
+2025-03-19 10:00:52,012 - INFO - Successfully loaded image and labels for 240827202204_rear_frame_0003_crop_0 from ../Cheonan_Test/images/train/240827202204_rear_frame_0003_crop_0.png
+2025-03-19 10:00:52,012 - INFO - Drew bounding boxes for 240827202204_rear_frame_0003_crop_0
+2025-03-19 10:00:52,021 - INFO - Saved progress: 168/14845 for ../Cheonan_Test
+2025-03-19 10:00:52,220 - INFO - Successfully loaded image and labels for 240826211310_left_frame_0002_crop_5 from ../Cheonan_Test/images/train/240826211310_left_frame_0002_crop_5.png
+2025-03-19 10:00:52,220 - INFO - Drew bounding boxes for 240826211310_left_frame_0002_crop_5
+2025-03-19 10:00:52,226 - INFO - Saved progress: 169/14845 for ../Cheonan_Test
+2025-03-19 10:00:52,411 - INFO - Successfully loaded image and labels for 240827194404_left_frame_0011_crop_5 from ../Cheonan_Test/images/train/240827194404_left_frame_0011_crop_5.png
+2025-03-19 10:00:52,412 - INFO - Drew bounding boxes for 240827194404_left_frame_0011_crop_5
+2025-03-19 10:00:52,419 - INFO - Saved progress: 170/14845 for ../Cheonan_Test
+2025-03-19 10:00:52,588 - INFO - Successfully loaded image and labels for 240827201804_right_frame_0000_crop_0 from ../Cheonan_Test/images/train/240827201804_right_frame_0000_crop_0.png
+2025-03-19 10:00:52,588 - INFO - Drew bounding boxes for 240827201804_right_frame_0000_crop_0
+2025-03-19 10:00:52,594 - INFO - Saved progress: 171/14845 for ../Cheonan_Test
+2025-03-19 10:00:52,836 - INFO - Successfully loaded image and labels for 240827132005_left_frame_0000_crop_12 from ../Cheonan_Test/images/train/240827132005_left_frame_0000_crop_12.png
+2025-03-19 10:00:52,836 - INFO - Drew bounding boxes for 240827132005_left_frame_0000_crop_12
+2025-03-19 10:00:52,843 - INFO - Saved progress: 172/14845 for ../Cheonan_Test
+2025-03-19 10:01:23,721 - INFO - Successfully loaded image and labels for 240827200004_front_frame_0008_crop_4 from ../Cheonan_Test/images/train/240827200004_front_frame_0008_crop_4.png
+2025-03-19 10:01:23,721 - INFO - Drew bounding boxes for 240827200004_front_frame_0008_crop_4
+2025-03-19 10:01:23,729 - INFO - Saved progress: 173/14845 for ../Cheonan_Test
+2025-03-19 10:01:27,748 - INFO - Successfully loaded image and labels for 240827194304_left_frame_0006_crop_1 from ../Cheonan_Test/images/train/240827194304_left_frame_0006_crop_1.png
+2025-03-19 10:01:27,749 - INFO - Drew bounding boxes for 240827194304_left_frame_0006_crop_1
+2025-03-19 10:01:27,757 - INFO - Saved progress: 174/14845 for ../Cheonan_Test
+2025-03-19 10:01:28,088 - INFO - Successfully loaded image and labels for 240827200004_front_frame_0008_crop_4 from ../Cheonan_Test/images/train/240827200004_front_frame_0008_crop_4.png
+2025-03-19 10:01:28,089 - INFO - Drew bounding boxes for 240827200004_front_frame_0008_crop_4
+2025-03-19 10:01:28,095 - INFO - Saved progress: 173/14845 for ../Cheonan_Test
+2025-03-19 10:01:35,323 - INFO - Successfully loaded image and labels for 240827194304_left_frame_0006_crop_1 from ../Cheonan_Test/images/train/240827194304_left_frame_0006_crop_1.png
+2025-03-19 10:01:35,323 - INFO - Drew bounding boxes for 240827194304_left_frame_0006_crop_1
+2025-03-19 10:01:35,330 - INFO - Saved progress: 174/14845 for ../Cheonan_Test
+2025-03-19 10:01:36,649 - INFO - Successfully loaded image and labels for 240827200004_front_frame_0008_crop_4 from ../Cheonan_Test/images/train/240827200004_front_frame_0008_crop_4.png
+2025-03-19 10:01:36,649 - INFO - Drew bounding boxes for 240827200004_front_frame_0008_crop_4
+2025-03-19 10:01:36,655 - INFO - Saved progress: 173/14845 for ../Cheonan_Test
+2025-03-19 10:01:37,043 - INFO - Successfully loaded image and labels for 240827132005_left_frame_0000_crop_12 from ../Cheonan_Test/images/train/240827132005_left_frame_0000_crop_12.png
+2025-03-19 10:01:37,043 - INFO - Drew bounding boxes for 240827132005_left_frame_0000_crop_12
+2025-03-19 10:01:37,050 - INFO - Saved progress: 172/14845 for ../Cheonan_Test
+2025-03-19 10:01:37,433 - INFO - Successfully loaded image and labels for 240827200004_front_frame_0008_crop_4 from ../Cheonan_Test/images/train/240827200004_front_frame_0008_crop_4.png
+2025-03-19 10:01:37,433 - INFO - Drew bounding boxes for 240827200004_front_frame_0008_crop_4
+2025-03-19 10:01:37,438 - INFO - Saved progress: 173/14845 for ../Cheonan_Test
+2025-03-19 10:01:37,939 - INFO - Successfully loaded image and labels for 240827194304_left_frame_0006_crop_1 from ../Cheonan_Test/images/train/240827194304_left_frame_0006_crop_1.png
+2025-03-19 10:01:37,939 - INFO - Drew bounding boxes for 240827194304_left_frame_0006_crop_1
+2025-03-19 10:01:37,946 - INFO - Saved progress: 174/14845 for ../Cheonan_Test
+2025-03-19 10:01:38,395 - INFO - Successfully loaded image and labels for 240827132205_rear_frame_0008_crop_8 from ../Cheonan_Test/images/train/240827132205_rear_frame_0008_crop_8.png
+2025-03-19 10:01:38,395 - INFO - Drew bounding boxes for 240827132205_rear_frame_0008_crop_8
+2025-03-19 10:01:38,401 - INFO - Saved progress: 175/14845 for ../Cheonan_Test
+2025-03-19 10:01:38,850 - INFO - Successfully loaded image and labels for 240827194404_left_frame_0005_crop_2 from ../Cheonan_Test/images/train/240827194404_left_frame_0005_crop_2.png
+2025-03-19 10:01:38,850 - INFO - Drew bounding boxes for 240827194404_left_frame_0005_crop_2
+2025-03-19 10:01:38,857 - INFO - Saved progress: 176/14845 for ../Cheonan_Test
+2025-03-19 10:01:39,115 - INFO - Successfully loaded image and labels for 240826211310_left_frame_0007_crop_20 from ../Cheonan_Test/images/train/240826211310_left_frame_0007_crop_20.png
+2025-03-19 10:01:39,116 - INFO - Drew bounding boxes for 240826211310_left_frame_0007_crop_20
+2025-03-19 10:01:39,123 - INFO - Saved progress: 177/14845 for ../Cheonan_Test
+2025-03-19 10:01:39,346 - INFO - Successfully loaded image and labels for 240827194204_rear_frame_0011_crop_5 from ../Cheonan_Test/images/train/240827194204_rear_frame_0011_crop_5.png
+2025-03-19 10:01:39,347 - INFO - Drew bounding boxes for 240827194204_rear_frame_0011_crop_5
+2025-03-19 10:01:39,356 - INFO - Saved progress: 178/14845 for ../Cheonan_Test
+2025-03-19 10:01:39,516 - INFO - Successfully loaded image and labels for 240827193804_right_frame_0002_crop_4 from ../Cheonan_Test/images/train/240827193804_right_frame_0002_crop_4.png
+2025-03-19 10:01:39,516 - INFO - Drew bounding boxes for 240827193804_right_frame_0002_crop_4
+2025-03-19 10:01:39,524 - INFO - Saved progress: 179/14845 for ../Cheonan_Test
+2025-03-19 10:01:39,682 - INFO - Successfully loaded image and labels for 240827195004_left_frame_0009_crop_5 from ../Cheonan_Test/images/train/240827195004_left_frame_0009_crop_5.png
+2025-03-19 10:01:39,682 - INFO - Drew bounding boxes for 240827195004_left_frame_0009_crop_5
+2025-03-19 10:01:39,690 - INFO - Saved progress: 180/14845 for ../Cheonan_Test
+2025-03-19 10:01:39,851 - INFO - Successfully loaded image and labels for 240827132105_left_frame_0006_crop_4 from ../Cheonan_Test/images/train/240827132105_left_frame_0006_crop_4.png
+2025-03-19 10:01:39,851 - INFO - Drew bounding boxes for 240827132105_left_frame_0006_crop_4
+2025-03-19 10:01:39,858 - INFO - Saved progress: 181/14845 for ../Cheonan_Test
+2025-03-19 10:01:40,579 - INFO - Successfully loaded image and labels for 240827195404_front_frame_0000_crop_0 from ../Cheonan_Test/images/train/240827195404_front_frame_0000_crop_0.png
+2025-03-19 10:01:40,579 - INFO - Drew bounding boxes for 240827195404_front_frame_0000_crop_0
+2025-03-19 10:01:40,585 - INFO - Saved progress: 182/14845 for ../Cheonan_Test
+2025-03-19 10:01:40,938 - INFO - Successfully loaded image and labels for 240827132105_left_frame_0006_crop_4 from ../Cheonan_Test/images/train/240827132105_left_frame_0006_crop_4.png
+2025-03-19 10:01:40,938 - INFO - Drew bounding boxes for 240827132105_left_frame_0006_crop_4
+2025-03-19 10:01:40,944 - INFO - Saved progress: 181/14845 for ../Cheonan_Test
+2025-03-19 10:02:02,019 - INFO - Successfully loaded image and labels for 240827195404_front_frame_0000_crop_0 from ../Cheonan_Test/images/train/240827195404_front_frame_0000_crop_0.png
+2025-03-19 10:02:02,019 - INFO - Drew bounding boxes for 240827195404_front_frame_0000_crop_0
+2025-03-19 10:02:02,024 - INFO - Saved progress: 182/14845 for ../Cheonan_Test
+2025-03-19 10:02:03,811 - INFO - Successfully loaded image and labels for 240827193504_rear_frame_0001_crop_3 from ../Cheonan_Test/images/train/240827193504_rear_frame_0001_crop_3.png
+2025-03-19 10:02:03,811 - INFO - Drew bounding boxes for 240827193504_rear_frame_0001_crop_3
+2025-03-19 10:02:03,819 - INFO - Saved progress: 183/14845 for ../Cheonan_Test
+2025-03-19 10:02:04,177 - INFO - Successfully loaded image and labels for 240827195404_front_frame_0000_crop_0 from ../Cheonan_Test/images/train/240827195404_front_frame_0000_crop_0.png
+2025-03-19 10:02:04,177 - INFO - Drew bounding boxes for 240827195404_front_frame_0000_crop_0
+2025-03-19 10:02:04,183 - INFO - Saved progress: 182/14845 for ../Cheonan_Test
+2025-03-19 10:02:04,555 - INFO - Successfully loaded image and labels for 240827193504_rear_frame_0001_crop_3 from ../Cheonan_Test/images/train/240827193504_rear_frame_0001_crop_3.png
+2025-03-19 10:02:04,555 - INFO - Drew bounding boxes for 240827193504_rear_frame_0001_crop_3
+2025-03-19 10:02:04,562 - INFO - Saved progress: 183/14845 for ../Cheonan_Test
+2025-03-19 10:02:05,602 - INFO - Successfully loaded image and labels for 240827131905_front_frame_0009_crop_11 from ../Cheonan_Test/images/train/240827131905_front_frame_0009_crop_11.png
+2025-03-19 10:02:05,602 - INFO - Drew bounding boxes for 240827131905_front_frame_0009_crop_11
+2025-03-19 10:02:05,608 - INFO - Saved progress: 184/14845 for ../Cheonan_Test
+2025-03-19 10:02:06,406 - INFO - Successfully loaded image and labels for 240827132105_right_frame_0004_crop_7 from ../Cheonan_Test/images/train/240827132105_right_frame_0004_crop_7.png
+2025-03-19 10:02:06,407 - INFO - Drew bounding boxes for 240827132105_right_frame_0004_crop_7
+2025-03-19 10:02:06,415 - INFO - Saved progress: 185/14845 for ../Cheonan_Test
+2025-03-19 10:02:06,587 - INFO - Successfully loaded image and labels for 240826211010_left_frame_0001_crop_26 from ../Cheonan_Test/images/train/240826211010_left_frame_0001_crop_26.png
+2025-03-19 10:02:06,587 - INFO - Drew bounding boxes for 240826211010_left_frame_0001_crop_26
+2025-03-19 10:02:06,593 - INFO - Saved progress: 186/14845 for ../Cheonan_Test
+2025-03-19 10:02:06,810 - INFO - Successfully loaded image and labels for 240826211110_left_frame_0003_crop_1 from ../Cheonan_Test/images/train/240826211110_left_frame_0003_crop_1.png
+2025-03-19 10:02:06,811 - INFO - Drew bounding boxes for 240826211110_left_frame_0003_crop_1
+2025-03-19 10:02:06,817 - INFO - Saved progress: 187/14845 for ../Cheonan_Test
+2025-03-19 10:02:07,019 - INFO - Successfully loaded image and labels for 240827132105_left_frame_0010_crop_5 from ../Cheonan_Test/images/train/240827132105_left_frame_0010_crop_5.png
+2025-03-19 10:02:07,020 - INFO - Drew bounding boxes for 240827132105_left_frame_0010_crop_5
+2025-03-19 10:02:07,026 - INFO - Saved progress: 188/14845 for ../Cheonan_Test
+2025-03-19 10:02:07,211 - INFO - Successfully loaded image and labels for 240827132605_right_frame_0001_crop_4 from ../Cheonan_Test/images/train/240827132605_right_frame_0001_crop_4.png
+2025-03-19 10:02:07,211 - INFO - Drew bounding boxes for 240827132605_right_frame_0001_crop_4
+2025-03-19 10:02:07,222 - INFO - Saved progress: 189/14845 for ../Cheonan_Test
+2025-03-19 10:02:07,452 - INFO - Successfully loaded image and labels for 240827132205_right_frame_0003_crop_0 from ../Cheonan_Test/images/train/240827132205_right_frame_0003_crop_0.png
+2025-03-19 10:02:07,452 - INFO - Drew bounding boxes for 240827132205_right_frame_0003_crop_0
+2025-03-19 10:02:07,458 - INFO - Saved progress: 190/14845 for ../Cheonan_Test
+2025-03-19 10:02:07,649 - INFO - Successfully loaded image and labels for 240827193504_front_frame_0009_crop_6 from ../Cheonan_Test/images/train/240827193504_front_frame_0009_crop_6.png
+2025-03-19 10:02:07,650 - INFO - Drew bounding boxes for 240827193504_front_frame_0009_crop_6
+2025-03-19 10:02:07,655 - INFO - Saved progress: 191/14845 for ../Cheonan_Test
+2025-03-19 10:02:07,843 - INFO - Successfully loaded image and labels for 240826211110_front_frame_0001_crop_24 from ../Cheonan_Test/images/train/240826211110_front_frame_0001_crop_24.png
+2025-03-19 10:02:07,843 - INFO - Drew bounding boxes for 240826211110_front_frame_0001_crop_24
+2025-03-19 10:02:07,850 - INFO - Saved progress: 192/14845 for ../Cheonan_Test
+2025-03-19 10:02:08,027 - INFO - Successfully loaded image and labels for 240827193804_rear_frame_0008_crop_2 from ../Cheonan_Test/images/train/240827193804_rear_frame_0008_crop_2.png
+2025-03-19 10:02:08,028 - INFO - Drew bounding boxes for 240827193804_rear_frame_0008_crop_2
+2025-03-19 10:02:08,035 - INFO - Saved progress: 193/14845 for ../Cheonan_Test
+2025-03-19 10:02:08,219 - INFO - Successfully loaded image and labels for 240827132805_left_frame_0007_crop_2 from ../Cheonan_Test/images/train/240827132805_left_frame_0007_crop_2.png
+2025-03-19 10:02:08,219 - INFO - Drew bounding boxes for 240827132805_left_frame_0007_crop_2
+2025-03-19 10:02:08,225 - INFO - Saved progress: 194/14845 for ../Cheonan_Test
+2025-03-19 10:02:08,729 - INFO - Successfully loaded image and labels for 240827201704_front_frame_0011_crop_2 from ../Cheonan_Test/images/train/240827201704_front_frame_0011_crop_2.png
+2025-03-19 10:02:08,729 - INFO - Drew bounding boxes for 240827201704_front_frame_0011_crop_2
+2025-03-19 10:02:08,735 - INFO - Saved progress: 195/14845 for ../Cheonan_Test
+2025-03-19 10:02:09,179 - INFO - Successfully loaded image and labels for 240827195904_left_frame_0010_crop_17 from ../Cheonan_Test/images/train/240827195904_left_frame_0010_crop_17.png
+2025-03-19 10:02:09,179 - INFO - Drew bounding boxes for 240827195904_left_frame_0010_crop_17
+2025-03-19 10:02:09,186 - INFO - Saved progress: 196/14845 for ../Cheonan_Test
+2025-03-19 10:02:09,835 - INFO - Successfully loaded image and labels for 240827132205_rear_frame_0010_crop_19 from ../Cheonan_Test/images/train/240827132205_rear_frame_0010_crop_19.png
+2025-03-19 10:02:09,835 - INFO - Drew bounding boxes for 240827132205_rear_frame_0010_crop_19
+2025-03-19 10:02:09,841 - INFO - Saved progress: 197/14845 for ../Cheonan_Test
+2025-03-19 10:02:10,339 - INFO - Successfully loaded image and labels for 240827201604_front_frame_0007_crop_3 from ../Cheonan_Test/images/train/240827201604_front_frame_0007_crop_3.png
+2025-03-19 10:02:10,339 - INFO - Drew bounding boxes for 240827201604_front_frame_0007_crop_3
+2025-03-19 10:02:10,345 - INFO - Saved progress: 198/14845 for ../Cheonan_Test
+2025-03-19 10:02:10,803 - INFO - Successfully loaded image and labels for 240827132305_front_frame_0005_crop_6 from ../Cheonan_Test/images/train/240827132305_front_frame_0005_crop_6.png
+2025-03-19 10:02:10,803 - INFO - Drew bounding boxes for 240827132305_front_frame_0005_crop_6
+2025-03-19 10:02:10,808 - INFO - Saved progress: 199/14845 for ../Cheonan_Test
+2025-03-19 10:02:11,227 - INFO - Successfully loaded image and labels for 240827193804_rear_frame_0006_crop_6 from ../Cheonan_Test/images/train/240827193804_rear_frame_0006_crop_6.png
+2025-03-19 10:02:11,227 - INFO - Drew bounding boxes for 240827193804_rear_frame_0006_crop_6
+2025-03-19 10:02:11,234 - INFO - Saved progress: 200/14845 for ../Cheonan_Test
+2025-03-19 10:02:11,619 - INFO - Successfully loaded image and labels for 240827193504_rear_frame_0000_crop_3 from ../Cheonan_Test/images/train/240827193504_rear_frame_0000_crop_3.png
+2025-03-19 10:02:11,619 - INFO - Drew bounding boxes for 240827193504_rear_frame_0000_crop_3
+2025-03-19 10:02:11,626 - INFO - Saved progress: 201/14845 for ../Cheonan_Test
+2025-03-19 10:02:11,874 - INFO - Successfully loaded image and labels for 240826211210_rear_frame_0002_crop_13 from ../Cheonan_Test/images/train/240826211210_rear_frame_0002_crop_13.png
+2025-03-19 10:02:11,874 - INFO - Drew bounding boxes for 240826211210_rear_frame_0002_crop_13
+2025-03-19 10:02:11,881 - INFO - Saved progress: 202/14845 for ../Cheonan_Test
+2025-03-19 10:02:12,162 - INFO - Successfully loaded image and labels for 240827200004_front_frame_0009_crop_1 from ../Cheonan_Test/images/train/240827200004_front_frame_0009_crop_1.png
+2025-03-19 10:02:12,162 - INFO - Drew bounding boxes for 240827200004_front_frame_0009_crop_1
+2025-03-19 10:02:12,168 - INFO - Saved progress: 203/14845 for ../Cheonan_Test
+2025-03-19 10:02:12,387 - INFO - Successfully loaded image and labels for 240826211010_front_frame_0000_crop_39 from ../Cheonan_Test/images/train/240826211010_front_frame_0000_crop_39.png
+2025-03-19 10:02:12,388 - INFO - Drew bounding boxes for 240826211010_front_frame_0000_crop_39
+2025-03-19 10:02:12,395 - INFO - Saved progress: 204/14845 for ../Cheonan_Test
+2025-03-19 10:02:12,650 - INFO - Successfully loaded image and labels for 240826211010_front_frame_0009_crop_28 from ../Cheonan_Test/images/train/240826211010_front_frame_0009_crop_28.png
+2025-03-19 10:02:12,650 - INFO - Drew bounding boxes for 240826211010_front_frame_0009_crop_28
+2025-03-19 10:02:12,656 - INFO - Saved progress: 205/14845 for ../Cheonan_Test
+2025-03-19 10:02:12,841 - INFO - Successfully loaded image and labels for 240827202304_front_frame_0011_crop_6 from ../Cheonan_Test/images/train/240827202304_front_frame_0011_crop_6.png
+2025-03-19 10:02:12,841 - INFO - Drew bounding boxes for 240827202304_front_frame_0011_crop_6
+2025-03-19 10:02:12,847 - INFO - Saved progress: 206/14845 for ../Cheonan_Test
+2025-03-19 10:02:13,074 - INFO - Successfully loaded image and labels for 240826211510_right_frame_0010_crop_8 from ../Cheonan_Test/images/train/240826211510_right_frame_0010_crop_8.png
+2025-03-19 10:02:13,074 - INFO - Drew bounding boxes for 240826211510_right_frame_0010_crop_8
+2025-03-19 10:02:13,082 - INFO - Saved progress: 207/14845 for ../Cheonan_Test
+2025-03-19 10:02:13,282 - INFO - Successfully loaded image and labels for 240827132505_right_frame_0003_crop_4 from ../Cheonan_Test/images/train/240827132505_right_frame_0003_crop_4.png
+2025-03-19 10:02:13,283 - INFO - Drew bounding boxes for 240827132505_right_frame_0003_crop_4
+2025-03-19 10:02:13,290 - INFO - Saved progress: 208/14845 for ../Cheonan_Test
+2025-03-19 10:02:15,387 - INFO - Saved progress: 208/14845 for ../Cheonan_Test
+2025-03-19 10:04:47,961 - INFO - Successfully loaded image and labels for 240827132505_right_frame_0003_crop_4 from ../Cheonan_Test/images/train/240827132505_right_frame_0003_crop_4.png
+2025-03-19 10:04:47,961 - INFO - Drew bounding boxes for 240827132505_right_frame_0003_crop_4
+2025-03-19 10:04:50,857 - INFO - Successfully loaded image and labels for 240827201604_rear_frame_0006_crop_0 from ../Cheonan_Test/images/train/240827201604_rear_frame_0006_crop_0.png
+2025-03-19 10:04:50,857 - INFO - Drew bounding boxes for 240827201604_rear_frame_0006_crop_0
+2025-03-19 10:04:50,865 - INFO - Saved progress: 209/14845 for ../Cheonan_Test
+2025-03-19 10:04:51,679 - INFO - Successfully loaded image and labels for 240827132505_right_frame_0003_crop_4 from ../Cheonan_Test/images/train/240827132505_right_frame_0003_crop_4.png
+2025-03-19 10:04:51,679 - INFO - Drew bounding boxes for 240827132505_right_frame_0003_crop_4
+2025-03-19 10:04:51,686 - INFO - Saved progress: 208/14845 for ../Cheonan_Test
+2025-03-19 10:04:52,312 - INFO - Successfully loaded image and labels for 240827201604_rear_frame_0006_crop_0 from ../Cheonan_Test/images/train/240827201604_rear_frame_0006_crop_0.png
+2025-03-19 10:04:52,312 - INFO - Drew bounding boxes for 240827201604_rear_frame_0006_crop_0
+2025-03-19 10:04:52,319 - INFO - Saved progress: 209/14845 for ../Cheonan_Test
+2025-03-19 10:04:52,719 - INFO - Successfully loaded image and labels for 240827132505_right_frame_0003_crop_4 from ../Cheonan_Test/images/train/240827132505_right_frame_0003_crop_4.png
+2025-03-19 10:04:52,719 - INFO - Drew bounding boxes for 240827132505_right_frame_0003_crop_4
+2025-03-19 10:04:52,725 - INFO - Saved progress: 208/14845 for ../Cheonan_Test
+2025-03-19 10:04:58,736 - INFO - Successfully loaded image and labels for 240827201604_rear_frame_0006_crop_0 from ../Cheonan_Test/images/train/240827201604_rear_frame_0006_crop_0.png
+2025-03-19 10:04:58,737 - INFO - Drew bounding boxes for 240827201604_rear_frame_0006_crop_0
+2025-03-19 10:04:58,745 - INFO - Saved progress: 209/14845 for ../Cheonan_Test
+2025-03-19 10:05:01,472 - INFO - Successfully loaded image and labels for 240827132505_left_frame_0002_crop_6 from ../Cheonan_Test/images/train/240827132505_left_frame_0002_crop_6.png
+2025-03-19 10:05:01,472 - INFO - Drew bounding boxes for 240827132505_left_frame_0002_crop_6
+2025-03-19 10:05:01,480 - INFO - Saved progress: 210/14845 for ../Cheonan_Test
+2025-03-19 10:05:06,282 - INFO - Successfully loaded image and labels for 240827194304_left_frame_0003_crop_2 from ../Cheonan_Test/images/train/240827194304_left_frame_0003_crop_2.png
+2025-03-19 10:05:06,282 - INFO - Drew bounding boxes for 240827194304_left_frame_0003_crop_2
+2025-03-19 10:05:06,289 - INFO - Saved progress: 211/14845 for ../Cheonan_Test
+2025-03-19 10:05:08,639 - INFO - Successfully loaded image and labels for 240827132505_left_frame_0002_crop_6 from ../Cheonan_Test/images/train/240827132505_left_frame_0002_crop_6.png
+2025-03-19 10:05:08,640 - INFO - Drew bounding boxes for 240827132505_left_frame_0002_crop_6
+2025-03-19 10:05:08,646 - INFO - Saved progress: 210/14845 for ../Cheonan_Test
+2025-03-19 10:05:09,063 - INFO - Successfully loaded image and labels for 240827201604_rear_frame_0006_crop_0 from ../Cheonan_Test/images/train/240827201604_rear_frame_0006_crop_0.png
+2025-03-19 10:05:09,064 - INFO - Drew bounding boxes for 240827201604_rear_frame_0006_crop_0
+2025-03-19 10:05:09,071 - INFO - Saved progress: 209/14845 for ../Cheonan_Test
+2025-03-19 10:05:09,646 - INFO - Successfully loaded image and labels for 240827132505_left_frame_0002_crop_6 from ../Cheonan_Test/images/train/240827132505_left_frame_0002_crop_6.png
+2025-03-19 10:05:09,646 - INFO - Drew bounding boxes for 240827132505_left_frame_0002_crop_6
+2025-03-19 10:05:09,652 - INFO - Saved progress: 210/14845 for ../Cheonan_Test
+2025-03-19 10:05:09,944 - INFO - Successfully loaded image and labels for 240827201604_rear_frame_0006_crop_0 from ../Cheonan_Test/images/train/240827201604_rear_frame_0006_crop_0.png
+2025-03-19 10:05:09,944 - INFO - Drew bounding boxes for 240827201604_rear_frame_0006_crop_0
+2025-03-19 10:05:09,951 - INFO - Saved progress: 209/14845 for ../Cheonan_Test
+2025-03-19 10:05:10,223 - INFO - Successfully loaded image and labels for 240827132505_right_frame_0003_crop_4 from ../Cheonan_Test/images/train/240827132505_right_frame_0003_crop_4.png
+2025-03-19 10:05:10,223 - INFO - Drew bounding boxes for 240827132505_right_frame_0003_crop_4
+2025-03-19 10:05:10,229 - INFO - Saved progress: 208/14845 for ../Cheonan_Test
+2025-03-19 10:05:12,347 - INFO - Saved progress: 208/14845 for ../Cheonan_Test
+2025-03-19 10:06:12,459 - INFO - Successfully loaded image and labels for 240827132505_right_frame_0003_crop_4 from ../Cheonan_Test/images/train/240827132505_right_frame_0003_crop_4.png
+2025-03-19 10:06:12,459 - INFO - Drew bounding boxes for 240827132505_right_frame_0003_crop_4
+2025-03-19 10:06:14,215 - INFO - Successfully loaded image and labels for 240827201604_rear_frame_0006_crop_0 from ../Cheonan_Test/images/train/240827201604_rear_frame_0006_crop_0.png
+2025-03-19 10:06:14,215 - INFO - Drew bounding boxes for 240827201604_rear_frame_0006_crop_0
+2025-03-19 10:06:14,223 - INFO - Saved progress: 209/14845 for ../Cheonan_Test
+2025-03-19 10:06:15,141 - INFO - Successfully loaded image and labels for 240827132505_left_frame_0002_crop_6 from ../Cheonan_Test/images/train/240827132505_left_frame_0002_crop_6.png
+2025-03-19 10:06:15,141 - INFO - Drew bounding boxes for 240827132505_left_frame_0002_crop_6
+2025-03-19 10:06:15,148 - INFO - Saved progress: 210/14845 for ../Cheonan_Test
+2025-03-19 10:06:16,470 - INFO - Successfully loaded image and labels for 240827194304_left_frame_0003_crop_2 from ../Cheonan_Test/images/train/240827194304_left_frame_0003_crop_2.png
+2025-03-19 10:06:16,470 - INFO - Drew bounding boxes for 240827194304_left_frame_0003_crop_2
+2025-03-19 10:06:16,478 - INFO - Saved progress: 211/14845 for ../Cheonan_Test
+2025-03-19 10:06:17,504 - INFO - Successfully loaded image and labels for 240827202504_right_frame_0011_crop_0 from ../Cheonan_Test/images/train/240827202504_right_frame_0011_crop_0.png
+2025-03-19 10:06:17,504 - INFO - Drew bounding boxes for 240827202504_right_frame_0011_crop_0
+2025-03-19 10:06:17,512 - INFO - Saved progress: 212/14845 for ../Cheonan_Test
+2025-03-19 10:06:17,999 - INFO - Successfully loaded image and labels for 240827194604_left_frame_0011_crop_8 from ../Cheonan_Test/images/train/240827194604_left_frame_0011_crop_8.png
+2025-03-19 10:06:17,999 - INFO - Drew bounding boxes for 240827194604_left_frame_0011_crop_8
+2025-03-19 10:06:18,008 - INFO - Saved progress: 213/14845 for ../Cheonan_Test
+2025-03-19 10:06:18,335 - INFO - Successfully loaded image and labels for 240827202504_right_frame_0011_crop_0 from ../Cheonan_Test/images/train/240827202504_right_frame_0011_crop_0.png
+2025-03-19 10:06:18,335 - INFO - Drew bounding boxes for 240827202504_right_frame_0011_crop_0
+2025-03-19 10:06:18,342 - INFO - Saved progress: 212/14845 for ../Cheonan_Test
+2025-03-19 10:06:20,431 - INFO - Successfully loaded image and labels for 240827194604_left_frame_0011_crop_8 from ../Cheonan_Test/images/train/240827194604_left_frame_0011_crop_8.png
+2025-03-19 10:06:20,431 - INFO - Drew bounding boxes for 240827194604_left_frame_0011_crop_8
+2025-03-19 10:06:20,439 - INFO - Saved progress: 213/14845 for ../Cheonan_Test
+2025-03-19 10:06:20,952 - INFO - Successfully loaded image and labels for 240826211110_rear_frame_0005_crop_13 from ../Cheonan_Test/images/train/240826211110_rear_frame_0005_crop_13.png
+2025-03-19 10:06:20,952 - INFO - Drew bounding boxes for 240826211110_rear_frame_0005_crop_13
+2025-03-19 10:06:20,960 - INFO - Saved progress: 214/14845 for ../Cheonan_Test
+2025-03-19 10:06:21,399 - INFO - Successfully loaded image and labels for 240827131905_front_frame_0006_crop_7 from ../Cheonan_Test/images/train/240827131905_front_frame_0006_crop_7.png
+2025-03-19 10:06:21,399 - INFO - Drew bounding boxes for 240827131905_front_frame_0006_crop_7
+2025-03-19 10:06:21,409 - INFO - Saved progress: 215/14845 for ../Cheonan_Test
+2025-03-19 10:06:21,791 - INFO - Successfully loaded image and labels for 240827194704_left_frame_0002_crop_4 from ../Cheonan_Test/images/train/240827194704_left_frame_0002_crop_4.png
+2025-03-19 10:06:21,791 - INFO - Drew bounding boxes for 240827194704_left_frame_0002_crop_4
+2025-03-19 10:06:21,799 - INFO - Saved progress: 216/14845 for ../Cheonan_Test
+2025-03-19 10:06:22,294 - INFO - Successfully loaded image and labels for 240827131905_front_frame_0006_crop_7 from ../Cheonan_Test/images/train/240827131905_front_frame_0006_crop_7.png
+2025-03-19 10:06:22,295 - INFO - Drew bounding boxes for 240827131905_front_frame_0006_crop_7
+2025-03-19 10:06:22,302 - INFO - Saved progress: 215/14845 for ../Cheonan_Test
+2025-03-19 10:06:22,902 - INFO - Successfully loaded image and labels for 240827194704_left_frame_0002_crop_4 from ../Cheonan_Test/images/train/240827194704_left_frame_0002_crop_4.png
+2025-03-19 10:06:22,902 - INFO - Drew bounding boxes for 240827194704_left_frame_0002_crop_4
+2025-03-19 10:06:22,909 - INFO - Saved progress: 216/14845 for ../Cheonan_Test
+2025-03-19 10:06:23,079 - INFO - Successfully loaded image and labels for 240827193504_left_frame_0002_crop_1 from ../Cheonan_Test/images/train/240827193504_left_frame_0002_crop_1.png
+2025-03-19 10:06:23,079 - INFO - Drew bounding boxes for 240827193504_left_frame_0002_crop_1
+2025-03-19 10:06:23,087 - INFO - Saved progress: 217/14845 for ../Cheonan_Test
+2025-03-19 10:06:23,487 - INFO - Successfully loaded image and labels for 240826211010_rear_frame_0007_crop_38 from ../Cheonan_Test/images/train/240826211010_rear_frame_0007_crop_38.png
+2025-03-19 10:06:23,488 - INFO - Drew bounding boxes for 240826211010_rear_frame_0007_crop_38
+2025-03-19 10:06:23,495 - INFO - Saved progress: 218/14845 for ../Cheonan_Test
+2025-03-19 10:06:23,782 - INFO - Successfully loaded image and labels for 240826211010_front_frame_0005_crop_7 from ../Cheonan_Test/images/train/240826211010_front_frame_0005_crop_7.png
+2025-03-19 10:06:23,782 - INFO - Drew bounding boxes for 240826211010_front_frame_0005_crop_7
+2025-03-19 10:06:23,789 - INFO - Saved progress: 219/14845 for ../Cheonan_Test
+2025-03-19 10:06:24,408 - INFO - Successfully loaded image and labels for 240826211010_rear_frame_0007_crop_38 from ../Cheonan_Test/images/train/240826211010_rear_frame_0007_crop_38.png
+2025-03-19 10:06:24,408 - INFO - Drew bounding boxes for 240826211010_rear_frame_0007_crop_38
+2025-03-19 10:06:24,418 - INFO - Saved progress: 218/14845 for ../Cheonan_Test
+2025-03-19 10:06:25,125 - INFO - Successfully loaded image and labels for 240826211010_front_frame_0005_crop_7 from ../Cheonan_Test/images/train/240826211010_front_frame_0005_crop_7.png
+2025-03-19 10:06:25,125 - INFO - Drew bounding boxes for 240826211010_front_frame_0005_crop_7
+2025-03-19 10:06:25,132 - INFO - Saved progress: 219/14845 for ../Cheonan_Test
+2025-03-19 10:06:26,142 - INFO - Successfully loaded image and labels for 240826211010_rear_frame_0007_crop_38 from ../Cheonan_Test/images/train/240826211010_rear_frame_0007_crop_38.png
+2025-03-19 10:06:26,143 - INFO - Drew bounding boxes for 240826211010_rear_frame_0007_crop_38
+2025-03-19 10:06:26,151 - INFO - Saved progress: 218/14845 for ../Cheonan_Test
+2025-03-19 10:06:26,613 - INFO - Successfully loaded image and labels for 240826211010_front_frame_0005_crop_7 from ../Cheonan_Test/images/train/240826211010_front_frame_0005_crop_7.png
+2025-03-19 10:06:26,614 - INFO - Drew bounding boxes for 240826211010_front_frame_0005_crop_7
+2025-03-19 10:06:26,621 - INFO - Saved progress: 219/14845 for ../Cheonan_Test
+2025-03-19 10:06:26,790 - INFO - Successfully loaded image and labels for 240826211510_rear_frame_0006_crop_2 from ../Cheonan_Test/images/train/240826211510_rear_frame_0006_crop_2.png
+2025-03-19 10:06:26,790 - INFO - Drew bounding boxes for 240826211510_rear_frame_0006_crop_2
+2025-03-19 10:06:26,798 - INFO - Saved progress: 220/14845 for ../Cheonan_Test
+2025-03-19 10:06:27,006 - INFO - Successfully loaded image and labels for 240826211210_right_frame_0011_crop_3 from ../Cheonan_Test/images/train/240826211210_right_frame_0011_crop_3.png
+2025-03-19 10:06:27,007 - INFO - Drew bounding boxes for 240826211210_right_frame_0011_crop_3
+2025-03-19 10:06:27,015 - INFO - Saved progress: 221/14845 for ../Cheonan_Test
+2025-03-19 10:06:27,523 - INFO - Successfully loaded image and labels for 240827132405_left_frame_0009_crop_5 from ../Cheonan_Test/images/train/240827132405_left_frame_0009_crop_5.png
+2025-03-19 10:06:27,523 - INFO - Drew bounding boxes for 240827132405_left_frame_0009_crop_5
+2025-03-19 10:06:27,533 - INFO - Saved progress: 222/14845 for ../Cheonan_Test
+2025-03-19 10:06:28,167 - INFO - Successfully loaded image and labels for 240827194604_right_frame_0003_crop_0 from ../Cheonan_Test/images/train/240827194604_right_frame_0003_crop_0.png
+2025-03-19 10:06:28,167 - INFO - Drew bounding boxes for 240827194604_right_frame_0003_crop_0
+2025-03-19 10:06:28,174 - INFO - Saved progress: 223/14845 for ../Cheonan_Test
+2025-03-19 10:06:29,111 - INFO - Successfully loaded image and labels for 240826211310_left_frame_0008_crop_13 from ../Cheonan_Test/images/train/240826211310_left_frame_0008_crop_13.png
+2025-03-19 10:06:29,111 - INFO - Drew bounding boxes for 240826211310_left_frame_0008_crop_13
+2025-03-19 10:06:29,119 - INFO - Saved progress: 224/14845 for ../Cheonan_Test
+2025-03-19 10:06:29,664 - INFO - Successfully loaded image and labels for 240826211410_front_frame_0011_crop_0 from ../Cheonan_Test/images/train/240826211410_front_frame_0011_crop_0.png
+2025-03-19 10:06:29,664 - INFO - Drew bounding boxes for 240826211410_front_frame_0011_crop_0
+2025-03-19 10:06:29,671 - INFO - Saved progress: 225/14845 for ../Cheonan_Test
+2025-03-19 10:06:30,134 - INFO - Successfully loaded image and labels for 240827132205_rear_frame_0006_crop_3 from ../Cheonan_Test/images/train/240827132205_rear_frame_0006_crop_3.png
+2025-03-19 10:06:30,135 - INFO - Drew bounding boxes for 240827132205_rear_frame_0006_crop_3
+2025-03-19 10:06:30,143 - INFO - Saved progress: 226/14845 for ../Cheonan_Test
+2025-03-19 10:06:30,630 - INFO - Successfully loaded image and labels for 240827194204_left_frame_0009_crop_4 from ../Cheonan_Test/images/train/240827194204_left_frame_0009_crop_4.png
+2025-03-19 10:06:30,631 - INFO - Drew bounding boxes for 240827194204_left_frame_0009_crop_4
+2025-03-19 10:06:30,645 - INFO - Saved progress: 227/14845 for ../Cheonan_Test
+2025-03-19 10:06:31,085 - INFO - Successfully loaded image and labels for 240827132205_rear_frame_0006_crop_3 from ../Cheonan_Test/images/train/240827132205_rear_frame_0006_crop_3.png
+2025-03-19 10:06:31,085 - INFO - Drew bounding boxes for 240827132205_rear_frame_0006_crop_3
+2025-03-19 10:06:31,093 - INFO - Saved progress: 226/14845 for ../Cheonan_Test
+2025-03-19 10:06:31,326 - INFO - Successfully loaded image and labels for 240826211410_front_frame_0011_crop_0 from ../Cheonan_Test/images/train/240826211410_front_frame_0011_crop_0.png
+2025-03-19 10:06:31,327 - INFO - Drew bounding boxes for 240826211410_front_frame_0011_crop_0
+2025-03-19 10:06:31,334 - INFO - Saved progress: 225/14845 for ../Cheonan_Test
+2025-03-19 10:06:32,181 - INFO - Successfully loaded image and labels for 240827132205_rear_frame_0006_crop_3 from ../Cheonan_Test/images/train/240827132205_rear_frame_0006_crop_3.png
+2025-03-19 10:06:32,181 - INFO - Drew bounding boxes for 240827132205_rear_frame_0006_crop_3
+2025-03-19 10:06:32,190 - INFO - Saved progress: 226/14845 for ../Cheonan_Test
+2025-03-19 10:06:32,798 - INFO - Successfully loaded image and labels for 240827194204_left_frame_0009_crop_4 from ../Cheonan_Test/images/train/240827194204_left_frame_0009_crop_4.png
+2025-03-19 10:06:32,798 - INFO - Drew bounding boxes for 240827194204_left_frame_0009_crop_4
+2025-03-19 10:06:32,805 - INFO - Saved progress: 227/14845 for ../Cheonan_Test
+2025-03-19 10:06:33,503 - INFO - Successfully loaded image and labels for 240827195104_front_frame_0003_crop_5 from ../Cheonan_Test/images/train/240827195104_front_frame_0003_crop_5.png
+2025-03-19 10:06:33,503 - INFO - Drew bounding boxes for 240827195104_front_frame_0003_crop_5
+2025-03-19 10:06:33,521 - INFO - Saved progress: 228/14845 for ../Cheonan_Test
+2025-03-19 10:06:34,039 - INFO - Successfully loaded image and labels for 240827195104_right_frame_0002_crop_0 from ../Cheonan_Test/images/train/240827195104_right_frame_0002_crop_0.png
+2025-03-19 10:06:34,039 - INFO - Drew bounding boxes for 240827195104_right_frame_0002_crop_0
+2025-03-19 10:06:34,049 - INFO - Saved progress: 229/14845 for ../Cheonan_Test
+2025-03-19 10:06:34,490 - INFO - Successfully loaded image and labels for 240827194404_left_frame_0011_crop_3 from ../Cheonan_Test/images/train/240827194404_left_frame_0011_crop_3.png
+2025-03-19 10:06:34,490 - INFO - Drew bounding boxes for 240827194404_left_frame_0011_crop_3
+2025-03-19 10:06:34,499 - INFO - Saved progress: 230/14845 for ../Cheonan_Test
+2025-03-19 10:06:35,069 - INFO - Successfully loaded image and labels for 240827132505_front_frame_0007_crop_1 from ../Cheonan_Test/images/train/240827132505_front_frame_0007_crop_1.png
+2025-03-19 10:06:35,070 - INFO - Drew bounding boxes for 240827132505_front_frame_0007_crop_1
+2025-03-19 10:06:35,076 - INFO - Saved progress: 231/14845 for ../Cheonan_Test
+2025-03-19 10:06:35,639 - INFO - Successfully loaded image and labels for 240827200004_rear_frame_0008_crop_5 from ../Cheonan_Test/images/train/240827200004_rear_frame_0008_crop_5.png
+2025-03-19 10:06:35,639 - INFO - Drew bounding boxes for 240827200004_rear_frame_0008_crop_5
+2025-03-19 10:06:35,648 - INFO - Saved progress: 232/14845 for ../Cheonan_Test
+2025-03-19 10:06:36,846 - INFO - Successfully loaded image and labels for 240827193904_rear_frame_0002_crop_4 from ../Cheonan_Test/images/train/240827193904_rear_frame_0002_crop_4.png
+2025-03-19 10:06:36,847 - INFO - Drew bounding boxes for 240827193904_rear_frame_0002_crop_4
+2025-03-19 10:06:36,854 - INFO - Saved progress: 233/14845 for ../Cheonan_Test
+2025-03-19 10:06:37,902 - INFO - Successfully loaded image and labels for 240827195004_front_frame_0009_crop_6 from ../Cheonan_Test/images/train/240827195004_front_frame_0009_crop_6.png
+2025-03-19 10:06:37,902 - INFO - Drew bounding boxes for 240827195004_front_frame_0009_crop_6
+2025-03-19 10:06:37,909 - INFO - Saved progress: 234/14845 for ../Cheonan_Test
+2025-03-19 10:06:39,286 - INFO - Successfully loaded image and labels for 240826211010_rear_frame_0000_crop_7 from ../Cheonan_Test/images/train/240826211010_rear_frame_0000_crop_7.png
+2025-03-19 10:06:39,286 - INFO - Drew bounding boxes for 240826211010_rear_frame_0000_crop_7
+2025-03-19 10:06:39,295 - INFO - Saved progress: 235/14845 for ../Cheonan_Test
+2025-03-19 10:06:39,733 - INFO - Successfully loaded image and labels for 240827195004_front_frame_0009_crop_6 from ../Cheonan_Test/images/train/240827195004_front_frame_0009_crop_6.png
+2025-03-19 10:06:39,733 - INFO - Drew bounding boxes for 240827195004_front_frame_0009_crop_6
+2025-03-19 10:06:39,739 - INFO - Saved progress: 234/14845 for ../Cheonan_Test
+2025-03-19 10:06:41,614 - INFO - Successfully loaded image and labels for 240826211010_rear_frame_0000_crop_7 from ../Cheonan_Test/images/train/240826211010_rear_frame_0000_crop_7.png
+2025-03-19 10:06:41,614 - INFO - Drew bounding boxes for 240826211010_rear_frame_0000_crop_7
+2025-03-19 10:06:41,627 - INFO - Saved progress: 235/14845 for ../Cheonan_Test
+2025-03-19 10:06:44,329 - INFO - Saved progress: 235/14845 for ../Cheonan_Test
+2025-03-19 10:11:07,354 - INFO - Successfully loaded image and labels for 240826211010_rear_frame_0000_crop_7 from ../Cheonan_Test/images/train/240826211010_rear_frame_0000_crop_7.png
+2025-03-19 10:11:07,355 - INFO - Drew bounding boxes for 240826211010_rear_frame_0000_crop_7
+2025-03-19 10:24:16,435 - INFO - Saved progress: 235/14845 for ../Cheonan_Test
+2025-03-19 10:25:00,229 - INFO - Successfully loaded image and labels for 240826211010_rear_frame_0000_crop_7 from ../Cheonan_Test/images/train/240826211010_rear_frame_0000_crop_7.png
+2025-03-19 10:25:00,230 - INFO - Drew bounding boxes for 240826211010_rear_frame_0000_crop_7
+2025-03-19 10:25:18,318 - INFO - Successfully loaded image and labels for 240827195104_front_frame_0009_crop_5 from ../Cheonan_Test/images/train/240827195104_front_frame_0009_crop_5.png
+2025-03-19 10:25:18,319 - INFO - Drew bounding boxes for 240827195104_front_frame_0009_crop_5
+2025-03-19 10:25:18,328 - INFO - Saved progress: 236/14845 for ../Cheonan_Test
+2025-03-19 10:25:18,741 - INFO - Successfully loaded image and labels for 240826211010_rear_frame_0000_crop_7 from ../Cheonan_Test/images/train/240826211010_rear_frame_0000_crop_7.png
+2025-03-19 10:25:18,741 - INFO - Drew bounding boxes for 240826211010_rear_frame_0000_crop_7
+2025-03-19 10:25:18,748 - INFO - Saved progress: 235/14845 for ../Cheonan_Test
+2025-03-19 10:25:32,261 - INFO - Successfully loaded image and labels for 240827195104_front_frame_0009_crop_5 from ../Cheonan_Test/images/train/240827195104_front_frame_0009_crop_5.png
+2025-03-19 10:25:32,262 - INFO - Drew bounding boxes for 240827195104_front_frame_0009_crop_5
+2025-03-19 10:25:32,269 - INFO - Saved progress: 236/14845 for ../Cheonan_Test
+2025-03-19 10:25:32,598 - INFO - Successfully loaded image and labels for 240826211010_rear_frame_0000_crop_7 from ../Cheonan_Test/images/train/240826211010_rear_frame_0000_crop_7.png
+2025-03-19 10:25:32,598 - INFO - Drew bounding boxes for 240826211010_rear_frame_0000_crop_7
+2025-03-19 10:25:32,605 - INFO - Saved progress: 235/14845 for ../Cheonan_Test
+2025-03-19 10:25:34,279 - INFO - Saved progress: 235/14845 for ../Cheonan_Test
+2025-03-19 10:26:35,628 - INFO - Successfully loaded image and labels for 240826211010_rear_frame_0000_crop_7 from ../Cheonan_Test/images/train/240826211010_rear_frame_0000_crop_7.png
+2025-03-19 10:26:35,629 - INFO - Drew bounding boxes for 240826211010_rear_frame_0000_crop_7
+2025-03-19 10:27:01,067 - INFO - Saved progress: 235/14845 for ../Cheonan_Test
+2025-03-19 10:30:01,426 - INFO - Successfully loaded image and labels for 240826211010_rear_frame_0000_crop_7 from ../Cheonan_Test/images/train/240826211010_rear_frame_0000_crop_7.png
+2025-03-19 10:30:01,427 - INFO - Drew bounding boxes for 240826211010_rear_frame_0000_crop_7
+2025-03-19 10:30:11,736 - INFO - Successfully loaded image and labels for 240827195104_front_frame_0009_crop_5 from ../Cheonan_Test/images/train/240827195104_front_frame_0009_crop_5.png
+2025-03-19 10:30:11,736 - INFO - Drew bounding boxes for 240827195104_front_frame_0009_crop_5
+2025-03-19 10:30:11,743 - INFO - Saved progress: 236/14845 for ../Cheonan_Test
+2025-03-19 10:30:12,690 - INFO - Successfully loaded image and labels for 240827202104_rear_frame_0010_crop_1 from ../Cheonan_Test/images/train/240827202104_rear_frame_0010_crop_1.png
+2025-03-19 10:30:12,690 - INFO - Drew bounding boxes for 240827202104_rear_frame_0010_crop_1
+2025-03-19 10:30:12,699 - INFO - Saved progress: 237/14845 for ../Cheonan_Test
+2025-03-19 10:30:13,584 - INFO - Successfully loaded image and labels for 240827195104_front_frame_0009_crop_5 from ../Cheonan_Test/images/train/240827195104_front_frame_0009_crop_5.png
+2025-03-19 10:30:13,584 - INFO - Drew bounding boxes for 240827195104_front_frame_0009_crop_5
+2025-03-19 10:30:13,591 - INFO - Saved progress: 236/14845 for ../Cheonan_Test
+2025-03-19 10:30:13,777 - INFO - Successfully loaded image and labels for 240826211010_rear_frame_0000_crop_7 from ../Cheonan_Test/images/train/240826211010_rear_frame_0000_crop_7.png
+2025-03-19 10:30:13,777 - INFO - Drew bounding boxes for 240826211010_rear_frame_0000_crop_7
+2025-03-19 10:30:13,785 - INFO - Saved progress: 235/14845 for ../Cheonan_Test
+2025-03-19 10:30:13,903 - INFO - Successfully loaded image and labels for 240827195004_front_frame_0009_crop_6 from ../Cheonan_Test/images/train/240827195004_front_frame_0009_crop_6.png
+2025-03-19 10:30:13,903 - INFO - Drew bounding boxes for 240827195004_front_frame_0009_crop_6
+2025-03-19 10:30:13,910 - INFO - Saved progress: 234/14845 for ../Cheonan_Test
+2025-03-19 10:30:14,065 - INFO - Successfully loaded image and labels for 240827193904_rear_frame_0002_crop_4 from ../Cheonan_Test/images/train/240827193904_rear_frame_0002_crop_4.png
+2025-03-19 10:30:14,065 - INFO - Drew bounding boxes for 240827193904_rear_frame_0002_crop_4
+2025-03-19 10:30:14,073 - INFO - Saved progress: 233/14845 for ../Cheonan_Test
+2025-03-19 10:30:14,201 - INFO - Successfully loaded image and labels for 240827200004_rear_frame_0008_crop_5 from ../Cheonan_Test/images/train/240827200004_rear_frame_0008_crop_5.png
+2025-03-19 10:30:14,201 - INFO - Drew bounding boxes for 240827200004_rear_frame_0008_crop_5
+2025-03-19 10:30:14,207 - INFO - Saved progress: 232/14845 for ../Cheonan_Test
+2025-03-19 10:30:14,336 - INFO - Successfully loaded image and labels for 240827132505_front_frame_0007_crop_1 from ../Cheonan_Test/images/train/240827132505_front_frame_0007_crop_1.png
+2025-03-19 10:30:14,336 - INFO - Drew bounding boxes for 240827132505_front_frame_0007_crop_1
+2025-03-19 10:30:14,342 - INFO - Saved progress: 231/14845 for ../Cheonan_Test
+2025-03-19 10:30:14,488 - INFO - Successfully loaded image and labels for 240827194404_left_frame_0011_crop_3 from ../Cheonan_Test/images/train/240827194404_left_frame_0011_crop_3.png
+2025-03-19 10:30:14,488 - INFO - Drew bounding boxes for 240827194404_left_frame_0011_crop_3
+2025-03-19 10:30:14,495 - INFO - Saved progress: 230/14845 for ../Cheonan_Test
+2025-03-19 10:30:14,633 - INFO - Successfully loaded image and labels for 240827195104_right_frame_0002_crop_0 from ../Cheonan_Test/images/train/240827195104_right_frame_0002_crop_0.png
+2025-03-19 10:30:14,633 - INFO - Drew bounding boxes for 240827195104_right_frame_0002_crop_0
+2025-03-19 10:30:14,639 - INFO - Saved progress: 229/14845 for ../Cheonan_Test
+2025-03-19 10:30:14,777 - INFO - Successfully loaded image and labels for 240827195104_front_frame_0003_crop_5 from ../Cheonan_Test/images/train/240827195104_front_frame_0003_crop_5.png
+2025-03-19 10:30:14,777 - INFO - Drew bounding boxes for 240827195104_front_frame_0003_crop_5
+2025-03-19 10:30:14,783 - INFO - Saved progress: 228/14845 for ../Cheonan_Test
+2025-03-19 10:30:14,920 - INFO - Successfully loaded image and labels for 240827194204_left_frame_0009_crop_4 from ../Cheonan_Test/images/train/240827194204_left_frame_0009_crop_4.png
+2025-03-19 10:30:14,921 - INFO - Drew bounding boxes for 240827194204_left_frame_0009_crop_4
+2025-03-19 10:30:14,927 - INFO - Saved progress: 227/14845 for ../Cheonan_Test
+2025-03-19 10:30:15,065 - INFO - Successfully loaded image and labels for 240827132205_rear_frame_0006_crop_3 from ../Cheonan_Test/images/train/240827132205_rear_frame_0006_crop_3.png
+2025-03-19 10:30:15,065 - INFO - Drew bounding boxes for 240827132205_rear_frame_0006_crop_3
+2025-03-19 10:30:15,073 - INFO - Saved progress: 226/14845 for ../Cheonan_Test
+2025-03-19 10:30:15,209 - INFO - Successfully loaded image and labels for 240826211410_front_frame_0011_crop_0 from ../Cheonan_Test/images/train/240826211410_front_frame_0011_crop_0.png
+2025-03-19 10:30:15,209 - INFO - Drew bounding boxes for 240826211410_front_frame_0011_crop_0
+2025-03-19 10:30:15,216 - INFO - Saved progress: 225/14845 for ../Cheonan_Test
+2025-03-19 10:30:15,329 - INFO - Successfully loaded image and labels for 240826211310_left_frame_0008_crop_13 from ../Cheonan_Test/images/train/240826211310_left_frame_0008_crop_13.png
+2025-03-19 10:30:15,329 - INFO - Drew bounding boxes for 240826211310_left_frame_0008_crop_13
+2025-03-19 10:30:15,336 - INFO - Saved progress: 224/14845 for ../Cheonan_Test
+2025-03-19 10:30:15,488 - INFO - Successfully loaded image and labels for 240827194604_right_frame_0003_crop_0 from ../Cheonan_Test/images/train/240827194604_right_frame_0003_crop_0.png
+2025-03-19 10:30:15,489 - INFO - Drew bounding boxes for 240827194604_right_frame_0003_crop_0
+2025-03-19 10:30:15,494 - INFO - Saved progress: 223/14845 for ../Cheonan_Test
+2025-03-19 10:30:17,248 - INFO - Saved progress: 223/14845 for ../Cheonan_Test

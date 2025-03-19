@@ -6,6 +6,9 @@
 #      A: 새로운 바운딩 박스 추가 (4가지 점을 클릭해서 추가)
 # M: 선택한 바운딩 박스 수정 (4가지 점을 클릭해서 수정)
 # R: 선택한 바운딩 박스 삭제
+# L: 현재 이미지의 라벨 정보 표시
+# S: 현재 이미지의 크기 표시
+    # Esc: 팝업 창 닫기 
 # 좌우 화살표: 이전/다음 이미지로 이동
 # 창 닫을 때 진행률 저장
 
@@ -28,18 +31,18 @@ class_mapping = {
 }
 
 class REFINE:
-    def __init__(self, imgName, base_path):
+    def __init__(self, imgName, img_dir, label_dir):
         self.imgName = imgName
         self.bbox = []
         self.img = None
-        self.imgPath = os.path.join(base_path, 'images/train')
-        self.txtPath = os.path.join(base_path, 'labels/train')
+        self.img_dir = img_dir  # 인자로 받은 경로
+        self.label_dir = label_dir  # 인자로 받은 경로
     
     def readImg(self, extensions=['.png', '.jpeg', '.jpg']):
         try:
             img_full_path = None
             for ext in extensions:
-                temp_path = os.path.join(self.imgPath, self.imgName + ext)
+                temp_path = os.path.join(self.img_dir, self.imgName + ext)
                 if os.path.exists(temp_path):
                     img_full_path = temp_path
                     break
@@ -51,7 +54,7 @@ class REFINE:
             if self.img is None:
                 raise ValueError(f"Failed to load image: {img_full_path}")
 
-            txt_full_path = os.path.join(self.txtPath, self.imgName + '.txt')
+            txt_full_path = os.path.join(self.label_dir, self.imgName + '.txt')
             if not os.path.exists(txt_full_path):
                 raise FileNotFoundError(f"Label file not found at: {txt_full_path}")
             with open(txt_full_path, 'r') as f:
@@ -108,7 +111,7 @@ class REFINE:
 
     def update_labels(self, new_bbox):
         try:
-            with open(os.path.join(self.txtPath, self.imgName + '.txt'), 'w') as f:
+            with open(os.path.join(self.label_dir, self.imgName + '.txt'), 'w') as f:
                 for box in new_bbox:
                     f.write(f"{float(box[0])} {' '.join(map(str, box[1:]))}\n")
             print("SAVED!!!")
@@ -118,13 +121,14 @@ class REFINE:
             logging.error(f"Save error: {e}")
 
 class GUI:
-    def __init__(self, root, base_path):
+    def __init__(self, root, base_path, img_dir, label_dir):
         self.root = root
         self.root.title("Dataset Refinement Tool")
         self.base_path = base_path
-
-        # 데이터셋 폴더에서 이미지 목록 가져오기
-        self.img_dir = os.path.join(base_path, 'images/train')
+        self.img_dir = img_dir  # 인자로 받은 경로
+        self.label_dir = label_dir  # 인자로 받은 경로
+        
+        # 이미지 목록 가져오기
         self.images = [os.path.splitext(f)[0] for f in os.listdir(self.img_dir) if f.endswith(('.jpeg', '.png', '.jpg'))]
         
         # 프로그레스 로드
@@ -155,7 +159,7 @@ class GUI:
         # 버튼 프레임 (하단에 고정)
         self.button_frame = tk.Frame(root)
         self.button_frame.pack(side=tk.BOTTOM, pady=10)
-        tk.Button(self.button_frame, text="Label", command=self.check_label).pack(side=tk.LEFT, padx=5)  # 새 버튼 추가
+        tk.Button(self.button_frame, text="Label", command=self.check_label).pack(side=tk.LEFT, padx=5)
         tk.Button(self.button_frame, text="Size", command=self.check_size).pack(side=tk.LEFT, padx=5)
         tk.Button(self.button_frame, text="Previous", command=self.prev_image).pack(side=tk.LEFT, padx=5)
         tk.Button(self.button_frame, text="Next", command=self.next_image).pack(side=tk.LEFT, padx=5)
@@ -166,6 +170,8 @@ class GUI:
         self.root.bind("a", lambda event: self.start_add())
         self.root.bind("<Left>", lambda event: self.prev_image())
         self.root.bind("<Right>", lambda event: self.next_image())
+        self.root.bind("l", lambda event: self.check_label())
+        self.root.bind("s", lambda event: self.check_size())
 
         self.last_clicked_idx = None
         self.popup = None
@@ -256,7 +262,7 @@ class GUI:
         self.modify_points = []
         self.clear_temp_lines()
         self.action = None
-        self.refine = REFINE(self.images[self.current_idx], self.base_path)
+        self.refine = REFINE(self.images[self.current_idx], self.img_dir, self.label_dir)
         result = self.refine.draw()
         if result is None:
             self.next_image()
@@ -295,14 +301,14 @@ class GUI:
             messagebox.showwarning("Image Size", "Image not loaded yet or size unavailable.")
 
     def check_label(self):
-    # 현재 이미지의 라벨 값을 커스텀 창에 한 줄에 표시"""
+        """현재 이미지의 라벨 값을 커스텀 창에 한 줄에 표시"""
         if not self.images:
             messagebox.showerror("Error", "No images found in dataset folder!")
             return
 
         # 현재 이미지 이름
         img_name = self.images[self.current_idx]
-        label_path = os.path.join(self.base_path, 'labels/train', img_name + '.txt')
+        label_path = os.path.join(self.label_dir, img_name + '.txt')  # self.label_dir 사용
 
         try:
             if not os.path.exists(label_path):
@@ -331,7 +337,7 @@ class GUI:
             # 커스텀 창 생성
             label_window = tk.Toplevel(self.root)
             label_window.title("Label Info")
-            label_window.geometry("800x200")  # 창 크기 수동 설정 (너비 800, 높이 200)
+            label_window.geometry("800x200")  # 창 크기 수동 설정
 
             # 스크롤바와 Text 위젯 결합
             text_frame = tk.Frame(label_window)
@@ -344,6 +350,7 @@ class GUI:
             text_widget.pack(side=tk.LEFT, fill=tk.BOTH, expand=True)
             scrollbar.config(command=text_widget.yview)
 
+    
             text_widget.insert(tk.END, "\n".join(label_info))
             text_widget.config(state=tk.DISABLED)  # 텍스트 위젯 읽기 전용 설정
 
@@ -524,7 +531,12 @@ if __name__ == "__main__":
         sys.exit(1)
 
     base_path = sys.argv[1]  # 예: './refined/train'
+    img_dir = os.path.join(base_path, 'images')
+    label_dir = os.path.join(base_path, 'labels')
+    # img_dir = os.path.join(base_path, 'images/train')
+    # label_dir = os.path.join(base_path, 'labels\train')
+
     root = tk.Tk()
-    app = GUI(root, base_path)
+    app = GUI(root, base_path, img_dir, label_dir)
     root.protocol("WM_DELETE_WINDOW", app.on_closing)  # 창 닫을 때 진행률 저장
     root.mainloop()

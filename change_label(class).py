@@ -2,9 +2,9 @@ import os
 from tqdm import tqdm
 
 # 경로 설정
-input_label_dir = '/home/sophie/Desktop/fisheye_crop/labels'
-backup_dir = '/home/sophie/Desktop/fisheye_crop/labels/backup'  # 백업 폴더
-output_label_dir = '/home/sophie/Desktop/fisheye_crop/labels'  # 수정된 파일 저장 경로 (기존 폴더에 덮어씌움)
+input_label_dir = '/home/sophie/Desktop/roboflow2/labels'
+backup_dir = '/home/sophie/Desktop/roboflow2/backup'  # 백업 폴더
+output_label_dir = '/home/sophie/Desktop/roboflow2/labels'  # 수정된 파일 저장 경로 (기존 폴더에 덮어씌움)
 
 # 백업 폴더 생성 (없으면)
 if not os.path.exists(backup_dir):
@@ -13,10 +13,9 @@ if not os.path.exists(backup_dir):
 # 클래스 매핑 (기존 ID: 새 ID)
 class_mapping = {
     0: 4, # bus
-    1: 2,  #motrocycle
-    2: 3,  #vehicle
-    3: 0,  #pedestrian
-    4: 5   #truck 
+    1: 3,  #car
+    2: 2,  #vehicle
+    3: 5  ##truck 
 }
 
 # 라벨 파일 순회

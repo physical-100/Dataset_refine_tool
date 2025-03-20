@@ -15231,3 +15231,1149 @@
 2025-03-19 17:31:50,002 - INFO - Drew bounding boxes for camera4_E_263_crop_0
 2025-03-19 17:31:50,010 - INFO - Saved progress: 164/26336 for ../fisheye_crop/
 2025-03-19 17:31:51,143 - INFO - Saved progress: 164/26336 for ../fisheye_crop/
+2025-03-20 15:49:40,709 - INFO - Initialized new path ../roboflow_dataset/ in progress.json
+2025-03-20 15:49:40,733 - INFO - Successfully loaded image and labels for frame_164_jpg.rf.df5dabb0fcfa23cefb448c7638a4979f from ../roboflow_dataset/images/frame_164_jpg.rf.df5dabb0fcfa23cefb448c7638a4979f.jpg
+2025-03-20 15:49:40,734 - INFO - Drew bounding boxes for frame_164_jpg.rf.df5dabb0fcfa23cefb448c7638a4979f
+2025-03-20 15:49:55,312 - INFO - Successfully loaded image and labels for frame_601_jpg.rf.ea991093f4642a6d84cd36f3e89a64d2 from ../roboflow_dataset/images/frame_601_jpg.rf.ea991093f4642a6d84cd36f3e89a64d2.jpg
+2025-03-20 15:49:55,312 - INFO - Drew bounding boxes for frame_601_jpg.rf.ea991093f4642a6d84cd36f3e89a64d2
+2025-03-20 15:49:55,321 - INFO - Saved progress: 1/850 for ../roboflow_dataset/
+2025-03-20 15:50:11,055 - INFO - Successfully loaded image and labels for frame_585_jpg.rf.d44ef3b6917d26cc88ad3fa063c8f655 from ../roboflow_dataset/images/frame_585_jpg.rf.d44ef3b6917d26cc88ad3fa063c8f655.jpg
+2025-03-20 15:50:11,055 - INFO - Drew bounding boxes for frame_585_jpg.rf.d44ef3b6917d26cc88ad3fa063c8f655
+2025-03-20 15:50:11,061 - INFO - Saved progress: 2/850 for ../roboflow_dataset/
+2025-03-20 15:50:11,727 - INFO - Successfully loaded image and labels for frame_202_jpg.rf.9cc6ab359f03165282208acacadfff38 from ../roboflow_dataset/images/frame_202_jpg.rf.9cc6ab359f03165282208acacadfff38.jpg
+2025-03-20 15:50:11,727 - INFO - Drew bounding boxes for frame_202_jpg.rf.9cc6ab359f03165282208acacadfff38
+2025-03-20 15:50:11,733 - INFO - Saved progress: 3/850 for ../roboflow_dataset/
+2025-03-20 15:50:12,575 - INFO - Successfully loaded image and labels for frame_9_jpg.rf.4d4e21620cfd3d00f058001eaf3a1c2a from ../roboflow_dataset/images/frame_9_jpg.rf.4d4e21620cfd3d00f058001eaf3a1c2a.jpg
+2025-03-20 15:50:12,575 - INFO - Drew bounding boxes for frame_9_jpg.rf.4d4e21620cfd3d00f058001eaf3a1c2a
+2025-03-20 15:50:12,582 - INFO - Saved progress: 4/850 for ../roboflow_dataset/
+2025-03-20 15:50:13,079 - INFO - Successfully loaded image and labels for frame_202_jpg.rf.9cc6ab359f03165282208acacadfff38 from ../roboflow_dataset/images/frame_202_jpg.rf.9cc6ab359f03165282208acacadfff38.jpg
+2025-03-20 15:50:13,080 - INFO - Drew bounding boxes for frame_202_jpg.rf.9cc6ab359f03165282208acacadfff38
+2025-03-20 15:50:13,086 - INFO - Saved progress: 3/850 for ../roboflow_dataset/
+2025-03-20 15:50:23,657 - INFO - Successfully loaded image and labels for frame_9_jpg.rf.4d4e21620cfd3d00f058001eaf3a1c2a from ../roboflow_dataset/images/frame_9_jpg.rf.4d4e21620cfd3d00f058001eaf3a1c2a.jpg
+2025-03-20 15:50:23,657 - INFO - Drew bounding boxes for frame_9_jpg.rf.4d4e21620cfd3d00f058001eaf3a1c2a
+2025-03-20 15:50:23,664 - INFO - Saved progress: 4/850 for ../roboflow_dataset/
+2025-03-20 15:50:24,071 - INFO - Successfully loaded image and labels for frame_202_jpg.rf.9cc6ab359f03165282208acacadfff38 from ../roboflow_dataset/images/frame_202_jpg.rf.9cc6ab359f03165282208acacadfff38.jpg
+2025-03-20 15:50:24,071 - INFO - Drew bounding boxes for frame_202_jpg.rf.9cc6ab359f03165282208acacadfff38
+2025-03-20 15:50:24,078 - INFO - Saved progress: 3/850 for ../roboflow_dataset/
+2025-03-20 15:50:24,999 - INFO - Successfully loaded image and labels for frame_9_jpg.rf.4d4e21620cfd3d00f058001eaf3a1c2a from ../roboflow_dataset/images/frame_9_jpg.rf.4d4e21620cfd3d00f058001eaf3a1c2a.jpg
+2025-03-20 15:50:24,999 - INFO - Drew bounding boxes for frame_9_jpg.rf.4d4e21620cfd3d00f058001eaf3a1c2a
+2025-03-20 15:50:25,007 - INFO - Saved progress: 4/850 for ../roboflow_dataset/
+2025-03-20 15:50:25,655 - INFO - Successfully loaded image and labels for frame_533_jpg.rf.5afc8d9ec332dc48409d7f0524ec630f from ../roboflow_dataset/images/frame_533_jpg.rf.5afc8d9ec332dc48409d7f0524ec630f.jpg
+2025-03-20 15:50:25,655 - INFO - Drew bounding boxes for frame_533_jpg.rf.5afc8d9ec332dc48409d7f0524ec630f
+2025-03-20 15:50:25,661 - INFO - Saved progress: 5/850 for ../roboflow_dataset/
+2025-03-20 15:50:33,104 - INFO - Successfully loaded image and labels for frame_108_jpg.rf.cf76e9f45844bc76e9eef9a3b2779be5 from ../roboflow_dataset/images/frame_108_jpg.rf.cf76e9f45844bc76e9eef9a3b2779be5.jpg
+2025-03-20 15:50:33,104 - INFO - Drew bounding boxes for frame_108_jpg.rf.cf76e9f45844bc76e9eef9a3b2779be5
+2025-03-20 15:50:33,111 - INFO - Saved progress: 6/850 for ../roboflow_dataset/
+2025-03-20 15:50:41,007 - INFO - Successfully loaded image and labels for frame_366_jpg.rf.7b3ac0dc8b919681f05965a75b177a3a from ../roboflow_dataset/images/frame_366_jpg.rf.7b3ac0dc8b919681f05965a75b177a3a.jpg
+2025-03-20 15:50:41,007 - INFO - Drew bounding boxes for frame_366_jpg.rf.7b3ac0dc8b919681f05965a75b177a3a
+2025-03-20 15:50:41,014 - INFO - Saved progress: 7/850 for ../roboflow_dataset/
+2025-03-20 15:50:46,335 - INFO - Successfully loaded image and labels for frame_511_jpg.rf.ae4a7c633d8be7d1ab7de238a4e7ee47 from ../roboflow_dataset/images/frame_511_jpg.rf.ae4a7c633d8be7d1ab7de238a4e7ee47.jpg
+2025-03-20 15:50:46,335 - INFO - Drew bounding boxes for frame_511_jpg.rf.ae4a7c633d8be7d1ab7de238a4e7ee47
+2025-03-20 15:50:46,343 - INFO - Saved progress: 8/850 for ../roboflow_dataset/
+2025-03-20 15:50:49,734 - INFO - Successfully loaded image and labels for frame_546_jpg.rf.e9c8fe2d6b1c41ddf26faba1fa693751 from ../roboflow_dataset/images/frame_546_jpg.rf.e9c8fe2d6b1c41ddf26faba1fa693751.jpg
+2025-03-20 15:50:49,735 - INFO - Drew bounding boxes for frame_546_jpg.rf.e9c8fe2d6b1c41ddf26faba1fa693751
+2025-03-20 15:50:49,741 - INFO - Saved progress: 9/850 for ../roboflow_dataset/
+2025-03-20 15:50:54,230 - INFO - Successfully loaded image and labels for frame_767_jpg.rf.c544f8fcfdb516fa04db8b8d180ca859 from ../roboflow_dataset/images/frame_767_jpg.rf.c544f8fcfdb516fa04db8b8d180ca859.jpg
+2025-03-20 15:50:54,231 - INFO - Drew bounding boxes for frame_767_jpg.rf.c544f8fcfdb516fa04db8b8d180ca859
+2025-03-20 15:50:54,238 - INFO - Saved progress: 10/850 for ../roboflow_dataset/
+2025-03-20 15:50:54,951 - INFO - Successfully loaded image and labels for frame_203_jpg.rf.290afe8aa77cf55b13af154dae2a0866 from ../roboflow_dataset/images/frame_203_jpg.rf.290afe8aa77cf55b13af154dae2a0866.jpg
+2025-03-20 15:50:54,951 - INFO - Drew bounding boxes for frame_203_jpg.rf.290afe8aa77cf55b13af154dae2a0866
+2025-03-20 15:50:54,958 - INFO - Saved progress: 11/850 for ../roboflow_dataset/
+2025-03-20 15:50:55,806 - INFO - Successfully loaded image and labels for frame_754_jpg.rf.461f6b32ce41aba7d46f8999a54b99d2 from ../roboflow_dataset/images/frame_754_jpg.rf.461f6b32ce41aba7d46f8999a54b99d2.jpg
+2025-03-20 15:50:55,807 - INFO - Drew bounding boxes for frame_754_jpg.rf.461f6b32ce41aba7d46f8999a54b99d2
+2025-03-20 15:50:55,814 - INFO - Saved progress: 12/850 for ../roboflow_dataset/
+2025-03-20 15:50:56,247 - INFO - Successfully loaded image and labels for frame_483_jpg.rf.ad272181b344d6b34941f86947d4a6f6 from ../roboflow_dataset/images/frame_483_jpg.rf.ad272181b344d6b34941f86947d4a6f6.jpg
+2025-03-20 15:50:56,247 - INFO - Drew bounding boxes for frame_483_jpg.rf.ad272181b344d6b34941f86947d4a6f6
+2025-03-20 15:50:56,253 - INFO - Saved progress: 13/850 for ../roboflow_dataset/
+2025-03-20 15:50:56,422 - INFO - Successfully loaded image and labels for frame_783_jpg.rf.f200556228a2e1bdb0610963ec5c5d48 from ../roboflow_dataset/images/frame_783_jpg.rf.f200556228a2e1bdb0610963ec5c5d48.jpg
+2025-03-20 15:50:56,422 - INFO - Drew bounding boxes for frame_783_jpg.rf.f200556228a2e1bdb0610963ec5c5d48
+2025-03-20 15:50:56,430 - INFO - Saved progress: 14/850 for ../roboflow_dataset/
+2025-03-20 15:50:56,583 - INFO - Successfully loaded image and labels for frame_766_jpg.rf.77433a1bb48f7a152a350f3bbd176ec1 from ../roboflow_dataset/images/frame_766_jpg.rf.77433a1bb48f7a152a350f3bbd176ec1.jpg
+2025-03-20 15:50:56,583 - INFO - Drew bounding boxes for frame_766_jpg.rf.77433a1bb48f7a152a350f3bbd176ec1
+2025-03-20 15:50:56,589 - INFO - Saved progress: 15/850 for ../roboflow_dataset/
+2025-03-20 15:50:57,082 - INFO - Successfully loaded image and labels for frame_842_jpg.rf.f025b350251a5e53c2e5ed3ddc882173 from ../roboflow_dataset/images/frame_842_jpg.rf.f025b350251a5e53c2e5ed3ddc882173.jpg
+2025-03-20 15:50:57,083 - INFO - Drew bounding boxes for frame_842_jpg.rf.f025b350251a5e53c2e5ed3ddc882173
+2025-03-20 15:50:57,089 - INFO - Saved progress: 16/850 for ../roboflow_dataset/
+2025-03-20 15:50:57,112 - INFO - Successfully loaded image and labels for frame_565_jpg.rf.630664a18b8189aa233303bfc84012f8 from ../roboflow_dataset/images/frame_565_jpg.rf.630664a18b8189aa233303bfc84012f8.jpg
+2025-03-20 15:50:57,113 - INFO - Drew bounding boxes for frame_565_jpg.rf.630664a18b8189aa233303bfc84012f8
+2025-03-20 15:50:57,119 - INFO - Saved progress: 17/850 for ../roboflow_dataset/
+2025-03-20 15:50:57,143 - INFO - Successfully loaded image and labels for frame_428_jpg.rf.fc051d041cc88f9fe6418162407e0cc1 from ../roboflow_dataset/images/frame_428_jpg.rf.fc051d041cc88f9fe6418162407e0cc1.jpg
+2025-03-20 15:50:57,143 - INFO - Drew bounding boxes for frame_428_jpg.rf.fc051d041cc88f9fe6418162407e0cc1
+2025-03-20 15:50:57,151 - INFO - Saved progress: 18/850 for ../roboflow_dataset/
+2025-03-20 15:50:57,173 - INFO - Successfully loaded image and labels for frame_857_jpg.rf.a521c767abb9f45a08ffc6663755b64e from ../roboflow_dataset/images/frame_857_jpg.rf.a521c767abb9f45a08ffc6663755b64e.jpg
+2025-03-20 15:50:57,173 - INFO - Drew bounding boxes for frame_857_jpg.rf.a521c767abb9f45a08ffc6663755b64e
+2025-03-20 15:50:57,180 - INFO - Saved progress: 19/850 for ../roboflow_dataset/
+2025-03-20 15:50:57,203 - INFO - Successfully loaded image and labels for frame_252_jpg.rf.69da5fd5fc9ef78bbc2d8c3ce2e47085 from ../roboflow_dataset/images/frame_252_jpg.rf.69da5fd5fc9ef78bbc2d8c3ce2e47085.jpg
+2025-03-20 15:50:57,203 - INFO - Drew bounding boxes for frame_252_jpg.rf.69da5fd5fc9ef78bbc2d8c3ce2e47085
+2025-03-20 15:50:57,210 - INFO - Saved progress: 20/850 for ../roboflow_dataset/
+2025-03-20 15:50:57,233 - INFO - Successfully loaded image and labels for frame_383_jpg.rf.7112b36a1db53e007e5a8fc0da54e792 from ../roboflow_dataset/images/frame_383_jpg.rf.7112b36a1db53e007e5a8fc0da54e792.jpg
+2025-03-20 15:50:57,233 - INFO - Drew bounding boxes for frame_383_jpg.rf.7112b36a1db53e007e5a8fc0da54e792
+2025-03-20 15:50:57,240 - INFO - Saved progress: 21/850 for ../roboflow_dataset/
+2025-03-20 15:50:57,263 - INFO - Successfully loaded image and labels for frame_159_jpg.rf.ef4646aa815e9dd1b5d764a9ce574ca8 from ../roboflow_dataset/images/frame_159_jpg.rf.ef4646aa815e9dd1b5d764a9ce574ca8.jpg
+2025-03-20 15:50:57,264 - INFO - Drew bounding boxes for frame_159_jpg.rf.ef4646aa815e9dd1b5d764a9ce574ca8
+2025-03-20 15:50:57,270 - INFO - Saved progress: 22/850 for ../roboflow_dataset/
+2025-03-20 15:50:57,293 - INFO - Successfully loaded image and labels for frame_118_jpg.rf.99f4ba00848ae5dca5409dbb7a98612e from ../roboflow_dataset/images/frame_118_jpg.rf.99f4ba00848ae5dca5409dbb7a98612e.jpg
+2025-03-20 15:50:57,293 - INFO - Drew bounding boxes for frame_118_jpg.rf.99f4ba00848ae5dca5409dbb7a98612e
+2025-03-20 15:50:57,299 - INFO - Saved progress: 23/850 for ../roboflow_dataset/
+2025-03-20 15:50:57,323 - INFO - Successfully loaded image and labels for frame_482_jpg.rf.b856185a16bf0ed53faf4d5b117b842e from ../roboflow_dataset/images/frame_482_jpg.rf.b856185a16bf0ed53faf4d5b117b842e.jpg
+2025-03-20 15:50:57,323 - INFO - Drew bounding boxes for frame_482_jpg.rf.b856185a16bf0ed53faf4d5b117b842e
+2025-03-20 15:50:57,330 - INFO - Saved progress: 24/850 for ../roboflow_dataset/
+2025-03-20 15:50:57,353 - INFO - Successfully loaded image and labels for frame_441_jpg.rf.6c989aaaa9a745059a7f94a3843d2d60 from ../roboflow_dataset/images/frame_441_jpg.rf.6c989aaaa9a745059a7f94a3843d2d60.jpg
+2025-03-20 15:50:57,354 - INFO - Drew bounding boxes for frame_441_jpg.rf.6c989aaaa9a745059a7f94a3843d2d60
+2025-03-20 15:50:57,360 - INFO - Saved progress: 25/850 for ../roboflow_dataset/
+2025-03-20 15:50:57,383 - INFO - Successfully loaded image and labels for frame_1016_jpg.rf.23f09ba9c378381fd4fec8fbc8ccd1ae from ../roboflow_dataset/images/frame_1016_jpg.rf.23f09ba9c378381fd4fec8fbc8ccd1ae.jpg
+2025-03-20 15:50:57,383 - INFO - Drew bounding boxes for frame_1016_jpg.rf.23f09ba9c378381fd4fec8fbc8ccd1ae
+2025-03-20 15:50:57,389 - INFO - Saved progress: 26/850 for ../roboflow_dataset/
+2025-03-20 15:50:57,414 - INFO - Successfully loaded image and labels for frame_688_jpg.rf.dbbc9afd068ab29febbadce758017cd5 from ../roboflow_dataset/images/frame_688_jpg.rf.dbbc9afd068ab29febbadce758017cd5.jpg
+2025-03-20 15:50:57,414 - INFO - Drew bounding boxes for frame_688_jpg.rf.dbbc9afd068ab29febbadce758017cd5
+2025-03-20 15:50:57,420 - INFO - Saved progress: 27/850 for ../roboflow_dataset/
+2025-03-20 15:50:57,582 - INFO - Successfully loaded image and labels for frame_1016_jpg.rf.23f09ba9c378381fd4fec8fbc8ccd1ae from ../roboflow_dataset/images/frame_1016_jpg.rf.23f09ba9c378381fd4fec8fbc8ccd1ae.jpg
+2025-03-20 15:50:57,583 - INFO - Drew bounding boxes for frame_1016_jpg.rf.23f09ba9c378381fd4fec8fbc8ccd1ae
+2025-03-20 15:50:57,590 - INFO - Saved progress: 26/850 for ../roboflow_dataset/
+2025-03-20 15:50:57,999 - INFO - Successfully loaded image and labels for frame_688_jpg.rf.dbbc9afd068ab29febbadce758017cd5 from ../roboflow_dataset/images/frame_688_jpg.rf.dbbc9afd068ab29febbadce758017cd5.jpg
+2025-03-20 15:50:57,999 - INFO - Drew bounding boxes for frame_688_jpg.rf.dbbc9afd068ab29febbadce758017cd5
+2025-03-20 15:50:58,005 - INFO - Saved progress: 27/850 for ../roboflow_dataset/
+2025-03-20 15:50:58,175 - INFO - Successfully loaded image and labels for frame_540_jpg.rf.cd4d79ba4de2f6e65b77a6928393a9ba from ../roboflow_dataset/images/frame_540_jpg.rf.cd4d79ba4de2f6e65b77a6928393a9ba.jpg
+2025-03-20 15:50:58,175 - INFO - Drew bounding boxes for frame_540_jpg.rf.cd4d79ba4de2f6e65b77a6928393a9ba
+2025-03-20 15:50:58,182 - INFO - Saved progress: 28/850 for ../roboflow_dataset/
+2025-03-20 15:50:58,342 - INFO - Successfully loaded image and labels for frame_137_jpg.rf.721eb664d93a27da42db23f00d4e6043 from ../roboflow_dataset/images/frame_137_jpg.rf.721eb664d93a27da42db23f00d4e6043.jpg
+2025-03-20 15:50:58,342 - INFO - Drew bounding boxes for frame_137_jpg.rf.721eb664d93a27da42db23f00d4e6043
+2025-03-20 15:50:58,348 - INFO - Saved progress: 29/850 for ../roboflow_dataset/
+2025-03-20 15:50:58,502 - INFO - Successfully loaded image and labels for frame_80_jpg.rf.e1f1e613bf4f510ae341d04fc55c6acd from ../roboflow_dataset/images/frame_80_jpg.rf.e1f1e613bf4f510ae341d04fc55c6acd.jpg
+2025-03-20 15:50:58,503 - INFO - Drew bounding boxes for frame_80_jpg.rf.e1f1e613bf4f510ae341d04fc55c6acd
+2025-03-20 15:50:58,509 - INFO - Saved progress: 30/850 for ../roboflow_dataset/
+2025-03-20 15:50:58,670 - INFO - Successfully loaded image and labels for frame_761_jpg.rf.4c51f2cbcc7d76b5425bedcccb3aa892 from ../roboflow_dataset/images/frame_761_jpg.rf.4c51f2cbcc7d76b5425bedcccb3aa892.jpg
+2025-03-20 15:50:58,671 - INFO - Drew bounding boxes for frame_761_jpg.rf.4c51f2cbcc7d76b5425bedcccb3aa892
+2025-03-20 15:50:58,677 - INFO - Saved progress: 31/850 for ../roboflow_dataset/
+2025-03-20 15:50:58,846 - INFO - Successfully loaded image and labels for frame_447_jpg.rf.da59177e0940553026f83f718aa487ff from ../roboflow_dataset/images/frame_447_jpg.rf.da59177e0940553026f83f718aa487ff.jpg
+2025-03-20 15:50:58,847 - INFO - Drew bounding boxes for frame_447_jpg.rf.da59177e0940553026f83f718aa487ff
+2025-03-20 15:50:58,854 - INFO - Saved progress: 32/850 for ../roboflow_dataset/
+2025-03-20 15:50:59,014 - INFO - Successfully loaded image and labels for frame_26_jpg.rf.445af7663a79d4c586c6e56a1fb2e3ba from ../roboflow_dataset/images/frame_26_jpg.rf.445af7663a79d4c586c6e56a1fb2e3ba.jpg
+2025-03-20 15:50:59,014 - INFO - Drew bounding boxes for frame_26_jpg.rf.445af7663a79d4c586c6e56a1fb2e3ba
+2025-03-20 15:50:59,021 - INFO - Saved progress: 33/850 for ../roboflow_dataset/
+2025-03-20 15:50:59,190 - INFO - Successfully loaded image and labels for frame_103_jpg.rf.f7cd2320973feb6a454e3932114f6ca7 from ../roboflow_dataset/images/frame_103_jpg.rf.f7cd2320973feb6a454e3932114f6ca7.jpg
+2025-03-20 15:50:59,191 - INFO - Drew bounding boxes for frame_103_jpg.rf.f7cd2320973feb6a454e3932114f6ca7
+2025-03-20 15:50:59,198 - INFO - Saved progress: 34/850 for ../roboflow_dataset/
+2025-03-20 15:50:59,343 - INFO - Successfully loaded image and labels for frame_801_jpg.rf.0e8b8c8d3ea5106e2e24036aa5e18d86 from ../roboflow_dataset/images/frame_801_jpg.rf.0e8b8c8d3ea5106e2e24036aa5e18d86.jpg
+2025-03-20 15:50:59,343 - INFO - Drew bounding boxes for frame_801_jpg.rf.0e8b8c8d3ea5106e2e24036aa5e18d86
+2025-03-20 15:50:59,350 - INFO - Saved progress: 35/850 for ../roboflow_dataset/
+2025-03-20 15:50:59,519 - INFO - Successfully loaded image and labels for frame_423_jpg.rf.63cdf2965be697af8280fedc35610e78 from ../roboflow_dataset/images/frame_423_jpg.rf.63cdf2965be697af8280fedc35610e78.jpg
+2025-03-20 15:50:59,519 - INFO - Drew bounding boxes for frame_423_jpg.rf.63cdf2965be697af8280fedc35610e78
+2025-03-20 15:50:59,527 - INFO - Saved progress: 36/850 for ../roboflow_dataset/
+2025-03-20 15:50:59,686 - INFO - Successfully loaded image and labels for frame_547_jpg.rf.47a003a82910e5a1f9fd195ba5819907 from ../roboflow_dataset/images/frame_547_jpg.rf.47a003a82910e5a1f9fd195ba5819907.jpg
+2025-03-20 15:50:59,687 - INFO - Drew bounding boxes for frame_547_jpg.rf.47a003a82910e5a1f9fd195ba5819907
+2025-03-20 15:50:59,694 - INFO - Saved progress: 37/850 for ../roboflow_dataset/
+2025-03-20 15:51:00,150 - INFO - Successfully loaded image and labels for frame_622_jpg.rf.52c19cd99c008384ff75349f7e8bb657 from ../roboflow_dataset/images/frame_622_jpg.rf.52c19cd99c008384ff75349f7e8bb657.jpg
+2025-03-20 15:51:00,151 - INFO - Drew bounding boxes for frame_622_jpg.rf.52c19cd99c008384ff75349f7e8bb657
+2025-03-20 15:51:00,157 - INFO - Saved progress: 38/850 for ../roboflow_dataset/
+2025-03-20 15:51:00,344 - INFO - Successfully loaded image and labels for frame_807_jpg.rf.f0339a57e029dfd5f3aa061b011ed689 from ../roboflow_dataset/images/frame_807_jpg.rf.f0339a57e029dfd5f3aa061b011ed689.jpg
+2025-03-20 15:51:00,344 - INFO - Drew bounding boxes for frame_807_jpg.rf.f0339a57e029dfd5f3aa061b011ed689
+2025-03-20 15:51:00,351 - INFO - Saved progress: 39/850 for ../roboflow_dataset/
+2025-03-20 15:51:00,814 - INFO - Successfully loaded image and labels for frame_622_jpg.rf.52c19cd99c008384ff75349f7e8bb657 from ../roboflow_dataset/images/frame_622_jpg.rf.52c19cd99c008384ff75349f7e8bb657.jpg
+2025-03-20 15:51:00,815 - INFO - Drew bounding boxes for frame_622_jpg.rf.52c19cd99c008384ff75349f7e8bb657
+2025-03-20 15:51:00,822 - INFO - Saved progress: 38/850 for ../roboflow_dataset/
+2025-03-20 15:51:02,942 - INFO - Successfully loaded image and labels for frame_547_jpg.rf.47a003a82910e5a1f9fd195ba5819907 from ../roboflow_dataset/images/frame_547_jpg.rf.47a003a82910e5a1f9fd195ba5819907.jpg
+2025-03-20 15:51:02,942 - INFO - Drew bounding boxes for frame_547_jpg.rf.47a003a82910e5a1f9fd195ba5819907
+2025-03-20 15:51:02,949 - INFO - Saved progress: 37/850 for ../roboflow_dataset/
+2025-03-20 15:51:03,726 - INFO - Successfully loaded image and labels for frame_423_jpg.rf.63cdf2965be697af8280fedc35610e78 from ../roboflow_dataset/images/frame_423_jpg.rf.63cdf2965be697af8280fedc35610e78.jpg
+2025-03-20 15:51:03,727 - INFO - Drew bounding boxes for frame_423_jpg.rf.63cdf2965be697af8280fedc35610e78
+2025-03-20 15:51:03,735 - INFO - Saved progress: 36/850 for ../roboflow_dataset/
+2025-03-20 15:51:04,190 - INFO - Successfully loaded image and labels for frame_801_jpg.rf.0e8b8c8d3ea5106e2e24036aa5e18d86 from ../roboflow_dataset/images/frame_801_jpg.rf.0e8b8c8d3ea5106e2e24036aa5e18d86.jpg
+2025-03-20 15:51:04,190 - INFO - Drew bounding boxes for frame_801_jpg.rf.0e8b8c8d3ea5106e2e24036aa5e18d86
+2025-03-20 15:51:04,199 - INFO - Saved progress: 35/850 for ../roboflow_dataset/
+2025-03-20 15:51:04,774 - INFO - Successfully loaded image and labels for frame_423_jpg.rf.63cdf2965be697af8280fedc35610e78 from ../roboflow_dataset/images/frame_423_jpg.rf.63cdf2965be697af8280fedc35610e78.jpg
+2025-03-20 15:51:04,775 - INFO - Drew bounding boxes for frame_423_jpg.rf.63cdf2965be697af8280fedc35610e78
+2025-03-20 15:51:04,782 - INFO - Saved progress: 36/850 for ../roboflow_dataset/
+2025-03-20 15:51:05,038 - INFO - Successfully loaded image and labels for frame_547_jpg.rf.47a003a82910e5a1f9fd195ba5819907 from ../roboflow_dataset/images/frame_547_jpg.rf.47a003a82910e5a1f9fd195ba5819907.jpg
+2025-03-20 15:51:05,039 - INFO - Drew bounding boxes for frame_547_jpg.rf.47a003a82910e5a1f9fd195ba5819907
+2025-03-20 15:51:05,046 - INFO - Saved progress: 37/850 for ../roboflow_dataset/
+2025-03-20 15:51:05,494 - INFO - Successfully loaded image and labels for frame_622_jpg.rf.52c19cd99c008384ff75349f7e8bb657 from ../roboflow_dataset/images/frame_622_jpg.rf.52c19cd99c008384ff75349f7e8bb657.jpg
+2025-03-20 15:51:05,494 - INFO - Drew bounding boxes for frame_622_jpg.rf.52c19cd99c008384ff75349f7e8bb657
+2025-03-20 15:51:05,502 - INFO - Saved progress: 38/850 for ../roboflow_dataset/
+2025-03-20 15:51:05,686 - INFO - Successfully loaded image and labels for frame_807_jpg.rf.f0339a57e029dfd5f3aa061b011ed689 from ../roboflow_dataset/images/frame_807_jpg.rf.f0339a57e029dfd5f3aa061b011ed689.jpg
+2025-03-20 15:51:05,686 - INFO - Drew bounding boxes for frame_807_jpg.rf.f0339a57e029dfd5f3aa061b011ed689
+2025-03-20 15:51:05,693 - INFO - Saved progress: 39/850 for ../roboflow_dataset/
+2025-03-20 15:51:06,187 - INFO - Successfully loaded image and labels for frame_492_jpg.rf.51919e9eacbbf0fa1f1a641ae65720e2 from ../roboflow_dataset/images/frame_492_jpg.rf.51919e9eacbbf0fa1f1a641ae65720e2.jpg
+2025-03-20 15:51:06,187 - INFO - Drew bounding boxes for frame_492_jpg.rf.51919e9eacbbf0fa1f1a641ae65720e2
+2025-03-20 15:51:06,195 - INFO - Saved progress: 40/850 for ../roboflow_dataset/
+2025-03-20 15:51:06,217 - INFO - Successfully loaded image and labels for frame_416_jpg.rf.16e7264ff2f150a90e357ed21f4c09be from ../roboflow_dataset/images/frame_416_jpg.rf.16e7264ff2f150a90e357ed21f4c09be.jpg
+2025-03-20 15:51:06,218 - INFO - Drew bounding boxes for frame_416_jpg.rf.16e7264ff2f150a90e357ed21f4c09be
+2025-03-20 15:51:06,225 - INFO - Saved progress: 41/850 for ../roboflow_dataset/
+2025-03-20 15:51:06,247 - INFO - Successfully loaded image and labels for frame_856_jpg.rf.ab1ad843b445bbe077ddddcc95773ae6 from ../roboflow_dataset/images/frame_856_jpg.rf.ab1ad843b445bbe077ddddcc95773ae6.jpg
+2025-03-20 15:51:06,247 - INFO - Drew bounding boxes for frame_856_jpg.rf.ab1ad843b445bbe077ddddcc95773ae6
+2025-03-20 15:51:06,255 - INFO - Saved progress: 42/850 for ../roboflow_dataset/
+2025-03-20 15:51:06,277 - INFO - Successfully loaded image and labels for frame_291_jpg.rf.29e3f43e230829b88b81607cff5ca4d5 from ../roboflow_dataset/images/frame_291_jpg.rf.29e3f43e230829b88b81607cff5ca4d5.jpg
+2025-03-20 15:51:06,278 - INFO - Drew bounding boxes for frame_291_jpg.rf.29e3f43e230829b88b81607cff5ca4d5
+2025-03-20 15:51:06,285 - INFO - Saved progress: 43/850 for ../roboflow_dataset/
+2025-03-20 15:51:06,308 - INFO - Successfully loaded image and labels for frame_435_jpg.rf.13967fd2a35e25da65628f3f83162ea7 from ../roboflow_dataset/images/frame_435_jpg.rf.13967fd2a35e25da65628f3f83162ea7.jpg
+2025-03-20 15:51:06,308 - INFO - Drew bounding boxes for frame_435_jpg.rf.13967fd2a35e25da65628f3f83162ea7
+2025-03-20 15:51:06,316 - INFO - Saved progress: 44/850 for ../roboflow_dataset/
+2025-03-20 15:51:06,337 - INFO - Successfully loaded image and labels for frame_855_jpg.rf.67252933cc4f2bc2a5e077ecb1f243b2 from ../roboflow_dataset/images/frame_855_jpg.rf.67252933cc4f2bc2a5e077ecb1f243b2.jpg
+2025-03-20 15:51:06,337 - INFO - Drew bounding boxes for frame_855_jpg.rf.67252933cc4f2bc2a5e077ecb1f243b2
+2025-03-20 15:51:06,345 - INFO - Saved progress: 45/850 for ../roboflow_dataset/
+2025-03-20 15:51:06,368 - INFO - Successfully loaded image and labels for frame_85_jpg.rf.023db52ed4138432e2241e67c3b22201 from ../roboflow_dataset/images/frame_85_jpg.rf.023db52ed4138432e2241e67c3b22201.jpg
+2025-03-20 15:51:06,368 - INFO - Drew bounding boxes for frame_85_jpg.rf.023db52ed4138432e2241e67c3b22201
+2025-03-20 15:51:06,376 - INFO - Saved progress: 46/850 for ../roboflow_dataset/
+2025-03-20 15:51:06,398 - INFO - Successfully loaded image and labels for frame_858_jpg.rf.a81abc8b35532bd1230d4c63b784b20b from ../roboflow_dataset/images/frame_858_jpg.rf.a81abc8b35532bd1230d4c63b784b20b.jpg
+2025-03-20 15:51:06,398 - INFO - Drew bounding boxes for frame_858_jpg.rf.a81abc8b35532bd1230d4c63b784b20b
+2025-03-20 15:51:06,405 - INFO - Saved progress: 47/850 for ../roboflow_dataset/
+2025-03-20 15:51:06,428 - INFO - Successfully loaded image and labels for frame_795_jpg.rf.4e82f121ce07c20d2d837177b1fd1989 from ../roboflow_dataset/images/frame_795_jpg.rf.4e82f121ce07c20d2d837177b1fd1989.jpg
+2025-03-20 15:51:06,429 - INFO - Drew bounding boxes for frame_795_jpg.rf.4e82f121ce07c20d2d837177b1fd1989
+2025-03-20 15:51:06,436 - INFO - Saved progress: 48/850 for ../roboflow_dataset/
+2025-03-20 15:51:06,459 - INFO - Successfully loaded image and labels for frame_908_jpg.rf.cc8c9729d3d19836ea695f10e162b155 from ../roboflow_dataset/images/frame_908_jpg.rf.cc8c9729d3d19836ea695f10e162b155.jpg
+2025-03-20 15:51:06,459 - INFO - Drew bounding boxes for frame_908_jpg.rf.cc8c9729d3d19836ea695f10e162b155
+2025-03-20 15:51:06,466 - INFO - Saved progress: 49/850 for ../roboflow_dataset/
+2025-03-20 15:51:06,488 - INFO - Successfully loaded image and labels for frame_765_jpg.rf.c200989e4ca4531bab1419973a1383a8 from ../roboflow_dataset/images/frame_765_jpg.rf.c200989e4ca4531bab1419973a1383a8.jpg
+2025-03-20 15:51:06,488 - INFO - Drew bounding boxes for frame_765_jpg.rf.c200989e4ca4531bab1419973a1383a8
+2025-03-20 15:51:06,495 - INFO - Saved progress: 50/850 for ../roboflow_dataset/
+2025-03-20 15:51:06,518 - INFO - Successfully loaded image and labels for frame_94_jpg.rf.81625192e4419141dfe1844e996b3a42 from ../roboflow_dataset/images/frame_94_jpg.rf.81625192e4419141dfe1844e996b3a42.jpg
+2025-03-20 15:51:06,518 - INFO - Drew bounding boxes for frame_94_jpg.rf.81625192e4419141dfe1844e996b3a42
+2025-03-20 15:51:06,526 - INFO - Saved progress: 51/850 for ../roboflow_dataset/
+2025-03-20 15:51:06,548 - INFO - Successfully loaded image and labels for frame_31_jpg.rf.4eb824675850988cc89a2032c66e3db7 from ../roboflow_dataset/images/frame_31_jpg.rf.4eb824675850988cc89a2032c66e3db7.jpg
+2025-03-20 15:51:06,548 - INFO - Drew bounding boxes for frame_31_jpg.rf.4eb824675850988cc89a2032c66e3db7
+2025-03-20 15:51:06,556 - INFO - Saved progress: 52/850 for ../roboflow_dataset/
+2025-03-20 15:51:06,578 - INFO - Successfully loaded image and labels for frame_290_jpg.rf.4a65b1f8156dc77853f346b6af00fba4 from ../roboflow_dataset/images/frame_290_jpg.rf.4a65b1f8156dc77853f346b6af00fba4.jpg
+2025-03-20 15:51:06,578 - INFO - Drew bounding boxes for frame_290_jpg.rf.4a65b1f8156dc77853f346b6af00fba4
+2025-03-20 15:51:06,586 - INFO - Saved progress: 53/850 for ../roboflow_dataset/
+2025-03-20 15:51:06,608 - INFO - Successfully loaded image and labels for frame_723_jpg.rf.f228b21b5c70cb17496c595fb3b5b368 from ../roboflow_dataset/images/frame_723_jpg.rf.f228b21b5c70cb17496c595fb3b5b368.jpg
+2025-03-20 15:51:06,609 - INFO - Drew bounding boxes for frame_723_jpg.rf.f228b21b5c70cb17496c595fb3b5b368
+2025-03-20 15:51:06,616 - INFO - Saved progress: 54/850 for ../roboflow_dataset/
+2025-03-20 15:51:06,638 - INFO - Successfully loaded image and labels for frame_675_jpg.rf.a15bbb017a1065c8c6f0b1947e66c618 from ../roboflow_dataset/images/frame_675_jpg.rf.a15bbb017a1065c8c6f0b1947e66c618.jpg
+2025-03-20 15:51:06,638 - INFO - Drew bounding boxes for frame_675_jpg.rf.a15bbb017a1065c8c6f0b1947e66c618
+2025-03-20 15:51:06,645 - INFO - Saved progress: 55/850 for ../roboflow_dataset/
+2025-03-20 15:51:06,668 - INFO - Successfully loaded image and labels for frame_976_jpg.rf.dad7b0dc2df96161dfbc5f4f75e6913c from ../roboflow_dataset/images/frame_976_jpg.rf.dad7b0dc2df96161dfbc5f4f75e6913c.jpg
+2025-03-20 15:51:06,668 - INFO - Drew bounding boxes for frame_976_jpg.rf.dad7b0dc2df96161dfbc5f4f75e6913c
+2025-03-20 15:51:06,675 - INFO - Saved progress: 56/850 for ../roboflow_dataset/
+2025-03-20 15:51:06,698 - INFO - Successfully loaded image and labels for frame_59_jpg.rf.630d47c82030bcb21bb42974a6adbfbb from ../roboflow_dataset/images/frame_59_jpg.rf.630d47c82030bcb21bb42974a6adbfbb.jpg
+2025-03-20 15:51:06,698 - INFO - Drew bounding boxes for frame_59_jpg.rf.630d47c82030bcb21bb42974a6adbfbb
+2025-03-20 15:51:06,705 - INFO - Saved progress: 57/850 for ../roboflow_dataset/
+2025-03-20 15:51:06,728 - INFO - Successfully loaded image and labels for frame_851_jpg.rf.79cac9e7ab493efab4832846864e6c9c from ../roboflow_dataset/images/frame_851_jpg.rf.79cac9e7ab493efab4832846864e6c9c.jpg
+2025-03-20 15:51:06,728 - INFO - Drew bounding boxes for frame_851_jpg.rf.79cac9e7ab493efab4832846864e6c9c
+2025-03-20 15:51:06,736 - INFO - Saved progress: 58/850 for ../roboflow_dataset/
+2025-03-20 15:51:06,758 - INFO - Successfully loaded image and labels for frame_47_jpg.rf.7c0ca845fe6b9520068b9f3a28f780e6 from ../roboflow_dataset/images/frame_47_jpg.rf.7c0ca845fe6b9520068b9f3a28f780e6.jpg
+2025-03-20 15:51:06,758 - INFO - Drew bounding boxes for frame_47_jpg.rf.7c0ca845fe6b9520068b9f3a28f780e6
+2025-03-20 15:51:06,765 - INFO - Saved progress: 59/850 for ../roboflow_dataset/
+2025-03-20 15:51:06,788 - INFO - Successfully loaded image and labels for frame_269_jpg.rf.b381fc8267c5cc4fa43827c03e60b92e from ../roboflow_dataset/images/frame_269_jpg.rf.b381fc8267c5cc4fa43827c03e60b92e.jpg
+2025-03-20 15:51:06,788 - INFO - Drew bounding boxes for frame_269_jpg.rf.b381fc8267c5cc4fa43827c03e60b92e
+2025-03-20 15:51:06,796 - INFO - Saved progress: 60/850 for ../roboflow_dataset/
+2025-03-20 15:51:06,818 - INFO - Successfully loaded image and labels for frame_819_jpg.rf.008d8411b75758e562f639c6511dd287 from ../roboflow_dataset/images/frame_819_jpg.rf.008d8411b75758e562f639c6511dd287.jpg
+2025-03-20 15:51:06,818 - INFO - Drew bounding boxes for frame_819_jpg.rf.008d8411b75758e562f639c6511dd287
+2025-03-20 15:51:06,825 - INFO - Saved progress: 61/850 for ../roboflow_dataset/
+2025-03-20 15:51:06,847 - INFO - Successfully loaded image and labels for frame_863_jpg.rf.73acaeef86973ecb126f6e1cab81ddf4 from ../roboflow_dataset/images/frame_863_jpg.rf.73acaeef86973ecb126f6e1cab81ddf4.jpg
+2025-03-20 15:51:06,848 - INFO - Drew bounding boxes for frame_863_jpg.rf.73acaeef86973ecb126f6e1cab81ddf4
+2025-03-20 15:51:06,855 - INFO - Saved progress: 62/850 for ../roboflow_dataset/
+2025-03-20 15:51:06,878 - INFO - Successfully loaded image and labels for frame_296_jpg.rf.ffab7de5d9e4342ab0f8e5bb9521dadc from ../roboflow_dataset/images/frame_296_jpg.rf.ffab7de5d9e4342ab0f8e5bb9521dadc.jpg
+2025-03-20 15:51:06,878 - INFO - Drew bounding boxes for frame_296_jpg.rf.ffab7de5d9e4342ab0f8e5bb9521dadc
+2025-03-20 15:51:06,885 - INFO - Saved progress: 63/850 for ../roboflow_dataset/
+2025-03-20 15:51:06,908 - INFO - Successfully loaded image and labels for frame_812_jpg.rf.fbb264779e74265f9fefa8476e039a2b from ../roboflow_dataset/images/frame_812_jpg.rf.fbb264779e74265f9fefa8476e039a2b.jpg
+2025-03-20 15:51:06,909 - INFO - Drew bounding boxes for frame_812_jpg.rf.fbb264779e74265f9fefa8476e039a2b
+2025-03-20 15:51:06,916 - INFO - Saved progress: 64/850 for ../roboflow_dataset/
+2025-03-20 15:51:06,937 - INFO - Successfully loaded image and labels for frame_477_jpg.rf.34838d44a0ebfd837e8c0a44a34f6d23 from ../roboflow_dataset/images/frame_477_jpg.rf.34838d44a0ebfd837e8c0a44a34f6d23.jpg
+2025-03-20 15:51:06,938 - INFO - Drew bounding boxes for frame_477_jpg.rf.34838d44a0ebfd837e8c0a44a34f6d23
+2025-03-20 15:51:06,945 - INFO - Saved progress: 65/850 for ../roboflow_dataset/
+2025-03-20 15:51:06,968 - INFO - Successfully loaded image and labels for frame_902_jpg.rf.81842ed2624347f69c4ca9e22feb7361 from ../roboflow_dataset/images/frame_902_jpg.rf.81842ed2624347f69c4ca9e22feb7361.jpg
+2025-03-20 15:51:06,968 - INFO - Drew bounding boxes for frame_902_jpg.rf.81842ed2624347f69c4ca9e22feb7361
+2025-03-20 15:51:06,975 - INFO - Saved progress: 66/850 for ../roboflow_dataset/
+2025-03-20 15:51:06,997 - INFO - Successfully loaded image and labels for frame_257_jpg.rf.328443b8b94f46f5dc4805df404219bb from ../roboflow_dataset/images/frame_257_jpg.rf.328443b8b94f46f5dc4805df404219bb.jpg
+2025-03-20 15:51:06,998 - INFO - Drew bounding boxes for frame_257_jpg.rf.328443b8b94f46f5dc4805df404219bb
+2025-03-20 15:51:07,004 - INFO - Saved progress: 67/850 for ../roboflow_dataset/
+2025-03-20 15:51:07,028 - INFO - Successfully loaded image and labels for frame_848_jpg.rf.ef46091391ccf805b86fe4091dabe93c from ../roboflow_dataset/images/frame_848_jpg.rf.ef46091391ccf805b86fe4091dabe93c.jpg
+2025-03-20 15:51:07,028 - INFO - Drew bounding boxes for frame_848_jpg.rf.ef46091391ccf805b86fe4091dabe93c
+2025-03-20 15:51:07,035 - INFO - Saved progress: 68/850 for ../roboflow_dataset/
+2025-03-20 15:51:07,058 - INFO - Successfully loaded image and labels for frame_372_jpg.rf.dcdccc76a1f9852411dfe0178d53cb4b from ../roboflow_dataset/images/frame_372_jpg.rf.dcdccc76a1f9852411dfe0178d53cb4b.jpg
+2025-03-20 15:51:07,058 - INFO - Drew bounding boxes for frame_372_jpg.rf.dcdccc76a1f9852411dfe0178d53cb4b
+2025-03-20 15:51:07,066 - INFO - Saved progress: 69/850 for ../roboflow_dataset/
+2025-03-20 15:51:07,087 - INFO - Successfully loaded image and labels for frame_961_jpg.rf.e142549f634aa24b373a9bacb66d614e from ../roboflow_dataset/images/frame_961_jpg.rf.e142549f634aa24b373a9bacb66d614e.jpg
+2025-03-20 15:51:07,088 - INFO - Drew bounding boxes for frame_961_jpg.rf.e142549f634aa24b373a9bacb66d614e
+2025-03-20 15:51:07,094 - INFO - Saved progress: 70/850 for ../roboflow_dataset/
+2025-03-20 15:51:07,118 - INFO - Successfully loaded image and labels for frame_420_jpg.rf.acba12a29e4fd602858238bf99eec483 from ../roboflow_dataset/images/frame_420_jpg.rf.acba12a29e4fd602858238bf99eec483.jpg
+2025-03-20 15:51:07,118 - INFO - Drew bounding boxes for frame_420_jpg.rf.acba12a29e4fd602858238bf99eec483
+2025-03-20 15:51:07,124 - INFO - Saved progress: 71/850 for ../roboflow_dataset/
+2025-03-20 15:51:07,147 - INFO - Successfully loaded image and labels for frame_629_jpg.rf.b9d51369a66af482189f92e6a2a89038 from ../roboflow_dataset/images/frame_629_jpg.rf.b9d51369a66af482189f92e6a2a89038.jpg
+2025-03-20 15:51:07,148 - INFO - Drew bounding boxes for frame_629_jpg.rf.b9d51369a66af482189f92e6a2a89038
+2025-03-20 15:51:07,155 - INFO - Saved progress: 72/850 for ../roboflow_dataset/
+2025-03-20 15:51:07,178 - INFO - Successfully loaded image and labels for frame_212_jpg.rf.1ceec90a5ad206ac75a12d7493557757 from ../roboflow_dataset/images/frame_212_jpg.rf.1ceec90a5ad206ac75a12d7493557757.jpg
+2025-03-20 15:51:07,179 - INFO - Drew bounding boxes for frame_212_jpg.rf.1ceec90a5ad206ac75a12d7493557757
+2025-03-20 15:51:07,185 - INFO - Saved progress: 73/850 for ../roboflow_dataset/
+2025-03-20 15:51:07,208 - INFO - Successfully loaded image and labels for frame_512_jpg.rf.a70bb2101b68d146665a104c0b9c6209 from ../roboflow_dataset/images/frame_512_jpg.rf.a70bb2101b68d146665a104c0b9c6209.jpg
+2025-03-20 15:51:07,208 - INFO - Drew bounding boxes for frame_512_jpg.rf.a70bb2101b68d146665a104c0b9c6209
+2025-03-20 15:51:07,216 - INFO - Saved progress: 74/850 for ../roboflow_dataset/
+2025-03-20 15:51:07,237 - INFO - Successfully loaded image and labels for frame_116_jpg.rf.5eb8f043d7784e4d8cd7ded87b483ef4 from ../roboflow_dataset/images/frame_116_jpg.rf.5eb8f043d7784e4d8cd7ded87b483ef4.jpg
+2025-03-20 15:51:07,238 - INFO - Drew bounding boxes for frame_116_jpg.rf.5eb8f043d7784e4d8cd7ded87b483ef4
+2025-03-20 15:51:07,244 - INFO - Saved progress: 75/850 for ../roboflow_dataset/
+2025-03-20 15:51:07,268 - INFO - Successfully loaded image and labels for frame_40_jpg.rf.10b2c9ff79377749f15ddcf1ff600a62 from ../roboflow_dataset/images/frame_40_jpg.rf.10b2c9ff79377749f15ddcf1ff600a62.jpg
+2025-03-20 15:51:07,268 - INFO - Drew bounding boxes for frame_40_jpg.rf.10b2c9ff79377749f15ddcf1ff600a62
+2025-03-20 15:51:07,275 - INFO - Saved progress: 76/850 for ../roboflow_dataset/
+2025-03-20 15:51:07,298 - INFO - Successfully loaded image and labels for frame_432_jpg.rf.83ea3d0c57c1ce578cbd98fc7924e83b from ../roboflow_dataset/images/frame_432_jpg.rf.83ea3d0c57c1ce578cbd98fc7924e83b.jpg
+2025-03-20 15:51:07,298 - INFO - Drew bounding boxes for frame_432_jpg.rf.83ea3d0c57c1ce578cbd98fc7924e83b
+2025-03-20 15:51:07,304 - INFO - Saved progress: 77/850 for ../roboflow_dataset/
+2025-03-20 15:51:07,328 - INFO - Successfully loaded image and labels for frame_882_jpg.rf.67e176a12e969d3e9ba9e0d96a9d1276 from ../roboflow_dataset/images/frame_882_jpg.rf.67e176a12e969d3e9ba9e0d96a9d1276.jpg
+2025-03-20 15:51:07,328 - INFO - Drew bounding boxes for frame_882_jpg.rf.67e176a12e969d3e9ba9e0d96a9d1276
+2025-03-20 15:51:07,335 - INFO - Saved progress: 78/850 for ../roboflow_dataset/
+2025-03-20 15:51:07,358 - INFO - Successfully loaded image and labels for frame_896_jpg.rf.c76143bc3252b534ba3dbac7f91491d3 from ../roboflow_dataset/images/frame_896_jpg.rf.c76143bc3252b534ba3dbac7f91491d3.jpg
+2025-03-20 15:51:07,359 - INFO - Drew bounding boxes for frame_896_jpg.rf.c76143bc3252b534ba3dbac7f91491d3
+2025-03-20 15:51:07,366 - INFO - Saved progress: 79/850 for ../roboflow_dataset/
+2025-03-20 15:51:07,388 - INFO - Successfully loaded image and labels for frame_110_jpg.rf.a7da53e7b144571961955d4da4ba1144 from ../roboflow_dataset/images/frame_110_jpg.rf.a7da53e7b144571961955d4da4ba1144.jpg
+2025-03-20 15:51:07,388 - INFO - Drew bounding boxes for frame_110_jpg.rf.a7da53e7b144571961955d4da4ba1144
+2025-03-20 15:51:07,401 - INFO - Saved progress: 80/850 for ../roboflow_dataset/
+2025-03-20 15:51:07,418 - INFO - Successfully loaded image and labels for frame_696_jpg.rf.2b9317d02ec83c347d9bdef4da76e48c from ../roboflow_dataset/images/frame_696_jpg.rf.2b9317d02ec83c347d9bdef4da76e48c.jpg
+2025-03-20 15:51:07,418 - INFO - Drew bounding boxes for frame_696_jpg.rf.2b9317d02ec83c347d9bdef4da76e48c
+2025-03-20 15:51:07,428 - INFO - Saved progress: 81/850 for ../roboflow_dataset/
+2025-03-20 15:51:07,448 - INFO - Successfully loaded image and labels for frame_293_jpg.rf.83336299e739c72d846a762434b94a45 from ../roboflow_dataset/images/frame_293_jpg.rf.83336299e739c72d846a762434b94a45.jpg
+2025-03-20 15:51:07,448 - INFO - Drew bounding boxes for frame_293_jpg.rf.83336299e739c72d846a762434b94a45
+2025-03-20 15:51:07,455 - INFO - Saved progress: 82/850 for ../roboflow_dataset/
+2025-03-20 15:51:07,478 - INFO - Successfully loaded image and labels for frame_192_jpg.rf.652a727f1a27700da53e2b1085a52c62 from ../roboflow_dataset/images/frame_192_jpg.rf.652a727f1a27700da53e2b1085a52c62.jpg
+2025-03-20 15:51:07,478 - INFO - Drew bounding boxes for frame_192_jpg.rf.652a727f1a27700da53e2b1085a52c62
+2025-03-20 15:51:07,485 - INFO - Saved progress: 83/850 for ../roboflow_dataset/
+2025-03-20 15:51:07,507 - INFO - Successfully loaded image and labels for frame_123_jpg.rf.f665eec7e859a1fd23b6ecf13a69db2f from ../roboflow_dataset/images/frame_123_jpg.rf.f665eec7e859a1fd23b6ecf13a69db2f.jpg
+2025-03-20 15:51:07,508 - INFO - Drew bounding boxes for frame_123_jpg.rf.f665eec7e859a1fd23b6ecf13a69db2f
+2025-03-20 15:51:07,516 - INFO - Saved progress: 84/850 for ../roboflow_dataset/
+2025-03-20 15:51:07,539 - INFO - Successfully loaded image and labels for frame_189_jpg.rf.637694ad4d7fd266d97f0e0a5a778542 from ../roboflow_dataset/images/frame_189_jpg.rf.637694ad4d7fd266d97f0e0a5a778542.jpg
+2025-03-20 15:51:07,540 - INFO - Drew bounding boxes for frame_189_jpg.rf.637694ad4d7fd266d97f0e0a5a778542
+2025-03-20 15:51:07,546 - INFO - Saved progress: 85/850 for ../roboflow_dataset/
+2025-03-20 15:51:07,570 - INFO - Successfully loaded image and labels for frame_513_jpg.rf.cbd138a5ac176585471b56a1c812a8ba from ../roboflow_dataset/images/frame_513_jpg.rf.cbd138a5ac176585471b56a1c812a8ba.jpg
+2025-03-20 15:51:07,570 - INFO - Drew bounding boxes for frame_513_jpg.rf.cbd138a5ac176585471b56a1c812a8ba
+2025-03-20 15:51:07,577 - INFO - Saved progress: 86/850 for ../roboflow_dataset/
+2025-03-20 15:51:07,604 - INFO - Successfully loaded image and labels for frame_331_jpg.rf.0c5c76e45560d54e721e82ca400b367a from ../roboflow_dataset/images/frame_331_jpg.rf.0c5c76e45560d54e721e82ca400b367a.jpg
+2025-03-20 15:51:07,605 - INFO - Drew bounding boxes for frame_331_jpg.rf.0c5c76e45560d54e721e82ca400b367a
+2025-03-20 15:51:07,610 - INFO - Saved progress: 87/850 for ../roboflow_dataset/
+2025-03-20 15:51:07,634 - INFO - Successfully loaded image and labels for frame_1010_jpg.rf.8935ad8822ed6ef2bdaa2ea7f8a1a5a3 from ../roboflow_dataset/images/frame_1010_jpg.rf.8935ad8822ed6ef2bdaa2ea7f8a1a5a3.jpg
+2025-03-20 15:51:07,634 - INFO - Drew bounding boxes for frame_1010_jpg.rf.8935ad8822ed6ef2bdaa2ea7f8a1a5a3
+2025-03-20 15:51:07,641 - INFO - Saved progress: 88/850 for ../roboflow_dataset/
+2025-03-20 15:51:07,664 - INFO - Successfully loaded image and labels for frame_879_jpg.rf.e075c7a15820e579d8d1e29a5a9224e9 from ../roboflow_dataset/images/frame_879_jpg.rf.e075c7a15820e579d8d1e29a5a9224e9.jpg
+2025-03-20 15:51:07,665 - INFO - Drew bounding boxes for frame_879_jpg.rf.e075c7a15820e579d8d1e29a5a9224e9
+2025-03-20 15:51:07,671 - INFO - Saved progress: 89/850 for ../roboflow_dataset/
+2025-03-20 15:51:07,694 - INFO - Successfully loaded image and labels for frame_153_jpg.rf.c47ca235f12a68b5d5c295fe0e61064a from ../roboflow_dataset/images/frame_153_jpg.rf.c47ca235f12a68b5d5c295fe0e61064a.jpg
+2025-03-20 15:51:07,694 - INFO - Drew bounding boxes for frame_153_jpg.rf.c47ca235f12a68b5d5c295fe0e61064a
+2025-03-20 15:51:07,701 - INFO - Saved progress: 90/850 for ../roboflow_dataset/
+2025-03-20 15:51:07,724 - INFO - Successfully loaded image and labels for frame_992_jpg.rf.ae213bc20aff65b715d4fea5d8c9d3f4 from ../roboflow_dataset/images/frame_992_jpg.rf.ae213bc20aff65b715d4fea5d8c9d3f4.jpg
+2025-03-20 15:51:07,724 - INFO - Drew bounding boxes for frame_992_jpg.rf.ae213bc20aff65b715d4fea5d8c9d3f4
+2025-03-20 15:51:07,731 - INFO - Saved progress: 91/850 for ../roboflow_dataset/
+2025-03-20 15:51:07,754 - INFO - Successfully loaded image and labels for frame_542_jpg.rf.247cb5d46b71bfdd391b8d51b4961e96 from ../roboflow_dataset/images/frame_542_jpg.rf.247cb5d46b71bfdd391b8d51b4961e96.jpg
+2025-03-20 15:51:07,754 - INFO - Drew bounding boxes for frame_542_jpg.rf.247cb5d46b71bfdd391b8d51b4961e96
+2025-03-20 15:51:07,761 - INFO - Saved progress: 92/850 for ../roboflow_dataset/
+2025-03-20 15:51:07,784 - INFO - Successfully loaded image and labels for frame_1020_jpg.rf.f165215dd6dabbfa9c3d30242aec1707 from ../roboflow_dataset/images/frame_1020_jpg.rf.f165215dd6dabbfa9c3d30242aec1707.jpg
+2025-03-20 15:51:07,784 - INFO - Drew bounding boxes for frame_1020_jpg.rf.f165215dd6dabbfa9c3d30242aec1707
+2025-03-20 15:51:07,790 - INFO - Saved progress: 93/850 for ../roboflow_dataset/
+2025-03-20 15:51:07,814 - INFO - Successfully loaded image and labels for frame_912_jpg.rf.d3c477b38cbbefdaf3dfab8f9b305764 from ../roboflow_dataset/images/frame_912_jpg.rf.d3c477b38cbbefdaf3dfab8f9b305764.jpg
+2025-03-20 15:51:07,814 - INFO - Drew bounding boxes for frame_912_jpg.rf.d3c477b38cbbefdaf3dfab8f9b305764
+2025-03-20 15:51:07,826 - INFO - Saved progress: 94/850 for ../roboflow_dataset/
+2025-03-20 15:51:07,844 - INFO - Successfully loaded image and labels for frame_561_jpg.rf.437774dc3d97dd03b67ada26c71c66c7 from ../roboflow_dataset/images/frame_561_jpg.rf.437774dc3d97dd03b67ada26c71c66c7.jpg
+2025-03-20 15:51:07,845 - INFO - Drew bounding boxes for frame_561_jpg.rf.437774dc3d97dd03b67ada26c71c66c7
+2025-03-20 15:51:07,851 - INFO - Saved progress: 95/850 for ../roboflow_dataset/
+2025-03-20 15:51:07,875 - INFO - Successfully loaded image and labels for frame_57_jpg.rf.ca9204270ec2328009c4eefeb2cd03d9 from ../roboflow_dataset/images/frame_57_jpg.rf.ca9204270ec2328009c4eefeb2cd03d9.jpg
+2025-03-20 15:51:07,875 - INFO - Drew bounding boxes for frame_57_jpg.rf.ca9204270ec2328009c4eefeb2cd03d9
+2025-03-20 15:51:07,882 - INFO - Saved progress: 96/850 for ../roboflow_dataset/
+2025-03-20 15:51:07,904 - INFO - Successfully loaded image and labels for frame_248_jpg.rf.172d51c0e8de93e9041de35b801d9688 from ../roboflow_dataset/images/frame_248_jpg.rf.172d51c0e8de93e9041de35b801d9688.jpg
+2025-03-20 15:51:07,904 - INFO - Drew bounding boxes for frame_248_jpg.rf.172d51c0e8de93e9041de35b801d9688
+2025-03-20 15:51:07,910 - INFO - Saved progress: 97/850 for ../roboflow_dataset/
+2025-03-20 15:51:07,935 - INFO - Successfully loaded image and labels for frame_64_jpg.rf.a6c9a3f067ee7dd9b23760961142fdfb from ../roboflow_dataset/images/frame_64_jpg.rf.a6c9a3f067ee7dd9b23760961142fdfb.jpg
+2025-03-20 15:51:07,935 - INFO - Drew bounding boxes for frame_64_jpg.rf.a6c9a3f067ee7dd9b23760961142fdfb
+2025-03-20 15:51:07,941 - INFO - Saved progress: 98/850 for ../roboflow_dataset/
+2025-03-20 15:51:07,964 - INFO - Successfully loaded image and labels for frame_318_jpg.rf.874c5248aab357efb579405e34bbbe9e from ../roboflow_dataset/images/frame_318_jpg.rf.874c5248aab357efb579405e34bbbe9e.jpg
+2025-03-20 15:51:07,964 - INFO - Drew bounding boxes for frame_318_jpg.rf.874c5248aab357efb579405e34bbbe9e
+2025-03-20 15:51:07,971 - INFO - Saved progress: 99/850 for ../roboflow_dataset/
+2025-03-20 15:51:07,994 - INFO - Successfully loaded image and labels for frame_382_jpg.rf.4e1d241f4d86d00324bbb1e14645bd74 from ../roboflow_dataset/images/frame_382_jpg.rf.4e1d241f4d86d00324bbb1e14645bd74.jpg
+2025-03-20 15:51:07,994 - INFO - Drew bounding boxes for frame_382_jpg.rf.4e1d241f4d86d00324bbb1e14645bd74
+2025-03-20 15:51:08,001 - INFO - Saved progress: 100/850 for ../roboflow_dataset/
+2025-03-20 15:51:08,024 - INFO - Successfully loaded image and labels for frame_497_jpg.rf.61b0eeeb693b849f57b2c4b601c1ad82 from ../roboflow_dataset/images/frame_497_jpg.rf.61b0eeeb693b849f57b2c4b601c1ad82.jpg
+2025-03-20 15:51:08,024 - INFO - Drew bounding boxes for frame_497_jpg.rf.61b0eeeb693b849f57b2c4b601c1ad82
+2025-03-20 15:51:08,030 - INFO - Saved progress: 101/850 for ../roboflow_dataset/
+2025-03-20 15:51:08,054 - INFO - Successfully loaded image and labels for frame_1_jpg.rf.9713851c690052d589e562a893066f44 from ../roboflow_dataset/images/frame_1_jpg.rf.9713851c690052d589e562a893066f44.jpg
+2025-03-20 15:51:08,054 - INFO - Drew bounding boxes for frame_1_jpg.rf.9713851c690052d589e562a893066f44
+2025-03-20 15:51:08,061 - INFO - Saved progress: 102/850 for ../roboflow_dataset/
+2025-03-20 15:51:08,084 - INFO - Successfully loaded image and labels for frame_955_jpg.rf.2decd0e0e3a1dd41d06b2faf95aaa214 from ../roboflow_dataset/images/frame_955_jpg.rf.2decd0e0e3a1dd41d06b2faf95aaa214.jpg
+2025-03-20 15:51:08,084 - INFO - Drew bounding boxes for frame_955_jpg.rf.2decd0e0e3a1dd41d06b2faf95aaa214
+2025-03-20 15:51:08,090 - INFO - Saved progress: 103/850 for ../roboflow_dataset/
+2025-03-20 15:51:08,114 - INFO - Successfully loaded image and labels for frame_915_jpg.rf.232deba1a0f6717fc3065703aa1f4f3c from ../roboflow_dataset/images/frame_915_jpg.rf.232deba1a0f6717fc3065703aa1f4f3c.jpg
+2025-03-20 15:51:08,114 - INFO - Drew bounding boxes for frame_915_jpg.rf.232deba1a0f6717fc3065703aa1f4f3c
+2025-03-20 15:51:08,121 - INFO - Saved progress: 104/850 for ../roboflow_dataset/
+2025-03-20 15:51:08,144 - INFO - Successfully loaded image and labels for frame_1006_jpg.rf.fb06327c29f7f0914b5fd03b45579c14 from ../roboflow_dataset/images/frame_1006_jpg.rf.fb06327c29f7f0914b5fd03b45579c14.jpg
+2025-03-20 15:51:08,144 - INFO - Drew bounding boxes for frame_1006_jpg.rf.fb06327c29f7f0914b5fd03b45579c14
+2025-03-20 15:51:08,150 - INFO - Saved progress: 105/850 for ../roboflow_dataset/
+2025-03-20 15:51:09,630 - INFO - Successfully loaded image and labels for frame_380_jpg.rf.5987305463273eb4b522b4203b0f21fa from ../roboflow_dataset/images/frame_380_jpg.rf.5987305463273eb4b522b4203b0f21fa.jpg
+2025-03-20 15:51:09,630 - INFO - Drew bounding boxes for frame_380_jpg.rf.5987305463273eb4b522b4203b0f21fa
+2025-03-20 15:51:09,638 - INFO - Saved progress: 106/850 for ../roboflow_dataset/
+2025-03-20 15:51:09,870 - INFO - Successfully loaded image and labels for frame_46_jpg.rf.a80dabced924e4bcf7ff8a9ad642ddbc from ../roboflow_dataset/images/frame_46_jpg.rf.a80dabced924e4bcf7ff8a9ad642ddbc.jpg
+2025-03-20 15:51:09,870 - INFO - Drew bounding boxes for frame_46_jpg.rf.a80dabced924e4bcf7ff8a9ad642ddbc
+2025-03-20 15:51:09,877 - INFO - Saved progress: 107/850 for ../roboflow_dataset/
+2025-03-20 15:51:10,574 - INFO - Successfully loaded image and labels for frame_968_jpg.rf.950697c1bcaf97e25ff03919f47bc30d from ../roboflow_dataset/images/frame_968_jpg.rf.950697c1bcaf97e25ff03919f47bc30d.jpg
+2025-03-20 15:51:10,574 - INFO - Drew bounding boxes for frame_968_jpg.rf.950697c1bcaf97e25ff03919f47bc30d
+2025-03-20 15:51:10,582 - INFO - Saved progress: 108/850 for ../roboflow_dataset/
+2025-03-20 15:51:11,127 - INFO - Successfully loaded image and labels for frame_425_jpg.rf.a2b712eda2e5adb663ce5c9e2f8fb8a9 from ../roboflow_dataset/images/frame_425_jpg.rf.a2b712eda2e5adb663ce5c9e2f8fb8a9.jpg
+2025-03-20 15:51:11,127 - INFO - Drew bounding boxes for frame_425_jpg.rf.a2b712eda2e5adb663ce5c9e2f8fb8a9
+2025-03-20 15:51:11,133 - INFO - Saved progress: 109/850 for ../roboflow_dataset/
+2025-03-20 15:51:12,862 - INFO - Successfully loaded image and labels for frame_745_jpg.rf.d0fa69e0648498476e484c1f0cbfb185 from ../roboflow_dataset/images/frame_745_jpg.rf.d0fa69e0648498476e484c1f0cbfb185.jpg
+2025-03-20 15:51:12,862 - INFO - Drew bounding boxes for frame_745_jpg.rf.d0fa69e0648498476e484c1f0cbfb185
+2025-03-20 15:51:12,871 - INFO - Saved progress: 110/850 for ../roboflow_dataset/
+2025-03-20 15:51:13,599 - INFO - Successfully loaded image and labels for frame_909_jpg.rf.e166d698e3da111f4d15a3529ad617e1 from ../roboflow_dataset/images/frame_909_jpg.rf.e166d698e3da111f4d15a3529ad617e1.jpg
+2025-03-20 15:51:13,599 - INFO - Drew bounding boxes for frame_909_jpg.rf.e166d698e3da111f4d15a3529ad617e1
+2025-03-20 15:51:13,606 - INFO - Saved progress: 111/850 for ../roboflow_dataset/
+2025-03-20 15:51:14,422 - INFO - Successfully loaded image and labels for frame_98_jpg.rf.99245cc2c2f8c0ef03ad2bebaf54b093 from ../roboflow_dataset/images/frame_98_jpg.rf.99245cc2c2f8c0ef03ad2bebaf54b093.jpg
+2025-03-20 15:51:14,423 - INFO - Drew bounding boxes for frame_98_jpg.rf.99245cc2c2f8c0ef03ad2bebaf54b093
+2025-03-20 15:51:14,429 - INFO - Saved progress: 112/850 for ../roboflow_dataset/
+2025-03-20 15:51:14,838 - INFO - Successfully loaded image and labels for frame_909_jpg.rf.e166d698e3da111f4d15a3529ad617e1 from ../roboflow_dataset/images/frame_909_jpg.rf.e166d698e3da111f4d15a3529ad617e1.jpg
+2025-03-20 15:51:14,839 - INFO - Drew bounding boxes for frame_909_jpg.rf.e166d698e3da111f4d15a3529ad617e1
+2025-03-20 15:51:14,845 - INFO - Saved progress: 111/850 for ../roboflow_dataset/
+2025-03-20 15:51:15,398 - INFO - Successfully loaded image and labels for frame_98_jpg.rf.99245cc2c2f8c0ef03ad2bebaf54b093 from ../roboflow_dataset/images/frame_98_jpg.rf.99245cc2c2f8c0ef03ad2bebaf54b093.jpg
+2025-03-20 15:51:15,399 - INFO - Drew bounding boxes for frame_98_jpg.rf.99245cc2c2f8c0ef03ad2bebaf54b093
+2025-03-20 15:51:15,406 - INFO - Saved progress: 112/850 for ../roboflow_dataset/
+2025-03-20 15:51:16,415 - INFO - Successfully loaded image and labels for frame_89_jpg.rf.cd806e225136ad41c29305af38f77adf from ../roboflow_dataset/images/frame_89_jpg.rf.cd806e225136ad41c29305af38f77adf.jpg
+2025-03-20 15:51:16,415 - INFO - Drew bounding boxes for frame_89_jpg.rf.cd806e225136ad41c29305af38f77adf
+2025-03-20 15:51:16,430 - INFO - Saved progress: 113/850 for ../roboflow_dataset/
+2025-03-20 15:51:16,622 - INFO - Successfully loaded image and labels for frame_514_jpg.rf.c339fddf5a70e6c4de4642a2f0ca2e47 from ../roboflow_dataset/images/frame_514_jpg.rf.c339fddf5a70e6c4de4642a2f0ca2e47.jpg
+2025-03-20 15:51:16,623 - INFO - Drew bounding boxes for frame_514_jpg.rf.c339fddf5a70e6c4de4642a2f0ca2e47
+2025-03-20 15:51:16,630 - INFO - Saved progress: 114/850 for ../roboflow_dataset/
+2025-03-20 15:51:16,839 - INFO - Successfully loaded image and labels for frame_232_jpg.rf.6e87f0915c134496478a309398771a77 from ../roboflow_dataset/images/frame_232_jpg.rf.6e87f0915c134496478a309398771a77.jpg
+2025-03-20 15:51:16,839 - INFO - Drew bounding boxes for frame_232_jpg.rf.6e87f0915c134496478a309398771a77
+2025-03-20 15:51:16,846 - INFO - Saved progress: 115/850 for ../roboflow_dataset/
+2025-03-20 15:51:17,030 - INFO - Successfully loaded image and labels for frame_621_jpg.rf.2c488782d2ef7c2f5a19627b92494379 from ../roboflow_dataset/images/frame_621_jpg.rf.2c488782d2ef7c2f5a19627b92494379.jpg
+2025-03-20 15:51:17,030 - INFO - Drew bounding boxes for frame_621_jpg.rf.2c488782d2ef7c2f5a19627b92494379
+2025-03-20 15:51:17,038 - INFO - Saved progress: 116/850 for ../roboflow_dataset/
+2025-03-20 15:51:17,214 - INFO - Successfully loaded image and labels for frame_133_jpg.rf.35f6592e8b354fe38f0ae142998efbde from ../roboflow_dataset/images/frame_133_jpg.rf.35f6592e8b354fe38f0ae142998efbde.jpg
+2025-03-20 15:51:17,215 - INFO - Drew bounding boxes for frame_133_jpg.rf.35f6592e8b354fe38f0ae142998efbde
+2025-03-20 15:51:17,222 - INFO - Saved progress: 117/850 for ../roboflow_dataset/
+2025-03-20 15:51:17,382 - INFO - Successfully loaded image and labels for frame_32_jpg.rf.79b9de0f479b098d8102fed45de9a4bd from ../roboflow_dataset/images/frame_32_jpg.rf.79b9de0f479b098d8102fed45de9a4bd.jpg
+2025-03-20 15:51:17,382 - INFO - Drew bounding boxes for frame_32_jpg.rf.79b9de0f479b098d8102fed45de9a4bd
+2025-03-20 15:51:17,390 - INFO - Saved progress: 118/850 for ../roboflow_dataset/
+2025-03-20 15:51:17,526 - INFO - Successfully loaded image and labels for frame_604_jpg.rf.5f2bb70c679da014da811e1685ebdccc from ../roboflow_dataset/images/frame_604_jpg.rf.5f2bb70c679da014da811e1685ebdccc.jpg
+2025-03-20 15:51:17,526 - INFO - Drew bounding boxes for frame_604_jpg.rf.5f2bb70c679da014da811e1685ebdccc
+2025-03-20 15:51:17,533 - INFO - Saved progress: 119/850 for ../roboflow_dataset/
+2025-03-20 15:51:17,678 - INFO - Successfully loaded image and labels for frame_903_jpg.rf.1302f3d6eee672d2ea009fd9dd8c05f7 from ../roboflow_dataset/images/frame_903_jpg.rf.1302f3d6eee672d2ea009fd9dd8c05f7.jpg
+2025-03-20 15:51:17,678 - INFO - Drew bounding boxes for frame_903_jpg.rf.1302f3d6eee672d2ea009fd9dd8c05f7
+2025-03-20 15:51:17,687 - INFO - Saved progress: 120/850 for ../roboflow_dataset/
+2025-03-20 15:51:17,799 - INFO - Successfully loaded image and labels for frame_401_jpg.rf.c7171ecddd9724dc3af7789c818290f4 from ../roboflow_dataset/images/frame_401_jpg.rf.c7171ecddd9724dc3af7789c818290f4.jpg
+2025-03-20 15:51:17,799 - INFO - Drew bounding boxes for frame_401_jpg.rf.c7171ecddd9724dc3af7789c818290f4
+2025-03-20 15:51:17,805 - INFO - Saved progress: 121/850 for ../roboflow_dataset/
+2025-03-20 15:51:17,942 - INFO - Successfully loaded image and labels for frame_67_jpg.rf.3de471eb46b8ccc86d5662a091479601 from ../roboflow_dataset/images/frame_67_jpg.rf.3de471eb46b8ccc86d5662a091479601.jpg
+2025-03-20 15:51:17,942 - INFO - Drew bounding boxes for frame_67_jpg.rf.3de471eb46b8ccc86d5662a091479601
+2025-03-20 15:51:17,949 - INFO - Saved progress: 122/850 for ../roboflow_dataset/
+2025-03-20 15:51:18,062 - INFO - Successfully loaded image and labels for frame_577_jpg.rf.5cfdb8a33965d1a47a06c97ef83a9c61 from ../roboflow_dataset/images/frame_577_jpg.rf.5cfdb8a33965d1a47a06c97ef83a9c61.jpg
+2025-03-20 15:51:18,063 - INFO - Drew bounding boxes for frame_577_jpg.rf.5cfdb8a33965d1a47a06c97ef83a9c61
+2025-03-20 15:51:18,069 - INFO - Saved progress: 123/850 for ../roboflow_dataset/
+2025-03-20 15:51:18,174 - INFO - Successfully loaded image and labels for frame_112_jpg.rf.c59b36c33e9b8e9fe5d618fef89a6243 from ../roboflow_dataset/images/frame_112_jpg.rf.c59b36c33e9b8e9fe5d618fef89a6243.jpg
+2025-03-20 15:51:18,175 - INFO - Drew bounding boxes for frame_112_jpg.rf.c59b36c33e9b8e9fe5d618fef89a6243
+2025-03-20 15:51:18,182 - INFO - Saved progress: 124/850 for ../roboflow_dataset/
+2025-03-20 15:51:20,785 - INFO - Saved progress: 124/850 for ../roboflow_dataset/
+2025-03-20 16:04:49,445 - INFO - Initialized new path ../roboflow2/ in progress.json
+2025-03-20 16:04:49,470 - ERROR - Unexpected error: could not convert string to float: 'car'
+2025-03-20 16:04:49,470 - INFO - No bounding box data for img_31-8-63_jpg.rf.087b645c7b24912425ccaccffdedebcc
+2025-03-20 16:04:50,899 - ERROR - Unexpected error: could not convert string to float: 'car'
+2025-03-20 16:04:50,900 - INFO - No bounding box data for 113_jpg.rf.3b993b6185af3a628a9647f9dc9ea3d1
+2025-03-20 16:04:50,908 - INFO - Saved progress: 1/5892 for ../roboflow2/
+2025-03-20 16:04:51,627 - ERROR - Unexpected error: could not convert string to float: 'motorbike'
+2025-03-20 16:04:51,627 - INFO - No bounding box data for img_17-9-51_jpg.rf.4cc43ef71835dd0ee99380317a7537d2
+2025-03-20 16:04:51,634 - INFO - Saved progress: 2/5892 for ../roboflow2/
+2025-03-20 16:04:52,147 - ERROR - Unexpected error: could not convert string to float: 'car'
+2025-03-20 16:04:52,147 - INFO - No bounding box data for 715_jpg.rf.32e950c1903018b166d910334fddadf7
+2025-03-20 16:04:52,154 - INFO - Saved progress: 3/5892 for ../roboflow2/
+2025-03-20 16:04:52,764 - ERROR - Unexpected error: could not convert string to float: 'truck'
+2025-03-20 16:04:52,764 - INFO - No bounding box data for 881_jpg.rf.01801bdead6c011be3999dd9dd4430b8
+2025-03-20 16:04:52,773 - INFO - Saved progress: 4/5892 for ../roboflow2/
+2025-03-20 16:04:55,523 - ERROR - Unexpected error: could not convert string to float: 'motorbike'
+2025-03-20 16:04:55,523 - INFO - No bounding box data for s3_jpeg.rf.8e6093d46382ef78873d8b1588127fc5
+2025-03-20 16:04:55,530 - INFO - Saved progress: 5/5892 for ../roboflow2/
+2025-03-20 16:04:56,195 - ERROR - Unexpected error: could not convert string to float: 'car'
+2025-03-20 16:04:56,195 - INFO - No bounding box data for 63_jpg.rf.4fdb0f336b21268a553e737ba7af406d
+2025-03-20 16:04:56,202 - INFO - Saved progress: 6/5892 for ../roboflow2/
+2025-03-20 16:04:56,396 - ERROR - Unexpected error: could not convert string to float: 'truck'
+2025-03-20 16:04:56,396 - INFO - No bounding box data for 386_jpg.rf.7a006951bb938a7c13ac516f9e90cfd6
+2025-03-20 16:04:56,404 - INFO - Saved progress: 7/5892 for ../roboflow2/
+2025-03-20 16:04:56,539 - ERROR - Unexpected error: could not convert string to float: 'car'
+2025-03-20 16:04:56,539 - INFO - No bounding box data for img_16-23-71_jpg.rf.7f35e695a1abe092a678b4d696977353
+2025-03-20 16:04:56,548 - INFO - Saved progress: 8/5892 for ../roboflow2/
+2025-03-20 16:04:56,700 - ERROR - Unexpected error: could not convert string to float: 'motorbike'
+2025-03-20 16:04:56,700 - INFO - No bounding box data for img_2-13-74_jpg.rf.37293ebad80c8bdf77e5a6569ee3a874
+2025-03-20 16:04:56,708 - INFO - Saved progress: 9/5892 for ../roboflow2/
+2025-03-20 16:04:56,883 - ERROR - Unexpected error: could not convert string to float: 'motorbike'
+2025-03-20 16:04:56,883 - INFO - No bounding box data for m35_jpeg.rf.c7681e2fb106c11f5b4d390828415fe8
+2025-03-20 16:04:56,892 - INFO - Saved progress: 10/5892 for ../roboflow2/
+2025-03-20 16:04:57,299 - ERROR - Unexpected error: could not convert string to float: 'truck'
+2025-03-20 16:04:57,299 - INFO - No bounding box data for 367_jpg.rf.70e459f67a833a2ea4d527d506f3c7f0
+2025-03-20 16:04:57,305 - INFO - Saved progress: 11/5892 for ../roboflow2/
+2025-03-20 16:04:58,579 - ERROR - Unexpected error: could not convert string to float: 'car'
+2025-03-20 16:04:58,579 - INFO - No bounding box data for img_2-7-45_jpg.rf.c7e00f8bee7fffee9ec49e9d6b4123ec
+2025-03-20 16:04:58,586 - INFO - Saved progress: 12/5892 for ../roboflow2/
+2025-03-20 16:04:58,811 - ERROR - Unexpected error: could not convert string to float: 'car'
+2025-03-20 16:04:58,811 - INFO - No bounding box data for 627_jpg.rf.03d37f17297871d2ed5a60e5e66e3231
+2025-03-20 16:04:58,817 - INFO - Saved progress: 13/5892 for ../roboflow2/
+2025-03-20 16:04:59,114 - ERROR - Unexpected error: could not convert string to float: 'car'
+2025-03-20 16:04:59,114 - INFO - No bounding box data for img_2-7-45_jpg.rf.c7e00f8bee7fffee9ec49e9d6b4123ec
+2025-03-20 16:04:59,121 - INFO - Saved progress: 12/5892 for ../roboflow2/
+2025-03-20 16:04:59,274 - ERROR - Unexpected error: could not convert string to float: 'truck'
+2025-03-20 16:04:59,274 - INFO - No bounding box data for 367_jpg.rf.70e459f67a833a2ea4d527d506f3c7f0
+2025-03-20 16:04:59,280 - INFO - Saved progress: 11/5892 for ../roboflow2/
+2025-03-20 16:04:59,442 - ERROR - Unexpected error: could not convert string to float: 'motorbike'
+2025-03-20 16:04:59,442 - INFO - No bounding box data for m35_jpeg.rf.c7681e2fb106c11f5b4d390828415fe8
+2025-03-20 16:04:59,448 - INFO - Saved progress: 10/5892 for ../roboflow2/
+2025-03-20 16:04:59,786 - ERROR - Unexpected error: could not convert string to float: 'truck'
+2025-03-20 16:04:59,786 - INFO - No bounding box data for 367_jpg.rf.70e459f67a833a2ea4d527d506f3c7f0
+2025-03-20 16:04:59,792 - INFO - Saved progress: 11/5892 for ../roboflow2/
+2025-03-20 16:05:00,818 - ERROR - Unexpected error: could not convert string to float: 'car'
+2025-03-20 16:05:00,818 - INFO - No bounding box data for img_2-7-45_jpg.rf.c7e00f8bee7fffee9ec49e9d6b4123ec
+2025-03-20 16:05:00,825 - INFO - Saved progress: 12/5892 for ../roboflow2/
+2025-03-20 16:05:06,133 - ERROR - Error reading label file for img_2-7-45_jpg.rf.c7e00f8bee7fffee9ec49e9d6b4123ec: could not convert string to float: 'car'
+2025-03-20 16:05:07,284 - INFO - Saved progress: 12/5892 for ../roboflow2/
+2025-03-20 16:10:07,512 - INFO - Successfully loaded image and labels for img_2-7-45_jpg.rf.c7e00f8bee7fffee9ec49e9d6b4123ec from ../roboflow2/images/img_2-7-45_jpg.rf.c7e00f8bee7fffee9ec49e9d6b4123ec.jpg
+2025-03-20 16:10:07,513 - INFO - Drew bounding boxes for img_2-7-45_jpg.rf.c7e00f8bee7fffee9ec49e9d6b4123ec
+2025-03-20 16:10:08,702 - INFO - Successfully loaded image and labels for 627_jpg.rf.03d37f17297871d2ed5a60e5e66e3231 from ../roboflow2/images/627_jpg.rf.03d37f17297871d2ed5a60e5e66e3231.jpg
+2025-03-20 16:10:08,702 - INFO - Drew bounding boxes for 627_jpg.rf.03d37f17297871d2ed5a60e5e66e3231
+2025-03-20 16:10:08,709 - INFO - Saved progress: 13/5892 for ../roboflow2/
+2025-03-20 16:10:09,670 - INFO - Successfully loaded image and labels for img_2-7-45_jpg.rf.c7e00f8bee7fffee9ec49e9d6b4123ec from ../roboflow2/images/img_2-7-45_jpg.rf.c7e00f8bee7fffee9ec49e9d6b4123ec.jpg
+2025-03-20 16:10:09,670 - INFO - Drew bounding boxes for img_2-7-45_jpg.rf.c7e00f8bee7fffee9ec49e9d6b4123ec
+2025-03-20 16:10:09,677 - INFO - Saved progress: 12/5892 for ../roboflow2/
+2025-03-20 16:10:10,190 - INFO - Successfully loaded image and labels for 627_jpg.rf.03d37f17297871d2ed5a60e5e66e3231 from ../roboflow2/images/627_jpg.rf.03d37f17297871d2ed5a60e5e66e3231.jpg
+2025-03-20 16:10:10,190 - INFO - Drew bounding boxes for 627_jpg.rf.03d37f17297871d2ed5a60e5e66e3231
+2025-03-20 16:10:10,196 - INFO - Saved progress: 13/5892 for ../roboflow2/
+2025-03-20 16:10:10,542 - INFO - Successfully loaded image and labels for img_27-22-70_jpg.rf.8083804c115c16f93dc3be61b7befc47 from ../roboflow2/images/img_27-22-70_jpg.rf.8083804c115c16f93dc3be61b7befc47.jpg
+2025-03-20 16:10:10,543 - INFO - Drew bounding boxes for img_27-22-70_jpg.rf.8083804c115c16f93dc3be61b7befc47
+2025-03-20 16:10:10,553 - INFO - Saved progress: 14/5892 for ../roboflow2/
+2025-03-20 16:10:11,046 - INFO - Successfully loaded image and labels for 627_jpg.rf.03d37f17297871d2ed5a60e5e66e3231 from ../roboflow2/images/627_jpg.rf.03d37f17297871d2ed5a60e5e66e3231.jpg
+2025-03-20 16:10:11,046 - INFO - Drew bounding boxes for 627_jpg.rf.03d37f17297871d2ed5a60e5e66e3231
+2025-03-20 16:10:11,052 - INFO - Saved progress: 13/5892 for ../roboflow2/
+2025-03-20 16:10:15,703 - INFO - Successfully loaded image and labels for img_27-22-70_jpg.rf.8083804c115c16f93dc3be61b7befc47 from ../roboflow2/images/img_27-22-70_jpg.rf.8083804c115c16f93dc3be61b7befc47.jpg
+2025-03-20 16:10:15,703 - INFO - Drew bounding boxes for img_27-22-70_jpg.rf.8083804c115c16f93dc3be61b7befc47
+2025-03-20 16:10:15,710 - INFO - Saved progress: 14/5892 for ../roboflow2/
+2025-03-20 16:10:16,150 - INFO - Successfully loaded image and labels for 412_jpg.rf.b99306e203ce3c9ec0343fefee334f33 from ../roboflow2/images/412_jpg.rf.b99306e203ce3c9ec0343fefee334f33.jpg
+2025-03-20 16:10:16,150 - INFO - Drew bounding boxes for 412_jpg.rf.b99306e203ce3c9ec0343fefee334f33
+2025-03-20 16:10:16,156 - INFO - Saved progress: 15/5892 for ../roboflow2/
+2025-03-20 16:10:21,942 - INFO - Successfully loaded image and labels for 497_jpg.rf.40e03151227fb31f70df5737c7003660 from ../roboflow2/images/497_jpg.rf.40e03151227fb31f70df5737c7003660.jpg
+2025-03-20 16:10:21,942 - INFO - Drew bounding boxes for 497_jpg.rf.40e03151227fb31f70df5737c7003660
+2025-03-20 16:10:21,950 - INFO - Saved progress: 16/5892 for ../roboflow2/
+2025-03-20 16:10:23,390 - INFO - Successfully loaded image and labels for 157_jpg.rf.c6e979a1c490efde10ca13d40cfe85bc from ../roboflow2/images/157_jpg.rf.c6e979a1c490efde10ca13d40cfe85bc.jpg
+2025-03-20 16:10:23,390 - INFO - Drew bounding boxes for 157_jpg.rf.c6e979a1c490efde10ca13d40cfe85bc
+2025-03-20 16:10:23,397 - INFO - Saved progress: 17/5892 for ../roboflow2/
+2025-03-20 16:10:24,126 - INFO - Successfully loaded image and labels for j45_jpeg.rf.2c891d5b33c1302c3ca573fd28094f59 from ../roboflow2/images/j45_jpeg.rf.2c891d5b33c1302c3ca573fd28094f59.jpg
+2025-03-20 16:10:24,126 - INFO - Drew bounding boxes for j45_jpeg.rf.2c891d5b33c1302c3ca573fd28094f59
+2025-03-20 16:10:24,134 - INFO - Saved progress: 18/5892 for ../roboflow2/
+2025-03-20 16:10:24,462 - INFO - Successfully loaded image and labels for img_1-27-69_jpg.rf.bb950f2af82b750fc6fbfe4436afb441 from ../roboflow2/images/img_1-27-69_jpg.rf.bb950f2af82b750fc6fbfe4436afb441.jpg
+2025-03-20 16:10:24,462 - INFO - Drew bounding boxes for img_1-27-69_jpg.rf.bb950f2af82b750fc6fbfe4436afb441
+2025-03-20 16:10:24,469 - INFO - Saved progress: 19/5892 for ../roboflow2/
+2025-03-20 16:10:24,886 - INFO - Successfully loaded image and labels for 153_jpg.rf.b406c82cf90853af4be8932fe69245da from ../roboflow2/images/153_jpg.rf.b406c82cf90853af4be8932fe69245da.jpg
+2025-03-20 16:10:24,886 - INFO - Drew bounding boxes for 153_jpg.rf.b406c82cf90853af4be8932fe69245da
+2025-03-20 16:10:24,894 - INFO - Saved progress: 20/5892 for ../roboflow2/
+2025-03-20 16:10:25,366 - INFO - Successfully loaded image and labels for x148_jpg.rf.94348bfedc97208482318ce5ffa7d1b0 from ../roboflow2/images/x148_jpg.rf.94348bfedc97208482318ce5ffa7d1b0.jpg
+2025-03-20 16:10:25,366 - INFO - Drew bounding boxes for x148_jpg.rf.94348bfedc97208482318ce5ffa7d1b0
+2025-03-20 16:10:25,373 - INFO - Saved progress: 21/5892 for ../roboflow2/
+2025-03-20 16:10:25,974 - INFO - Successfully loaded image and labels for img_2-12-53_jpg.rf.35a26f222ff52a8ca568123ea410f58f from ../roboflow2/images/img_2-12-53_jpg.rf.35a26f222ff52a8ca568123ea410f58f.jpg
+2025-03-20 16:10:25,974 - INFO - Drew bounding boxes for img_2-12-53_jpg.rf.35a26f222ff52a8ca568123ea410f58f
+2025-03-20 16:10:25,981 - INFO - Saved progress: 22/5892 for ../roboflow2/
+2025-03-20 16:10:26,645 - INFO - Successfully loaded image and labels for img_2-7-31_jpg.rf.2e9dd12430924e2fbd3589a400b01178 from ../roboflow2/images/img_2-7-31_jpg.rf.2e9dd12430924e2fbd3589a400b01178.jpg
+2025-03-20 16:10:26,645 - INFO - Drew bounding boxes for img_2-7-31_jpg.rf.2e9dd12430924e2fbd3589a400b01178
+2025-03-20 16:10:26,651 - INFO - Saved progress: 23/5892 for ../roboflow2/
+2025-03-20 16:10:26,926 - INFO - Successfully loaded image and labels for x6_jpeg.rf.1d7b7a022047aa2af56482d96898eff7 from ../roboflow2/images/x6_jpeg.rf.1d7b7a022047aa2af56482d96898eff7.jpg
+2025-03-20 16:10:26,926 - INFO - Drew bounding boxes for x6_jpeg.rf.1d7b7a022047aa2af56482d96898eff7
+2025-03-20 16:10:26,933 - INFO - Saved progress: 24/5892 for ../roboflow2/
+2025-03-20 16:10:27,237 - INFO - Successfully loaded image and labels for img_2-7-31_jpg.rf.2e9dd12430924e2fbd3589a400b01178 from ../roboflow2/images/img_2-7-31_jpg.rf.2e9dd12430924e2fbd3589a400b01178.jpg
+2025-03-20 16:10:27,237 - INFO - Drew bounding boxes for img_2-7-31_jpg.rf.2e9dd12430924e2fbd3589a400b01178
+2025-03-20 16:10:27,244 - INFO - Saved progress: 23/5892 for ../roboflow2/
+2025-03-20 16:10:27,438 - INFO - Successfully loaded image and labels for img_2-12-53_jpg.rf.35a26f222ff52a8ca568123ea410f58f from ../roboflow2/images/img_2-12-53_jpg.rf.35a26f222ff52a8ca568123ea410f58f.jpg
+2025-03-20 16:10:27,438 - INFO - Drew bounding boxes for img_2-12-53_jpg.rf.35a26f222ff52a8ca568123ea410f58f
+2025-03-20 16:10:27,447 - INFO - Saved progress: 22/5892 for ../roboflow2/
+2025-03-20 16:10:32,622 - INFO - Successfully loaded image and labels for img_2-7-31_jpg.rf.2e9dd12430924e2fbd3589a400b01178 from ../roboflow2/images/img_2-7-31_jpg.rf.2e9dd12430924e2fbd3589a400b01178.jpg
+2025-03-20 16:10:32,622 - INFO - Drew bounding boxes for img_2-7-31_jpg.rf.2e9dd12430924e2fbd3589a400b01178
+2025-03-20 16:10:32,628 - INFO - Saved progress: 23/5892 for ../roboflow2/
+2025-03-20 16:10:33,062 - INFO - Successfully loaded image and labels for x6_jpeg.rf.1d7b7a022047aa2af56482d96898eff7 from ../roboflow2/images/x6_jpeg.rf.1d7b7a022047aa2af56482d96898eff7.jpg
+2025-03-20 16:10:33,062 - INFO - Drew bounding boxes for x6_jpeg.rf.1d7b7a022047aa2af56482d96898eff7
+2025-03-20 16:10:33,069 - INFO - Saved progress: 24/5892 for ../roboflow2/
+2025-03-20 16:10:33,518 - INFO - Successfully loaded image and labels for x141_jpg.rf.b670e002dd48b4be7a341cbc165e56d6 from ../roboflow2/images/x141_jpg.rf.b670e002dd48b4be7a341cbc165e56d6.jpg
+2025-03-20 16:10:33,518 - INFO - Drew bounding boxes for x141_jpg.rf.b670e002dd48b4be7a341cbc165e56d6
+2025-03-20 16:10:33,525 - INFO - Saved progress: 25/5892 for ../roboflow2/
+2025-03-20 16:10:33,694 - INFO - Successfully loaded image and labels for img_2-12-74_jpg.rf.ce2776bc3b2f88ff6af588303b0cf29d from ../roboflow2/images/img_2-12-74_jpg.rf.ce2776bc3b2f88ff6af588303b0cf29d.jpg
+2025-03-20 16:10:33,694 - INFO - Drew bounding boxes for img_2-12-74_jpg.rf.ce2776bc3b2f88ff6af588303b0cf29d
+2025-03-20 16:10:33,701 - INFO - Saved progress: 26/5892 for ../roboflow2/
+2025-03-20 16:10:33,918 - INFO - Successfully loaded image and labels for j53_jpg.rf.af039fd2fecdc84f2975064df049898b from ../roboflow2/images/j53_jpg.rf.af039fd2fecdc84f2975064df049898b.jpg
+2025-03-20 16:10:33,918 - INFO - No bounding box data for j53_jpg.rf.af039fd2fecdc84f2975064df049898b
+2025-03-20 16:10:33,925 - INFO - Saved progress: 27/5892 for ../roboflow2/
+2025-03-20 16:10:34,078 - INFO - Successfully loaded image and labels for 689_jpg.rf.686d562b4e32fb420cafb59e4cfffc49 from ../roboflow2/images/689_jpg.rf.686d562b4e32fb420cafb59e4cfffc49.jpg
+2025-03-20 16:10:34,078 - INFO - Drew bounding boxes for 689_jpg.rf.686d562b4e32fb420cafb59e4cfffc49
+2025-03-20 16:10:34,085 - INFO - Saved progress: 28/5892 for ../roboflow2/
+2025-03-20 16:10:34,246 - INFO - Successfully loaded image and labels for 259_jpg.rf.e88296e4b88f01225d7f67491d126b3c from ../roboflow2/images/259_jpg.rf.e88296e4b88f01225d7f67491d126b3c.jpg
+2025-03-20 16:10:34,246 - INFO - Drew bounding boxes for 259_jpg.rf.e88296e4b88f01225d7f67491d126b3c
+2025-03-20 16:10:34,252 - INFO - Saved progress: 29/5892 for ../roboflow2/
+2025-03-20 16:10:34,662 - INFO - Successfully loaded image and labels for img_12-17-34_jpg.rf.6f141067e5a7531a702eee609c6f58c2 from ../roboflow2/images/img_12-17-34_jpg.rf.6f141067e5a7531a702eee609c6f58c2.jpg
+2025-03-20 16:10:34,662 - INFO - Drew bounding boxes for img_12-17-34_jpg.rf.6f141067e5a7531a702eee609c6f58c2
+2025-03-20 16:10:34,669 - INFO - Saved progress: 30/5892 for ../roboflow2/
+2025-03-20 16:10:34,837 - INFO - Successfully loaded image and labels for x3_jpeg.rf.9f5cf4c46e6058ab06b313d1be1dfaed from ../roboflow2/images/x3_jpeg.rf.9f5cf4c46e6058ab06b313d1be1dfaed.jpg
+2025-03-20 16:10:34,838 - INFO - Drew bounding boxes for x3_jpeg.rf.9f5cf4c46e6058ab06b313d1be1dfaed
+2025-03-20 16:10:34,844 - INFO - Saved progress: 31/5892 for ../roboflow2/
+2025-03-20 16:10:35,038 - INFO - Successfully loaded image and labels for 842_jpg.rf.7268e81e0cacfbc93fc2ca78961e0287 from ../roboflow2/images/842_jpg.rf.7268e81e0cacfbc93fc2ca78961e0287.jpg
+2025-03-20 16:10:35,038 - INFO - Drew bounding boxes for 842_jpg.rf.7268e81e0cacfbc93fc2ca78961e0287
+2025-03-20 16:10:35,045 - INFO - Saved progress: 32/5892 for ../roboflow2/
+2025-03-20 16:10:38,198 - INFO - Successfully loaded image and labels for img_1-17-42_jpg.rf.89fcb379f4c569c2f997d8bf06117122 from ../roboflow2/images/img_1-17-42_jpg.rf.89fcb379f4c569c2f997d8bf06117122.jpg
+2025-03-20 16:10:38,201 - INFO - Drew bounding boxes for img_1-17-42_jpg.rf.89fcb379f4c569c2f997d8bf06117122
+2025-03-20 16:10:38,215 - INFO - Saved progress: 33/5892 for ../roboflow2/
+2025-03-20 16:10:38,389 - INFO - Successfully loaded image and labels for img_16-23-60_jpg.rf.cf7c32a7ded60bb9947ee2bbbd276cf4 from ../roboflow2/images/img_16-23-60_jpg.rf.cf7c32a7ded60bb9947ee2bbbd276cf4.jpg
+2025-03-20 16:10:38,389 - INFO - Drew bounding boxes for img_16-23-60_jpg.rf.cf7c32a7ded60bb9947ee2bbbd276cf4
+2025-03-20 16:10:38,398 - INFO - Saved progress: 34/5892 for ../roboflow2/
+2025-03-20 16:10:38,789 - INFO - Successfully loaded image and labels for img_1-26-33_jpg.rf.e4ac6fda46e922b17a1be846f6e3ae10 from ../roboflow2/images/img_1-26-33_jpg.rf.e4ac6fda46e922b17a1be846f6e3ae10.jpg
+2025-03-20 16:10:38,789 - INFO - Drew bounding boxes for img_1-26-33_jpg.rf.e4ac6fda46e922b17a1be846f6e3ae10
+2025-03-20 16:10:38,795 - INFO - Saved progress: 35/5892 for ../roboflow2/
+2025-03-20 16:10:38,949 - INFO - Successfully loaded image and labels for s6_jpeg.rf.b9b98077aaedb7b8f050ef9f450a914f from ../roboflow2/images/s6_jpeg.rf.b9b98077aaedb7b8f050ef9f450a914f.jpg
+2025-03-20 16:10:38,949 - INFO - Drew bounding boxes for s6_jpeg.rf.b9b98077aaedb7b8f050ef9f450a914f
+2025-03-20 16:10:38,956 - INFO - Saved progress: 36/5892 for ../roboflow2/
+2025-03-20 16:10:39,149 - INFO - Successfully loaded image and labels for uyy133_jpg.rf.9ea8dff5322e461c1dae3bc89369b6ea from ../roboflow2/images/uyy133_jpg.rf.9ea8dff5322e461c1dae3bc89369b6ea.jpg
+2025-03-20 16:10:39,150 - INFO - Drew bounding boxes for uyy133_jpg.rf.9ea8dff5322e461c1dae3bc89369b6ea
+2025-03-20 16:10:39,156 - INFO - Saved progress: 37/5892 for ../roboflow2/
+2025-03-20 16:10:39,422 - INFO - Successfully loaded image and labels for 241_jpg.rf.6db84c4ae767c83e65333c2dca82f479 from ../roboflow2/images/241_jpg.rf.6db84c4ae767c83e65333c2dca82f479.jpg
+2025-03-20 16:10:39,422 - INFO - Drew bounding boxes for 241_jpg.rf.6db84c4ae767c83e65333c2dca82f479
+2025-03-20 16:10:39,429 - INFO - Saved progress: 38/5892 for ../roboflow2/
+2025-03-20 16:10:39,613 - INFO - Successfully loaded image and labels for uyy133_jpg.rf.9ea8dff5322e461c1dae3bc89369b6ea from ../roboflow2/images/uyy133_jpg.rf.9ea8dff5322e461c1dae3bc89369b6ea.jpg
+2025-03-20 16:10:39,614 - INFO - Drew bounding boxes for uyy133_jpg.rf.9ea8dff5322e461c1dae3bc89369b6ea
+2025-03-20 16:10:39,620 - INFO - Saved progress: 37/5892 for ../roboflow2/
+2025-03-20 16:10:39,813 - INFO - Successfully loaded image and labels for s6_jpeg.rf.b9b98077aaedb7b8f050ef9f450a914f from ../roboflow2/images/s6_jpeg.rf.b9b98077aaedb7b8f050ef9f450a914f.jpg
+2025-03-20 16:10:39,814 - INFO - Drew bounding boxes for s6_jpeg.rf.b9b98077aaedb7b8f050ef9f450a914f
+2025-03-20 16:10:39,820 - INFO - Saved progress: 36/5892 for ../roboflow2/
+2025-03-20 16:10:40,045 - INFO - Successfully loaded image and labels for img_1-26-33_jpg.rf.e4ac6fda46e922b17a1be846f6e3ae10 from ../roboflow2/images/img_1-26-33_jpg.rf.e4ac6fda46e922b17a1be846f6e3ae10.jpg
+2025-03-20 16:10:40,045 - INFO - Drew bounding boxes for img_1-26-33_jpg.rf.e4ac6fda46e922b17a1be846f6e3ae10
+2025-03-20 16:10:40,051 - INFO - Saved progress: 35/5892 for ../roboflow2/
+2025-03-20 16:10:40,245 - INFO - Successfully loaded image and labels for img_16-23-60_jpg.rf.cf7c32a7ded60bb9947ee2bbbd276cf4 from ../roboflow2/images/img_16-23-60_jpg.rf.cf7c32a7ded60bb9947ee2bbbd276cf4.jpg
+2025-03-20 16:10:40,246 - INFO - Drew bounding boxes for img_16-23-60_jpg.rf.cf7c32a7ded60bb9947ee2bbbd276cf4
+2025-03-20 16:10:40,252 - INFO - Saved progress: 34/5892 for ../roboflow2/
+2025-03-20 16:10:40,430 - INFO - Successfully loaded image and labels for img_1-17-42_jpg.rf.89fcb379f4c569c2f997d8bf06117122 from ../roboflow2/images/img_1-17-42_jpg.rf.89fcb379f4c569c2f997d8bf06117122.jpg
+2025-03-20 16:10:40,430 - INFO - Drew bounding boxes for img_1-17-42_jpg.rf.89fcb379f4c569c2f997d8bf06117122
+2025-03-20 16:10:40,436 - INFO - Saved progress: 33/5892 for ../roboflow2/
+2025-03-20 16:10:40,590 - INFO - Successfully loaded image and labels for 842_jpg.rf.7268e81e0cacfbc93fc2ca78961e0287 from ../roboflow2/images/842_jpg.rf.7268e81e0cacfbc93fc2ca78961e0287.jpg
+2025-03-20 16:10:40,590 - INFO - Drew bounding boxes for 842_jpg.rf.7268e81e0cacfbc93fc2ca78961e0287
+2025-03-20 16:10:40,601 - INFO - Saved progress: 32/5892 for ../roboflow2/
+2025-03-20 16:10:40,701 - INFO - Successfully loaded image and labels for x3_jpeg.rf.9f5cf4c46e6058ab06b313d1be1dfaed from ../roboflow2/images/x3_jpeg.rf.9f5cf4c46e6058ab06b313d1be1dfaed.jpg
+2025-03-20 16:10:40,702 - INFO - Drew bounding boxes for x3_jpeg.rf.9f5cf4c46e6058ab06b313d1be1dfaed
+2025-03-20 16:10:40,709 - INFO - Saved progress: 31/5892 for ../roboflow2/
+2025-03-20 16:10:40,877 - INFO - Successfully loaded image and labels for img_12-17-34_jpg.rf.6f141067e5a7531a702eee609c6f58c2 from ../roboflow2/images/img_12-17-34_jpg.rf.6f141067e5a7531a702eee609c6f58c2.jpg
+2025-03-20 16:10:40,878 - INFO - Drew bounding boxes for img_12-17-34_jpg.rf.6f141067e5a7531a702eee609c6f58c2
+2025-03-20 16:10:40,885 - INFO - Saved progress: 30/5892 for ../roboflow2/
+2025-03-20 16:10:41,157 - INFO - Successfully loaded image and labels for 259_jpg.rf.e88296e4b88f01225d7f67491d126b3c from ../roboflow2/images/259_jpg.rf.e88296e4b88f01225d7f67491d126b3c.jpg
+2025-03-20 16:10:41,157 - INFO - Drew bounding boxes for 259_jpg.rf.e88296e4b88f01225d7f67491d126b3c
+2025-03-20 16:10:41,164 - INFO - Saved progress: 29/5892 for ../roboflow2/
+2025-03-20 16:10:41,302 - INFO - Successfully loaded image and labels for 689_jpg.rf.686d562b4e32fb420cafb59e4cfffc49 from ../roboflow2/images/689_jpg.rf.686d562b4e32fb420cafb59e4cfffc49.jpg
+2025-03-20 16:10:41,302 - INFO - Drew bounding boxes for 689_jpg.rf.686d562b4e32fb420cafb59e4cfffc49
+2025-03-20 16:10:41,309 - INFO - Saved progress: 28/5892 for ../roboflow2/
+2025-03-20 16:10:41,677 - INFO - Successfully loaded image and labels for 259_jpg.rf.e88296e4b88f01225d7f67491d126b3c from ../roboflow2/images/259_jpg.rf.e88296e4b88f01225d7f67491d126b3c.jpg
+2025-03-20 16:10:41,677 - INFO - Drew bounding boxes for 259_jpg.rf.e88296e4b88f01225d7f67491d126b3c
+2025-03-20 16:10:41,684 - INFO - Saved progress: 29/5892 for ../roboflow2/
+2025-03-20 16:10:41,853 - INFO - Successfully loaded image and labels for img_12-17-34_jpg.rf.6f141067e5a7531a702eee609c6f58c2 from ../roboflow2/images/img_12-17-34_jpg.rf.6f141067e5a7531a702eee609c6f58c2.jpg
+2025-03-20 16:10:41,854 - INFO - Drew bounding boxes for img_12-17-34_jpg.rf.6f141067e5a7531a702eee609c6f58c2
+2025-03-20 16:10:41,860 - INFO - Saved progress: 30/5892 for ../roboflow2/
+2025-03-20 16:10:42,029 - INFO - Successfully loaded image and labels for x3_jpeg.rf.9f5cf4c46e6058ab06b313d1be1dfaed from ../roboflow2/images/x3_jpeg.rf.9f5cf4c46e6058ab06b313d1be1dfaed.jpg
+2025-03-20 16:10:42,029 - INFO - Drew bounding boxes for x3_jpeg.rf.9f5cf4c46e6058ab06b313d1be1dfaed
+2025-03-20 16:10:42,036 - INFO - Saved progress: 31/5892 for ../roboflow2/
+2025-03-20 16:10:42,382 - INFO - Successfully loaded image and labels for 842_jpg.rf.7268e81e0cacfbc93fc2ca78961e0287 from ../roboflow2/images/842_jpg.rf.7268e81e0cacfbc93fc2ca78961e0287.jpg
+2025-03-20 16:10:42,382 - INFO - Drew bounding boxes for 842_jpg.rf.7268e81e0cacfbc93fc2ca78961e0287
+2025-03-20 16:10:42,389 - INFO - Saved progress: 32/5892 for ../roboflow2/
+2025-03-20 16:10:42,629 - INFO - Successfully loaded image and labels for x3_jpeg.rf.9f5cf4c46e6058ab06b313d1be1dfaed from ../roboflow2/images/x3_jpeg.rf.9f5cf4c46e6058ab06b313d1be1dfaed.jpg
+2025-03-20 16:10:42,629 - INFO - Drew bounding boxes for x3_jpeg.rf.9f5cf4c46e6058ab06b313d1be1dfaed
+2025-03-20 16:10:42,636 - INFO - Saved progress: 31/5892 for ../roboflow2/
+2025-03-20 16:10:50,526 - INFO - Successfully loaded image and labels for 842_jpg.rf.7268e81e0cacfbc93fc2ca78961e0287 from ../roboflow2/images/842_jpg.rf.7268e81e0cacfbc93fc2ca78961e0287.jpg
+2025-03-20 16:10:50,526 - INFO - Drew bounding boxes for 842_jpg.rf.7268e81e0cacfbc93fc2ca78961e0287
+2025-03-20 16:10:50,533 - INFO - Saved progress: 32/5892 for ../roboflow2/
+2025-03-20 16:10:50,750 - INFO - Successfully loaded image and labels for img_1-17-42_jpg.rf.89fcb379f4c569c2f997d8bf06117122 from ../roboflow2/images/img_1-17-42_jpg.rf.89fcb379f4c569c2f997d8bf06117122.jpg
+2025-03-20 16:10:50,750 - INFO - Drew bounding boxes for img_1-17-42_jpg.rf.89fcb379f4c569c2f997d8bf06117122
+2025-03-20 16:10:50,756 - INFO - Saved progress: 33/5892 for ../roboflow2/
+2025-03-20 16:10:50,941 - INFO - Successfully loaded image and labels for img_16-23-60_jpg.rf.cf7c32a7ded60bb9947ee2bbbd276cf4 from ../roboflow2/images/img_16-23-60_jpg.rf.cf7c32a7ded60bb9947ee2bbbd276cf4.jpg
+2025-03-20 16:10:50,941 - INFO - Drew bounding boxes for img_16-23-60_jpg.rf.cf7c32a7ded60bb9947ee2bbbd276cf4
+2025-03-20 16:10:50,948 - INFO - Saved progress: 34/5892 for ../roboflow2/
+2025-03-20 16:10:51,101 - INFO - Successfully loaded image and labels for img_1-26-33_jpg.rf.e4ac6fda46e922b17a1be846f6e3ae10 from ../roboflow2/images/img_1-26-33_jpg.rf.e4ac6fda46e922b17a1be846f6e3ae10.jpg
+2025-03-20 16:10:51,101 - INFO - Drew bounding boxes for img_1-26-33_jpg.rf.e4ac6fda46e922b17a1be846f6e3ae10
+2025-03-20 16:10:51,108 - INFO - Saved progress: 35/5892 for ../roboflow2/
+2025-03-20 16:10:51,213 - INFO - Successfully loaded image and labels for s6_jpeg.rf.b9b98077aaedb7b8f050ef9f450a914f from ../roboflow2/images/s6_jpeg.rf.b9b98077aaedb7b8f050ef9f450a914f.jpg
+2025-03-20 16:10:51,213 - INFO - Drew bounding boxes for s6_jpeg.rf.b9b98077aaedb7b8f050ef9f450a914f
+2025-03-20 16:10:51,220 - INFO - Saved progress: 36/5892 for ../roboflow2/
+2025-03-20 16:10:51,715 - INFO - Successfully loaded image and labels for uyy133_jpg.rf.9ea8dff5322e461c1dae3bc89369b6ea from ../roboflow2/images/uyy133_jpg.rf.9ea8dff5322e461c1dae3bc89369b6ea.jpg
+2025-03-20 16:10:51,715 - INFO - Drew bounding boxes for uyy133_jpg.rf.9ea8dff5322e461c1dae3bc89369b6ea
+2025-03-20 16:10:51,722 - INFO - Saved progress: 37/5892 for ../roboflow2/
+2025-03-20 16:10:51,744 - INFO - Successfully loaded image and labels for 241_jpg.rf.6db84c4ae767c83e65333c2dca82f479 from ../roboflow2/images/241_jpg.rf.6db84c4ae767c83e65333c2dca82f479.jpg
+2025-03-20 16:10:51,744 - INFO - Drew bounding boxes for 241_jpg.rf.6db84c4ae767c83e65333c2dca82f479
+2025-03-20 16:10:51,752 - INFO - Saved progress: 38/5892 for ../roboflow2/
+2025-03-20 16:10:51,774 - INFO - Successfully loaded image and labels for 495_jpg.rf.491e5aafd97705bbf737a8039640d026 from ../roboflow2/images/495_jpg.rf.491e5aafd97705bbf737a8039640d026.jpg
+2025-03-20 16:10:51,774 - INFO - Drew bounding boxes for 495_jpg.rf.491e5aafd97705bbf737a8039640d026
+2025-03-20 16:10:51,783 - INFO - Saved progress: 39/5892 for ../roboflow2/
+2025-03-20 16:10:51,804 - INFO - Successfully loaded image and labels for x234_jpg.rf.db3ae3f7448d300d00a5fd3a8ca24c2d from ../roboflow2/images/x234_jpg.rf.db3ae3f7448d300d00a5fd3a8ca24c2d.jpg
+2025-03-20 16:10:51,804 - INFO - Drew bounding boxes for x234_jpg.rf.db3ae3f7448d300d00a5fd3a8ca24c2d
+2025-03-20 16:10:51,813 - INFO - Saved progress: 40/5892 for ../roboflow2/
+2025-03-20 16:10:51,835 - INFO - Successfully loaded image and labels for pp155_jpg.rf.4f180f146211b1a6ad373eca1e27b9db from ../roboflow2/images/pp155_jpg.rf.4f180f146211b1a6ad373eca1e27b9db.jpg
+2025-03-20 16:10:51,835 - INFO - Drew bounding boxes for pp155_jpg.rf.4f180f146211b1a6ad373eca1e27b9db
+2025-03-20 16:10:51,846 - INFO - Saved progress: 41/5892 for ../roboflow2/
+2025-03-20 16:10:51,866 - INFO - Successfully loaded image and labels for 332_jpg.rf.902ecff9f14a0468ab1f186228a9f0db from ../roboflow2/images/332_jpg.rf.902ecff9f14a0468ab1f186228a9f0db.jpg
+2025-03-20 16:10:51,866 - INFO - Drew bounding boxes for 332_jpg.rf.902ecff9f14a0468ab1f186228a9f0db
+2025-03-20 16:10:51,876 - INFO - Saved progress: 42/5892 for ../roboflow2/
+2025-03-20 16:10:51,895 - INFO - Successfully loaded image and labels for x99_jpg.rf.5c008145ff0f6b61f44fde619824c970 from ../roboflow2/images/x99_jpg.rf.5c008145ff0f6b61f44fde619824c970.jpg
+2025-03-20 16:10:51,895 - INFO - Drew bounding boxes for x99_jpg.rf.5c008145ff0f6b61f44fde619824c970
+2025-03-20 16:10:51,904 - INFO - Saved progress: 43/5892 for ../roboflow2/
+2025-03-20 16:10:51,925 - INFO - Successfully loaded image and labels for 703_jpg.rf.fa753f123d70a1372190ac618dc4b537 from ../roboflow2/images/703_jpg.rf.fa753f123d70a1372190ac618dc4b537.jpg
+2025-03-20 16:10:51,926 - INFO - Drew bounding boxes for 703_jpg.rf.fa753f123d70a1372190ac618dc4b537
+2025-03-20 16:10:51,934 - INFO - Saved progress: 44/5892 for ../roboflow2/
+2025-03-20 16:10:51,955 - INFO - Successfully loaded image and labels for j78_jpg.rf.081b9abe444c2ee2573fec91f23b96f0 from ../roboflow2/images/j78_jpg.rf.081b9abe444c2ee2573fec91f23b96f0.jpg
+2025-03-20 16:10:51,955 - INFO - Drew bounding boxes for j78_jpg.rf.081b9abe444c2ee2573fec91f23b96f0
+2025-03-20 16:10:51,963 - INFO - Saved progress: 45/5892 for ../roboflow2/
+2025-03-20 16:10:51,984 - INFO - Successfully loaded image and labels for img_2-8-53_jpg.rf.5c4a0e6a109d29c475656670620661bd from ../roboflow2/images/img_2-8-53_jpg.rf.5c4a0e6a109d29c475656670620661bd.jpg
+2025-03-20 16:10:51,984 - INFO - Drew bounding boxes for img_2-8-53_jpg.rf.5c4a0e6a109d29c475656670620661bd
+2025-03-20 16:10:51,996 - INFO - Saved progress: 46/5892 for ../roboflow2/
+2025-03-20 16:10:52,015 - INFO - Successfully loaded image and labels for lb82_jpg.rf.8111e4c1c15ab72bf127cea5d2e5fd3f from ../roboflow2/images/lb82_jpg.rf.8111e4c1c15ab72bf127cea5d2e5fd3f.jpg
+2025-03-20 16:10:52,015 - INFO - Drew bounding boxes for lb82_jpg.rf.8111e4c1c15ab72bf127cea5d2e5fd3f
+2025-03-20 16:10:52,022 - INFO - Saved progress: 47/5892 for ../roboflow2/
+2025-03-20 16:10:52,045 - INFO - Successfully loaded image and labels for x203_jpg.rf.c407bcca736c24f23480b408d574184a from ../roboflow2/images/x203_jpg.rf.c407bcca736c24f23480b408d574184a.jpg
+2025-03-20 16:10:52,046 - INFO - Drew bounding boxes for x203_jpg.rf.c407bcca736c24f23480b408d574184a
+2025-03-20 16:10:52,054 - INFO - Saved progress: 48/5892 for ../roboflow2/
+2025-03-20 16:10:52,075 - INFO - Successfully loaded image and labels for 724_jpg.rf.883de62fcb4890fa1b22988b7f8a1bf9 from ../roboflow2/images/724_jpg.rf.883de62fcb4890fa1b22988b7f8a1bf9.jpg
+2025-03-20 16:10:52,075 - INFO - Drew bounding boxes for 724_jpg.rf.883de62fcb4890fa1b22988b7f8a1bf9
+2025-03-20 16:10:52,083 - INFO - Saved progress: 49/5892 for ../roboflow2/
+2025-03-20 16:10:52,105 - INFO - Successfully loaded image and labels for x46_jpeg.rf.2c03092138e9a45ad541da5013eea844 from ../roboflow2/images/x46_jpeg.rf.2c03092138e9a45ad541da5013eea844.jpg
+2025-03-20 16:10:52,105 - INFO - Drew bounding boxes for x46_jpeg.rf.2c03092138e9a45ad541da5013eea844
+2025-03-20 16:10:52,113 - INFO - Saved progress: 50/5892 for ../roboflow2/
+2025-03-20 16:10:52,134 - INFO - Successfully loaded image and labels for bbb10_jpg.rf.1f5ba0ddf5270b1e55fb4e4aaafcedb5 from ../roboflow2/images/bbb10_jpg.rf.1f5ba0ddf5270b1e55fb4e4aaafcedb5.jpg
+2025-03-20 16:10:52,134 - INFO - Drew bounding boxes for bbb10_jpg.rf.1f5ba0ddf5270b1e55fb4e4aaafcedb5
+2025-03-20 16:10:52,145 - INFO - Saved progress: 51/5892 for ../roboflow2/
+2025-03-20 16:10:52,164 - INFO - Successfully loaded image and labels for 604_jpg.rf.3321ee37e8347aad1de58ff3da35d07f from ../roboflow2/images/604_jpg.rf.3321ee37e8347aad1de58ff3da35d07f.jpg
+2025-03-20 16:10:52,165 - INFO - Drew bounding boxes for 604_jpg.rf.3321ee37e8347aad1de58ff3da35d07f
+2025-03-20 16:10:52,172 - INFO - Saved progress: 52/5892 for ../roboflow2/
+2025-03-20 16:10:52,195 - INFO - Successfully loaded image and labels for img_16-23-47_jpg.rf.06e54135c3c9e198195e066bb13d0d89 from ../roboflow2/images/img_16-23-47_jpg.rf.06e54135c3c9e198195e066bb13d0d89.jpg
+2025-03-20 16:10:52,195 - INFO - Drew bounding boxes for img_16-23-47_jpg.rf.06e54135c3c9e198195e066bb13d0d89
+2025-03-20 16:10:52,203 - INFO - Saved progress: 53/5892 for ../roboflow2/
+2025-03-20 16:10:52,224 - INFO - Successfully loaded image and labels for img_1-8-41_jpg.rf.19c7b0782d2980f0e4b7953b6eea5272 from ../roboflow2/images/img_1-8-41_jpg.rf.19c7b0782d2980f0e4b7953b6eea5272.jpg
+2025-03-20 16:10:52,224 - INFO - Drew bounding boxes for img_1-8-41_jpg.rf.19c7b0782d2980f0e4b7953b6eea5272
+2025-03-20 16:10:52,232 - INFO - Saved progress: 54/5892 for ../roboflow2/
+2025-03-20 16:10:52,255 - INFO - Successfully loaded image and labels for 262_jpg.rf.7e4f9cb6426314f03237fb5e32040d7d from ../roboflow2/images/262_jpg.rf.7e4f9cb6426314f03237fb5e32040d7d.jpg
+2025-03-20 16:10:52,255 - INFO - Drew bounding boxes for 262_jpg.rf.7e4f9cb6426314f03237fb5e32040d7d
+2025-03-20 16:10:52,263 - INFO - Saved progress: 55/5892 for ../roboflow2/
+2025-03-20 16:10:52,285 - INFO - Successfully loaded image and labels for x60_jpg.rf.a2d7126cf655e31b4798ee97ec4da14b from ../roboflow2/images/x60_jpg.rf.a2d7126cf655e31b4798ee97ec4da14b.jpg
+2025-03-20 16:10:52,285 - INFO - Drew bounding boxes for x60_jpg.rf.a2d7126cf655e31b4798ee97ec4da14b
+2025-03-20 16:10:52,296 - INFO - Saved progress: 56/5892 for ../roboflow2/
+2025-03-20 16:10:52,314 - INFO - Successfully loaded image and labels for 563_jpg.rf.06caf10589acfa60cdfb29df1caef4e0 from ../roboflow2/images/563_jpg.rf.06caf10589acfa60cdfb29df1caef4e0.jpg
+2025-03-20 16:10:52,315 - INFO - Drew bounding boxes for 563_jpg.rf.06caf10589acfa60cdfb29df1caef4e0
+2025-03-20 16:10:52,321 - INFO - Saved progress: 57/5892 for ../roboflow2/
+2025-03-20 16:10:52,345 - INFO - Successfully loaded image and labels for x67_jpg.rf.78c09913e81d0b735fc473db710307a7 from ../roboflow2/images/x67_jpg.rf.78c09913e81d0b735fc473db710307a7.jpg
+2025-03-20 16:10:52,345 - INFO - Drew bounding boxes for x67_jpg.rf.78c09913e81d0b735fc473db710307a7
+2025-03-20 16:10:52,353 - INFO - Saved progress: 58/5892 for ../roboflow2/
+2025-03-20 16:10:52,375 - INFO - Successfully loaded image and labels for img_16-22-82_jpg.rf.1aa81c3cc7f8f2d18c68e3217476f110 from ../roboflow2/images/img_16-22-82_jpg.rf.1aa81c3cc7f8f2d18c68e3217476f110.jpg
+2025-03-20 16:10:52,375 - INFO - Drew bounding boxes for img_16-22-82_jpg.rf.1aa81c3cc7f8f2d18c68e3217476f110
+2025-03-20 16:10:52,382 - INFO - Saved progress: 59/5892 for ../roboflow2/
+2025-03-20 16:10:52,405 - INFO - Successfully loaded image and labels for x134_jpg.rf.4a21165b668042413cd2cf6d946a928a from ../roboflow2/images/x134_jpg.rf.4a21165b668042413cd2cf6d946a928a.jpg
+2025-03-20 16:10:52,405 - INFO - Drew bounding boxes for x134_jpg.rf.4a21165b668042413cd2cf6d946a928a
+2025-03-20 16:10:52,413 - INFO - Saved progress: 60/5892 for ../roboflow2/
+2025-03-20 16:10:53,158 - INFO - Successfully loaded image and labels for 807_jpg.rf.b9e6db2f98bae758a1214103f60dd774 from ../roboflow2/images/807_jpg.rf.b9e6db2f98bae758a1214103f60dd774.jpg
+2025-03-20 16:10:53,158 - INFO - Drew bounding boxes for 807_jpg.rf.b9e6db2f98bae758a1214103f60dd774
+2025-03-20 16:10:53,164 - INFO - Saved progress: 61/5892 for ../roboflow2/
+2025-03-20 16:10:53,658 - INFO - Successfully loaded image and labels for 407_jpg.rf.10f2a500084906bce9acdc171c2414a5 from ../roboflow2/images/407_jpg.rf.10f2a500084906bce9acdc171c2414a5.jpg
+2025-03-20 16:10:53,659 - INFO - Drew bounding boxes for 407_jpg.rf.10f2a500084906bce9acdc171c2414a5
+2025-03-20 16:10:53,666 - INFO - Saved progress: 62/5892 for ../roboflow2/
+2025-03-20 16:10:53,688 - INFO - Successfully loaded image and labels for x248_jpg.rf.8ef988fbb64b9855d81c9e0476172dfb from ../roboflow2/images/x248_jpg.rf.8ef988fbb64b9855d81c9e0476172dfb.jpg
+2025-03-20 16:10:53,688 - INFO - Drew bounding boxes for x248_jpg.rf.8ef988fbb64b9855d81c9e0476172dfb
+2025-03-20 16:10:53,694 - INFO - Saved progress: 63/5892 for ../roboflow2/
+2025-03-20 16:10:53,717 - INFO - Successfully loaded image and labels for bk94_jpg.rf.44a11da52ab9005e5f8048cf399e2316 from ../roboflow2/images/bk94_jpg.rf.44a11da52ab9005e5f8048cf399e2316.jpg
+2025-03-20 16:10:53,718 - INFO - Drew bounding boxes for bk94_jpg.rf.44a11da52ab9005e5f8048cf399e2316
+2025-03-20 16:10:53,727 - INFO - Saved progress: 64/5892 for ../roboflow2/
+2025-03-20 16:10:53,748 - INFO - Successfully loaded image and labels for m18_jpeg.rf.7d86df0f75a32d9a9647f8f021bba0df from ../roboflow2/images/m18_jpeg.rf.7d86df0f75a32d9a9647f8f021bba0df.jpg
+2025-03-20 16:10:53,748 - INFO - Drew bounding boxes for m18_jpeg.rf.7d86df0f75a32d9a9647f8f021bba0df
+2025-03-20 16:10:53,755 - INFO - Saved progress: 65/5892 for ../roboflow2/
+2025-03-20 16:10:53,778 - INFO - Successfully loaded image and labels for img_1-5-38_jpg.rf.d3f3bf05bbd124f632a6e93682363c96 from ../roboflow2/images/img_1-5-38_jpg.rf.d3f3bf05bbd124f632a6e93682363c96.jpg
+2025-03-20 16:10:53,778 - INFO - Drew bounding boxes for img_1-5-38_jpg.rf.d3f3bf05bbd124f632a6e93682363c96
+2025-03-20 16:10:53,786 - INFO - Saved progress: 66/5892 for ../roboflow2/
+2025-03-20 16:10:53,808 - INFO - Successfully loaded image and labels for 209_jpg.rf.b85bfd7f1245c7f25fe5036ac1f63675 from ../roboflow2/images/209_jpg.rf.b85bfd7f1245c7f25fe5036ac1f63675.jpg
+2025-03-20 16:10:53,808 - INFO - Drew bounding boxes for 209_jpg.rf.b85bfd7f1245c7f25fe5036ac1f63675
+2025-03-20 16:10:53,816 - INFO - Saved progress: 67/5892 for ../roboflow2/
+2025-03-20 16:10:53,839 - INFO - Successfully loaded image and labels for 369_jpg.rf.490a038116cd1690a13340dd28d9696b from ../roboflow2/images/369_jpg.rf.490a038116cd1690a13340dd28d9696b.jpg
+2025-03-20 16:10:53,839 - INFO - Drew bounding boxes for 369_jpg.rf.490a038116cd1690a13340dd28d9696b
+2025-03-20 16:10:53,846 - INFO - Saved progress: 68/5892 for ../roboflow2/
+2025-03-20 16:10:53,868 - INFO - Successfully loaded image and labels for img_2-10-88_jpg.rf.9501a4c0f0830abe6ddbdf78e97a7455 from ../roboflow2/images/img_2-10-88_jpg.rf.9501a4c0f0830abe6ddbdf78e97a7455.jpg
+2025-03-20 16:10:53,869 - INFO - Drew bounding boxes for img_2-10-88_jpg.rf.9501a4c0f0830abe6ddbdf78e97a7455
+2025-03-20 16:10:53,876 - INFO - Saved progress: 69/5892 for ../roboflow2/
+2025-03-20 16:10:53,899 - INFO - Successfully loaded image and labels for 608_jpg.rf.1adcdc1417a955abfebb196348afa1d8 from ../roboflow2/images/608_jpg.rf.1adcdc1417a955abfebb196348afa1d8.jpg
+2025-03-20 16:10:53,899 - INFO - Drew bounding boxes for 608_jpg.rf.1adcdc1417a955abfebb196348afa1d8
+2025-03-20 16:10:53,906 - INFO - Saved progress: 70/5892 for ../roboflow2/
+2025-03-20 16:10:53,929 - INFO - Successfully loaded image and labels for img_27-23-35_jpg.rf.b68f2d1fc88eda9a3c63fdcbc881a862 from ../roboflow2/images/img_27-23-35_jpg.rf.b68f2d1fc88eda9a3c63fdcbc881a862.jpg
+2025-03-20 16:10:53,929 - INFO - Drew bounding boxes for img_27-23-35_jpg.rf.b68f2d1fc88eda9a3c63fdcbc881a862
+2025-03-20 16:10:53,935 - INFO - Saved progress: 71/5892 for ../roboflow2/
+2025-03-20 16:10:53,959 - INFO - Successfully loaded image and labels for img_2-11-31_jpg.rf.fb799df99717d8cd012dd19be77f2e8b from ../roboflow2/images/img_2-11-31_jpg.rf.fb799df99717d8cd012dd19be77f2e8b.jpg
+2025-03-20 16:10:53,959 - INFO - Drew bounding boxes for img_2-11-31_jpg.rf.fb799df99717d8cd012dd19be77f2e8b
+2025-03-20 16:10:53,966 - INFO - Saved progress: 72/5892 for ../roboflow2/
+2025-03-20 16:10:53,989 - INFO - Successfully loaded image and labels for em13_jpg.rf.1ccbd813569cba17c8ef8a03a470f72d from ../roboflow2/images/em13_jpg.rf.1ccbd813569cba17c8ef8a03a470f72d.jpg
+2025-03-20 16:10:53,989 - INFO - No bounding box data for em13_jpg.rf.1ccbd813569cba17c8ef8a03a470f72d
+2025-03-20 16:10:53,997 - INFO - Saved progress: 73/5892 for ../roboflow2/
+2025-03-20 16:10:54,020 - INFO - Successfully loaded image and labels for img_1-5-80_jpg.rf.f8b362204ff135e45ebbcd0ce18b7549 from ../roboflow2/images/img_1-5-80_jpg.rf.f8b362204ff135e45ebbcd0ce18b7549.jpg
+2025-03-20 16:10:54,020 - INFO - Drew bounding boxes for img_1-5-80_jpg.rf.f8b362204ff135e45ebbcd0ce18b7549
+2025-03-20 16:10:54,033 - INFO - Saved progress: 74/5892 for ../roboflow2/
+2025-03-20 16:10:54,050 - INFO - Successfully loaded image and labels for em13_jpg.rf.c7480f4e387daa0e69c4383e4a704f1e from ../roboflow2/images/em13_jpg.rf.c7480f4e387daa0e69c4383e4a704f1e.jpg
+2025-03-20 16:10:54,050 - INFO - No bounding box data for em13_jpg.rf.c7480f4e387daa0e69c4383e4a704f1e
+2025-03-20 16:10:54,063 - INFO - Saved progress: 75/5892 for ../roboflow2/
+2025-03-20 16:10:54,080 - INFO - Successfully loaded image and labels for 135_jpg.rf.4da8e477e63e72d89c9ff38e38c85e2b from ../roboflow2/images/135_jpg.rf.4da8e477e63e72d89c9ff38e38c85e2b.jpg
+2025-03-20 16:10:54,080 - INFO - Drew bounding boxes for 135_jpg.rf.4da8e477e63e72d89c9ff38e38c85e2b
+2025-03-20 16:10:54,090 - INFO - Saved progress: 76/5892 for ../roboflow2/
+2025-03-20 16:10:54,110 - INFO - Successfully loaded image and labels for 656_jpg.rf.61f0e8d83843b976a0af149fe1c8cf34 from ../roboflow2/images/656_jpg.rf.61f0e8d83843b976a0af149fe1c8cf34.jpg
+2025-03-20 16:10:54,110 - INFO - Drew bounding boxes for 656_jpg.rf.61f0e8d83843b976a0af149fe1c8cf34
+2025-03-20 16:10:54,118 - INFO - Saved progress: 77/5892 for ../roboflow2/
+2025-03-20 16:10:54,139 - INFO - Successfully loaded image and labels for img_31-8-84_jpg.rf.1d333e0caa0e411bd90babc61bfc1364 from ../roboflow2/images/img_31-8-84_jpg.rf.1d333e0caa0e411bd90babc61bfc1364.jpg
+2025-03-20 16:10:54,140 - INFO - Drew bounding boxes for img_31-8-84_jpg.rf.1d333e0caa0e411bd90babc61bfc1364
+2025-03-20 16:10:54,148 - INFO - Saved progress: 78/5892 for ../roboflow2/
+2025-03-20 16:10:54,286 - INFO - Successfully loaded image and labels for x87_jpg.rf.6a589f17aabc731ec20ec25037c8260e from ../roboflow2/images/x87_jpg.rf.6a589f17aabc731ec20ec25037c8260e.jpg
+2025-03-20 16:10:54,286 - INFO - Drew bounding boxes for x87_jpg.rf.6a589f17aabc731ec20ec25037c8260e
+2025-03-20 16:10:54,294 - INFO - Saved progress: 79/5892 for ../roboflow2/
+2025-03-20 16:10:54,438 - INFO - Successfully loaded image and labels for 343_jpg.rf.14a43fcac90e35e7e269f298a4a91e93 from ../roboflow2/images/343_jpg.rf.14a43fcac90e35e7e269f298a4a91e93.jpg
+2025-03-20 16:10:54,438 - INFO - Drew bounding boxes for 343_jpg.rf.14a43fcac90e35e7e269f298a4a91e93
+2025-03-20 16:10:54,447 - INFO - Saved progress: 80/5892 for ../roboflow2/
+2025-03-20 16:10:54,582 - INFO - Successfully loaded image and labels for lb82_jpg.rf.6a5e861d00545b83a43cf36a88199a14 from ../roboflow2/images/lb82_jpg.rf.6a5e861d00545b83a43cf36a88199a14.jpg
+2025-03-20 16:10:54,582 - INFO - Drew bounding boxes for lb82_jpg.rf.6a5e861d00545b83a43cf36a88199a14
+2025-03-20 16:10:54,589 - INFO - Saved progress: 81/5892 for ../roboflow2/
+2025-03-20 16:10:54,710 - INFO - Successfully loaded image and labels for 33_jpg.rf.8ed84b03cd42aee8dd20e3c5ba55d4cf from ../roboflow2/images/33_jpg.rf.8ed84b03cd42aee8dd20e3c5ba55d4cf.jpg
+2025-03-20 16:10:54,710 - INFO - Drew bounding boxes for 33_jpg.rf.8ed84b03cd42aee8dd20e3c5ba55d4cf
+2025-03-20 16:10:54,720 - INFO - Saved progress: 82/5892 for ../roboflow2/
+2025-03-20 16:10:55,210 - INFO - Successfully loaded image and labels for 444_jpg.rf.37cbdc06ede1b1608ad2b8aa5ca2a245 from ../roboflow2/images/444_jpg.rf.37cbdc06ede1b1608ad2b8aa5ca2a245.jpg
+2025-03-20 16:10:55,210 - INFO - Drew bounding boxes for 444_jpg.rf.37cbdc06ede1b1608ad2b8aa5ca2a245
+2025-03-20 16:10:55,216 - INFO - Saved progress: 83/5892 for ../roboflow2/
+2025-03-20 16:10:55,240 - INFO - Successfully loaded image and labels for img_1-25-71_jpg.rf.52809b6cc285e78b7893a79962819a40 from ../roboflow2/images/img_1-25-71_jpg.rf.52809b6cc285e78b7893a79962819a40.jpg
+2025-03-20 16:10:55,240 - INFO - Drew bounding boxes for img_1-25-71_jpg.rf.52809b6cc285e78b7893a79962819a40
+2025-03-20 16:10:55,247 - INFO - Saved progress: 84/5892 for ../roboflow2/
+2025-03-20 16:10:55,270 - INFO - Successfully loaded image and labels for img_16-23-86_jpg.rf.94ee2d109072baca3a248bdb9441e8d1 from ../roboflow2/images/img_16-23-86_jpg.rf.94ee2d109072baca3a248bdb9441e8d1.jpg
+2025-03-20 16:10:55,270 - INFO - Drew bounding boxes for img_16-23-86_jpg.rf.94ee2d109072baca3a248bdb9441e8d1
+2025-03-20 16:10:55,277 - INFO - Saved progress: 85/5892 for ../roboflow2/
+2025-03-20 16:10:55,300 - INFO - Successfully loaded image and labels for j34_jpeg.rf.efd403464a4d36def87ab0b057cff58a from ../roboflow2/images/j34_jpeg.rf.efd403464a4d36def87ab0b057cff58a.jpg
+2025-03-20 16:10:55,300 - INFO - Drew bounding boxes for j34_jpeg.rf.efd403464a4d36def87ab0b057cff58a
+2025-03-20 16:10:55,308 - INFO - Saved progress: 86/5892 for ../roboflow2/
+2025-03-20 16:10:55,330 - INFO - Successfully loaded image and labels for aa27_jpg.rf.3c4e3309c566db328761ce41888fb372 from ../roboflow2/images/aa27_jpg.rf.3c4e3309c566db328761ce41888fb372.jpg
+2025-03-20 16:10:55,330 - INFO - No bounding box data for aa27_jpg.rf.3c4e3309c566db328761ce41888fb372
+2025-03-20 16:10:55,336 - INFO - Saved progress: 87/5892 for ../roboflow2/
+2025-03-20 16:10:55,360 - INFO - Successfully loaded image and labels for img_1-9-38_jpg.rf.ee77eaa0ae80b0fb8ae013e7e509a843 from ../roboflow2/images/img_1-9-38_jpg.rf.ee77eaa0ae80b0fb8ae013e7e509a843.jpg
+2025-03-20 16:10:55,360 - INFO - Drew bounding boxes for img_1-9-38_jpg.rf.ee77eaa0ae80b0fb8ae013e7e509a843
+2025-03-20 16:10:55,368 - INFO - Saved progress: 88/5892 for ../roboflow2/
+2025-03-20 16:10:55,391 - INFO - Successfully loaded image and labels for j0_jpeg.rf.53370e107e7a7928e124765e64d7c63d from ../roboflow2/images/j0_jpeg.rf.53370e107e7a7928e124765e64d7c63d.jpg
+2025-03-20 16:10:55,392 - INFO - Drew bounding boxes for j0_jpeg.rf.53370e107e7a7928e124765e64d7c63d
+2025-03-20 16:10:55,398 - INFO - Saved progress: 89/5892 for ../roboflow2/
+2025-03-20 16:10:55,420 - INFO - Successfully loaded image and labels for 128_jpg.rf.0edc01045d6dc95ced5aa1e2d1256684 from ../roboflow2/images/128_jpg.rf.0edc01045d6dc95ced5aa1e2d1256684.jpg
+2025-03-20 16:10:55,421 - INFO - Drew bounding boxes for 128_jpg.rf.0edc01045d6dc95ced5aa1e2d1256684
+2025-03-20 16:10:55,430 - INFO - Saved progress: 90/5892 for ../roboflow2/
+2025-03-20 16:10:55,450 - INFO - Successfully loaded image and labels for 169_jpg.rf.96be248d07852b3c6d3dcd700aa4f58f from ../roboflow2/images/169_jpg.rf.96be248d07852b3c6d3dcd700aa4f58f.jpg
+2025-03-20 16:10:55,451 - INFO - Drew bounding boxes for 169_jpg.rf.96be248d07852b3c6d3dcd700aa4f58f
+2025-03-20 16:10:55,461 - INFO - Saved progress: 91/5892 for ../roboflow2/
+2025-03-20 16:10:55,481 - INFO - Successfully loaded image and labels for x85_jpg.rf.d8d3ba8f32e74fcf214889cf2fd050fc from ../roboflow2/images/x85_jpg.rf.d8d3ba8f32e74fcf214889cf2fd050fc.jpg
+2025-03-20 16:10:55,482 - INFO - Drew bounding boxes for x85_jpg.rf.d8d3ba8f32e74fcf214889cf2fd050fc
+2025-03-20 16:10:55,488 - INFO - Saved progress: 92/5892 for ../roboflow2/
+2025-03-20 16:10:55,511 - INFO - Successfully loaded image and labels for x54_jpg.rf.594e7bcaad9edf674aba08c7f657b854 from ../roboflow2/images/x54_jpg.rf.594e7bcaad9edf674aba08c7f657b854.jpg
+2025-03-20 16:10:55,511 - INFO - Drew bounding boxes for x54_jpg.rf.594e7bcaad9edf674aba08c7f657b854
+2025-03-20 16:10:55,517 - INFO - Saved progress: 93/5892 for ../roboflow2/
+2025-03-20 16:10:55,541 - INFO - Successfully loaded image and labels for img_27-23-36_jpg.rf.760b4372840d35922872431a279af7b1 from ../roboflow2/images/img_27-23-36_jpg.rf.760b4372840d35922872431a279af7b1.jpg
+2025-03-20 16:10:55,542 - INFO - Drew bounding boxes for img_27-23-36_jpg.rf.760b4372840d35922872431a279af7b1
+2025-03-20 16:10:55,548 - INFO - Saved progress: 94/5892 for ../roboflow2/
+2025-03-20 16:10:55,572 - INFO - Successfully loaded image and labels for u12_jpg.rf.65d92208ae257055848a6b0f6de705d8 from ../roboflow2/images/u12_jpg.rf.65d92208ae257055848a6b0f6de705d8.jpg
+2025-03-20 16:10:55,572 - INFO - No bounding box data for u12_jpg.rf.65d92208ae257055848a6b0f6de705d8
+2025-03-20 16:10:55,578 - INFO - Saved progress: 95/5892 for ../roboflow2/
+2025-03-20 16:10:55,603 - INFO - Successfully loaded image and labels for img_31-8-87_jpg.rf.9176cae7dc857224c46696d22ec39387 from ../roboflow2/images/img_31-8-87_jpg.rf.9176cae7dc857224c46696d22ec39387.jpg
+2025-03-20 16:10:55,603 - INFO - Drew bounding boxes for img_31-8-87_jpg.rf.9176cae7dc857224c46696d22ec39387
+2025-03-20 16:10:55,610 - INFO - Saved progress: 96/5892 for ../roboflow2/
+2025-03-20 16:10:55,634 - INFO - Successfully loaded image and labels for j49_jpeg.rf.f2ad2be1585e5401d18d851611817a12 from ../roboflow2/images/j49_jpeg.rf.f2ad2be1585e5401d18d851611817a12.jpg
+2025-03-20 16:10:55,634 - INFO - Drew bounding boxes for j49_jpeg.rf.f2ad2be1585e5401d18d851611817a12
+2025-03-20 16:10:55,642 - INFO - Saved progress: 97/5892 for ../roboflow2/
+2025-03-20 16:10:55,664 - INFO - Successfully loaded image and labels for img_1-9-40_jpg.rf.98ad92a549441d754ec960c200ba1876 from ../roboflow2/images/img_1-9-40_jpg.rf.98ad92a549441d754ec960c200ba1876.jpg
+2025-03-20 16:10:55,665 - INFO - Drew bounding boxes for img_1-9-40_jpg.rf.98ad92a549441d754ec960c200ba1876
+2025-03-20 16:10:55,673 - INFO - Saved progress: 98/5892 for ../roboflow2/
+2025-03-20 16:10:55,695 - INFO - Successfully loaded image and labels for 548_jpg.rf.f788d64d16cf131e71111b35a1e4846f from ../roboflow2/images/548_jpg.rf.f788d64d16cf131e71111b35a1e4846f.jpg
+2025-03-20 16:10:55,695 - INFO - Drew bounding boxes for 548_jpg.rf.f788d64d16cf131e71111b35a1e4846f
+2025-03-20 16:10:55,705 - INFO - Saved progress: 99/5892 for ../roboflow2/
+2025-03-20 16:10:55,725 - INFO - Successfully loaded image and labels for 388_jpg.rf.35e1a9f638cd290393c1eaf9ee447730 from ../roboflow2/images/388_jpg.rf.35e1a9f638cd290393c1eaf9ee447730.jpg
+2025-03-20 16:10:55,725 - INFO - Drew bounding boxes for 388_jpg.rf.35e1a9f638cd290393c1eaf9ee447730
+2025-03-20 16:10:55,734 - INFO - Saved progress: 100/5892 for ../roboflow2/
+2025-03-20 16:10:55,757 - INFO - Successfully loaded image and labels for x5_jpeg.rf.6ca9bc62630b52b2342fa73eb11c74ce from ../roboflow2/images/x5_jpeg.rf.6ca9bc62630b52b2342fa73eb11c74ce.jpg
+2025-03-20 16:10:55,757 - INFO - Drew bounding boxes for x5_jpeg.rf.6ca9bc62630b52b2342fa73eb11c74ce
+2025-03-20 16:10:55,765 - INFO - Saved progress: 101/5892 for ../roboflow2/
+2025-03-20 16:10:55,786 - INFO - Successfully loaded image and labels for 671_jpg.rf.9adf4474f2e8cc2fa5408fde6bd4a70d from ../roboflow2/images/671_jpg.rf.9adf4474f2e8cc2fa5408fde6bd4a70d.jpg
+2025-03-20 16:10:55,786 - INFO - Drew bounding boxes for 671_jpg.rf.9adf4474f2e8cc2fa5408fde6bd4a70d
+2025-03-20 16:10:55,794 - INFO - Saved progress: 102/5892 for ../roboflow2/
+2025-03-20 16:10:55,816 - INFO - Successfully loaded image and labels for img_1-9-33_jpg.rf.73edfb5c746f88f75dc4f52b29f18a6d from ../roboflow2/images/img_1-9-33_jpg.rf.73edfb5c746f88f75dc4f52b29f18a6d.jpg
+2025-03-20 16:10:55,816 - INFO - Drew bounding boxes for img_1-9-33_jpg.rf.73edfb5c746f88f75dc4f52b29f18a6d
+2025-03-20 16:10:55,823 - INFO - Saved progress: 103/5892 for ../roboflow2/
+2025-03-20 16:10:55,846 - INFO - Successfully loaded image and labels for x42_jpeg.rf.49d6c4d3b57cfa669c3a8d24989d6dfb from ../roboflow2/images/x42_jpeg.rf.49d6c4d3b57cfa669c3a8d24989d6dfb.jpg
+2025-03-20 16:10:55,846 - INFO - Drew bounding boxes for x42_jpeg.rf.49d6c4d3b57cfa669c3a8d24989d6dfb
+2025-03-20 16:10:55,853 - INFO - Saved progress: 104/5892 for ../roboflow2/
+2025-03-20 16:10:55,876 - INFO - Successfully loaded image and labels for 311_jpg.rf.eda5a71aa9ad7f7b2dcfaa624d94e3d8 from ../roboflow2/images/311_jpg.rf.eda5a71aa9ad7f7b2dcfaa624d94e3d8.jpg
+2025-03-20 16:10:55,876 - INFO - Drew bounding boxes for 311_jpg.rf.eda5a71aa9ad7f7b2dcfaa624d94e3d8
+2025-03-20 16:10:55,883 - INFO - Saved progress: 105/5892 for ../roboflow2/
+2025-03-20 16:10:55,906 - INFO - Successfully loaded image and labels for 428_jpg.rf.c888c392701463ac83700e824fa45770 from ../roboflow2/images/428_jpg.rf.c888c392701463ac83700e824fa45770.jpg
+2025-03-20 16:10:55,906 - INFO - Drew bounding boxes for 428_jpg.rf.c888c392701463ac83700e824fa45770
+2025-03-20 16:10:55,913 - INFO - Saved progress: 106/5892 for ../roboflow2/
+2025-03-20 16:10:55,936 - INFO - Successfully loaded image and labels for img_1-5-80_jpg.rf.24d28a84fcc1d1d8d04295f9907fee2e from ../roboflow2/images/img_1-5-80_jpg.rf.24d28a84fcc1d1d8d04295f9907fee2e.jpg
+2025-03-20 16:10:55,936 - INFO - Drew bounding boxes for img_1-5-80_jpg.rf.24d28a84fcc1d1d8d04295f9907fee2e
+2025-03-20 16:10:55,942 - INFO - Saved progress: 107/5892 for ../roboflow2/
+2025-03-20 16:10:55,966 - INFO - Successfully loaded image and labels for img_1-7-71_jpg.rf.3764b6ce229d59d0665d0711025ca6f7 from ../roboflow2/images/img_1-7-71_jpg.rf.3764b6ce229d59d0665d0711025ca6f7.jpg
+2025-03-20 16:10:55,966 - INFO - Drew bounding boxes for img_1-7-71_jpg.rf.3764b6ce229d59d0665d0711025ca6f7
+2025-03-20 16:10:55,972 - INFO - Saved progress: 108/5892 for ../roboflow2/
+2025-03-20 16:10:55,996 - INFO - Successfully loaded image and labels for u26_jpg.rf.372beb73a5551bda006086e7e302e4b9 from ../roboflow2/images/u26_jpg.rf.372beb73a5551bda006086e7e302e4b9.jpg
+2025-03-20 16:10:55,996 - INFO - No bounding box data for u26_jpg.rf.372beb73a5551bda006086e7e302e4b9
+2025-03-20 16:10:56,002 - INFO - Saved progress: 109/5892 for ../roboflow2/
+2025-03-20 16:10:56,109 - INFO - Successfully loaded image and labels for 106_jpg.rf.087d11dc8be5e123110d5b527b5cc985 from ../roboflow2/images/106_jpg.rf.087d11dc8be5e123110d5b527b5cc985.jpg
+2025-03-20 16:10:56,109 - INFO - Drew bounding boxes for 106_jpg.rf.087d11dc8be5e123110d5b527b5cc985
+2025-03-20 16:10:56,116 - INFO - Saved progress: 110/5892 for ../roboflow2/
+2025-03-20 16:10:56,278 - INFO - Successfully loaded image and labels for 144_jpg.rf.60e6fe97dec9f7a015d1336e020f63d7 from ../roboflow2/images/144_jpg.rf.60e6fe97dec9f7a015d1336e020f63d7.jpg
+2025-03-20 16:10:56,278 - INFO - Drew bounding boxes for 144_jpg.rf.60e6fe97dec9f7a015d1336e020f63d7
+2025-03-20 16:10:56,285 - INFO - Saved progress: 111/5892 for ../roboflow2/
+2025-03-20 16:10:56,429 - INFO - Successfully loaded image and labels for img_16-23-33_jpg.rf.9ce2475b894537d0103aba46a533a128 from ../roboflow2/images/img_16-23-33_jpg.rf.9ce2475b894537d0103aba46a533a128.jpg
+2025-03-20 16:10:56,430 - INFO - Drew bounding boxes for img_16-23-33_jpg.rf.9ce2475b894537d0103aba46a533a128
+2025-03-20 16:10:56,437 - INFO - Saved progress: 112/5892 for ../roboflow2/
+2025-03-20 16:10:56,581 - INFO - Successfully loaded image and labels for img_2-8-55_jpg.rf.9737b12d9d2e89df6e1115626eb21881 from ../roboflow2/images/img_2-8-55_jpg.rf.9737b12d9d2e89df6e1115626eb21881.jpg
+2025-03-20 16:10:56,581 - INFO - Drew bounding boxes for img_2-8-55_jpg.rf.9737b12d9d2e89df6e1115626eb21881
+2025-03-20 16:10:56,587 - INFO - Saved progress: 113/5892 for ../roboflow2/
+2025-03-20 16:10:56,853 - INFO - Successfully loaded image and labels for img_1-28-40_jpg.rf.67780d986e49f6a175590123cccddeda from ../roboflow2/images/img_1-28-40_jpg.rf.67780d986e49f6a175590123cccddeda.jpg
+2025-03-20 16:10:56,853 - INFO - Drew bounding boxes for img_1-28-40_jpg.rf.67780d986e49f6a175590123cccddeda
+2025-03-20 16:10:56,865 - INFO - Saved progress: 114/5892 for ../roboflow2/
+2025-03-20 16:10:57,006 - INFO - Successfully loaded image and labels for img_2-13-57_jpg.rf.060bc59d22a887defc2e0b3c91345678 from ../roboflow2/images/img_2-13-57_jpg.rf.060bc59d22a887defc2e0b3c91345678.jpg
+2025-03-20 16:10:57,006 - INFO - Drew bounding boxes for img_2-13-57_jpg.rf.060bc59d22a887defc2e0b3c91345678
+2025-03-20 16:10:57,016 - INFO - Saved progress: 115/5892 for ../roboflow2/
+2025-03-20 16:10:57,125 - INFO - Successfully loaded image and labels for j18_jpg.rf.c53cd814004e0029e7fbf5b2d51a4549 from ../roboflow2/images/j18_jpg.rf.c53cd814004e0029e7fbf5b2d51a4549.jpg
+2025-03-20 16:10:57,125 - INFO - Drew bounding boxes for j18_jpg.rf.c53cd814004e0029e7fbf5b2d51a4549
+2025-03-20 16:10:57,132 - INFO - Saved progress: 116/5892 for ../roboflow2/
+2025-03-20 16:10:57,277 - INFO - Successfully loaded image and labels for m5_jpeg.rf.0b85ab63493cd2714bf1a179e61819e3 from ../roboflow2/images/m5_jpeg.rf.0b85ab63493cd2714bf1a179e61819e3.jpg
+2025-03-20 16:10:57,278 - INFO - Drew bounding boxes for m5_jpeg.rf.0b85ab63493cd2714bf1a179e61819e3
+2025-03-20 16:10:57,284 - INFO - Saved progress: 117/5892 for ../roboflow2/
+2025-03-20 16:10:57,677 - INFO - Successfully loaded image and labels for em14_jpg.rf.407708d3bc2b483a8202b2f38347709f from ../roboflow2/images/em14_jpg.rf.407708d3bc2b483a8202b2f38347709f.jpg
+2025-03-20 16:10:57,677 - INFO - No bounding box data for em14_jpg.rf.407708d3bc2b483a8202b2f38347709f
+2025-03-20 16:10:57,684 - INFO - Saved progress: 118/5892 for ../roboflow2/
+2025-03-20 16:10:57,829 - INFO - Successfully loaded image and labels for j5_jpg.rf.a7f67fbc2625b669284217deec888903 from ../roboflow2/images/j5_jpg.rf.a7f67fbc2625b669284217deec888903.jpg
+2025-03-20 16:10:57,829 - INFO - Drew bounding boxes for j5_jpg.rf.a7f67fbc2625b669284217deec888903
+2025-03-20 16:10:57,835 - INFO - Saved progress: 119/5892 for ../roboflow2/
+2025-03-20 16:10:58,326 - INFO - Successfully loaded image and labels for 205_jpg.rf.4985097f0ea6103dc3e5c2a93b91c1f5 from ../roboflow2/images/205_jpg.rf.4985097f0ea6103dc3e5c2a93b91c1f5.jpg
+2025-03-20 16:10:58,326 - INFO - Drew bounding boxes for 205_jpg.rf.4985097f0ea6103dc3e5c2a93b91c1f5
+2025-03-20 16:10:58,335 - INFO - Saved progress: 120/5892 for ../roboflow2/
+2025-03-20 16:10:58,517 - INFO - Successfully loaded image and labels for 192_jpg.rf.da200ef53c3db14a38ef75bba6257bbb from ../roboflow2/images/192_jpg.rf.da200ef53c3db14a38ef75bba6257bbb.jpg
+2025-03-20 16:10:58,518 - INFO - Drew bounding boxes for 192_jpg.rf.da200ef53c3db14a38ef75bba6257bbb
+2025-03-20 16:10:58,525 - INFO - Saved progress: 121/5892 for ../roboflow2/
+2025-03-20 16:10:58,814 - INFO - Successfully loaded image and labels for img_2-12-42_jpg.rf.106ce91c7f3b26c51048b27a9cc10dc5 from ../roboflow2/images/img_2-12-42_jpg.rf.106ce91c7f3b26c51048b27a9cc10dc5.jpg
+2025-03-20 16:10:58,814 - INFO - Drew bounding boxes for img_2-12-42_jpg.rf.106ce91c7f3b26c51048b27a9cc10dc5
+2025-03-20 16:10:58,822 - INFO - Saved progress: 122/5892 for ../roboflow2/
+2025-03-20 16:10:58,957 - INFO - Successfully loaded image and labels for x55_jpg.rf.dac98545a407c2aa8a23df5f5c16de4c from ../roboflow2/images/x55_jpg.rf.dac98545a407c2aa8a23df5f5c16de4c.jpg
+2025-03-20 16:10:58,957 - INFO - Drew bounding boxes for x55_jpg.rf.dac98545a407c2aa8a23df5f5c16de4c
+2025-03-20 16:10:58,964 - INFO - Saved progress: 123/5892 for ../roboflow2/
+2025-03-20 16:10:59,261 - INFO - Successfully loaded image and labels for m38_jpg.rf.fa260680c64e276d34c270b5e19999ad from ../roboflow2/images/m38_jpg.rf.fa260680c64e276d34c270b5e19999ad.jpg
+2025-03-20 16:10:59,261 - INFO - Drew bounding boxes for m38_jpg.rf.fa260680c64e276d34c270b5e19999ad
+2025-03-20 16:10:59,268 - INFO - Saved progress: 124/5892 for ../roboflow2/
+2025-03-20 16:10:59,413 - INFO - Successfully loaded image and labels for 254_jpg.rf.36890e496e247aaa24b4084a34d530b5 from ../roboflow2/images/254_jpg.rf.36890e496e247aaa24b4084a34d530b5.jpg
+2025-03-20 16:10:59,413 - INFO - Drew bounding boxes for 254_jpg.rf.36890e496e247aaa24b4084a34d530b5
+2025-03-20 16:10:59,419 - INFO - Saved progress: 125/5892 for ../roboflow2/
+2025-03-20 16:10:59,573 - INFO - Successfully loaded image and labels for 802_jpg.rf.2cc971244e23851b7f64247dd2ec5c44 from ../roboflow2/images/802_jpg.rf.2cc971244e23851b7f64247dd2ec5c44.jpg
+2025-03-20 16:10:59,573 - INFO - Drew bounding boxes for 802_jpg.rf.2cc971244e23851b7f64247dd2ec5c44
+2025-03-20 16:10:59,580 - INFO - Saved progress: 126/5892 for ../roboflow2/
+2025-03-20 16:11:02,279 - INFO - Saved progress: 126/5892 for ../roboflow2/
+2025-03-20 16:17:20,246 - INFO - Initialized new path ../roboflow2/ in progress.json
+2025-03-20 16:17:20,263 - INFO - Successfully loaded image and labels for img_17-9-51_jpg.rf.4cc43ef71835dd0ee99380317a7537d2 from ../roboflow2/images/img_17-9-51_jpg.rf.4cc43ef71835dd0ee99380317a7537d2.jpg
+2025-03-20 16:17:20,263 - INFO - Drew bounding boxes for img_17-9-51_jpg.rf.4cc43ef71835dd0ee99380317a7537d2
+2025-03-20 16:17:22,338 - INFO - Successfully loaded image and labels for 881_jpg.rf.01801bdead6c011be3999dd9dd4430b8 from ../roboflow2/images/881_jpg.rf.01801bdead6c011be3999dd9dd4430b8.jpg
+2025-03-20 16:17:22,338 - INFO - Drew bounding boxes for 881_jpg.rf.01801bdead6c011be3999dd9dd4430b8
+2025-03-20 16:17:22,345 - INFO - Saved progress: 1/3114 for ../roboflow2/
+2025-03-20 16:17:23,520 - INFO - Successfully loaded image and labels for s3_jpeg.rf.8e6093d46382ef78873d8b1588127fc5 from ../roboflow2/images/s3_jpeg.rf.8e6093d46382ef78873d8b1588127fc5.jpg
+2025-03-20 16:17:23,520 - INFO - Drew bounding boxes for s3_jpeg.rf.8e6093d46382ef78873d8b1588127fc5
+2025-03-20 16:17:23,528 - INFO - Saved progress: 2/3114 for ../roboflow2/
+2025-03-20 16:17:24,792 - INFO - Successfully loaded image and labels for 386_jpg.rf.7a006951bb938a7c13ac516f9e90cfd6 from ../roboflow2/images/386_jpg.rf.7a006951bb938a7c13ac516f9e90cfd6.jpg
+2025-03-20 16:17:24,793 - INFO - Drew bounding boxes for 386_jpg.rf.7a006951bb938a7c13ac516f9e90cfd6
+2025-03-20 16:17:24,800 - INFO - Saved progress: 3/3114 for ../roboflow2/
+2025-03-20 16:17:25,496 - INFO - Successfully loaded image and labels for s3_jpeg.rf.8e6093d46382ef78873d8b1588127fc5 from ../roboflow2/images/s3_jpeg.rf.8e6093d46382ef78873d8b1588127fc5.jpg
+2025-03-20 16:17:25,496 - INFO - Drew bounding boxes for s3_jpeg.rf.8e6093d46382ef78873d8b1588127fc5
+2025-03-20 16:17:25,507 - INFO - Saved progress: 2/3114 for ../roboflow2/
+2025-03-20 16:17:35,645 - INFO - Updated labels for s3_jpeg.rf.8e6093d46382ef78873d8b1588127fc5
+2025-03-20 16:17:35,648 - INFO - Successfully loaded image and labels for s3_jpeg.rf.8e6093d46382ef78873d8b1588127fc5 from ../roboflow2/images/s3_jpeg.rf.8e6093d46382ef78873d8b1588127fc5.jpg
+2025-03-20 16:17:35,648 - INFO - Drew bounding boxes for s3_jpeg.rf.8e6093d46382ef78873d8b1588127fc5
+2025-03-20 16:17:35,656 - INFO - Saved progress: 2/3114 for ../roboflow2/
+2025-03-20 16:17:39,821 - INFO - Updated labels for s3_jpeg.rf.8e6093d46382ef78873d8b1588127fc5
+2025-03-20 16:17:39,823 - INFO - Successfully loaded image and labels for s3_jpeg.rf.8e6093d46382ef78873d8b1588127fc5 from ../roboflow2/images/s3_jpeg.rf.8e6093d46382ef78873d8b1588127fc5.jpg
+2025-03-20 16:17:39,823 - INFO - Drew bounding boxes for s3_jpeg.rf.8e6093d46382ef78873d8b1588127fc5
+2025-03-20 16:17:39,831 - INFO - Saved progress: 2/3114 for ../roboflow2/
+2025-03-20 16:17:40,826 - INFO - Successfully loaded image and labels for 386_jpg.rf.7a006951bb938a7c13ac516f9e90cfd6 from ../roboflow2/images/386_jpg.rf.7a006951bb938a7c13ac516f9e90cfd6.jpg
+2025-03-20 16:17:40,826 - INFO - Drew bounding boxes for 386_jpg.rf.7a006951bb938a7c13ac516f9e90cfd6
+2025-03-20 16:17:40,832 - INFO - Saved progress: 3/3114 for ../roboflow2/
+2025-03-20 16:17:47,887 - INFO - Successfully loaded image and labels for img_2-13-74_jpg.rf.37293ebad80c8bdf77e5a6569ee3a874 from ../roboflow2/images/img_2-13-74_jpg.rf.37293ebad80c8bdf77e5a6569ee3a874.jpg
+2025-03-20 16:17:47,888 - INFO - Drew bounding boxes for img_2-13-74_jpg.rf.37293ebad80c8bdf77e5a6569ee3a874
+2025-03-20 16:17:47,895 - INFO - Saved progress: 4/3114 for ../roboflow2/
+2025-03-20 16:17:49,591 - INFO - Successfully loaded image and labels for m35_jpeg.rf.c7681e2fb106c11f5b4d390828415fe8 from ../roboflow2/images/m35_jpeg.rf.c7681e2fb106c11f5b4d390828415fe8.jpg
+2025-03-20 16:17:49,592 - INFO - Drew bounding boxes for m35_jpeg.rf.c7681e2fb106c11f5b4d390828415fe8
+2025-03-20 16:17:49,599 - INFO - Saved progress: 5/3114 for ../roboflow2/
+2025-03-20 16:17:50,279 - INFO - Successfully loaded image and labels for 367_jpg.rf.70e459f67a833a2ea4d527d506f3c7f0 from ../roboflow2/images/367_jpg.rf.70e459f67a833a2ea4d527d506f3c7f0.jpg
+2025-03-20 16:17:50,279 - INFO - Drew bounding boxes for 367_jpg.rf.70e459f67a833a2ea4d527d506f3c7f0
+2025-03-20 16:17:50,287 - INFO - Saved progress: 6/3114 for ../roboflow2/
+2025-03-20 16:17:50,647 - INFO - Successfully loaded image and labels for 412_jpg.rf.b99306e203ce3c9ec0343fefee334f33 from ../roboflow2/images/412_jpg.rf.b99306e203ce3c9ec0343fefee334f33.jpg
+2025-03-20 16:17:50,647 - INFO - Drew bounding boxes for 412_jpg.rf.b99306e203ce3c9ec0343fefee334f33
+2025-03-20 16:17:50,655 - INFO - Saved progress: 7/3114 for ../roboflow2/
+2025-03-20 16:17:51,064 - INFO - Successfully loaded image and labels for 497_jpg.rf.40e03151227fb31f70df5737c7003660 from ../roboflow2/images/497_jpg.rf.40e03151227fb31f70df5737c7003660.jpg
+2025-03-20 16:17:51,064 - INFO - Drew bounding boxes for 497_jpg.rf.40e03151227fb31f70df5737c7003660
+2025-03-20 16:17:51,072 - INFO - Saved progress: 8/3114 for ../roboflow2/
+2025-03-20 16:17:51,488 - INFO - Successfully loaded image and labels for j45_jpeg.rf.2c891d5b33c1302c3ca573fd28094f59 from ../roboflow2/images/j45_jpeg.rf.2c891d5b33c1302c3ca573fd28094f59.jpg
+2025-03-20 16:17:51,488 - INFO - Drew bounding boxes for j45_jpeg.rf.2c891d5b33c1302c3ca573fd28094f59
+2025-03-20 16:17:51,496 - INFO - Saved progress: 9/3114 for ../roboflow2/
+2025-03-20 16:17:51,967 - INFO - Successfully loaded image and labels for x148_jpg.rf.94348bfedc97208482318ce5ffa7d1b0 from ../roboflow2/images/x148_jpg.rf.94348bfedc97208482318ce5ffa7d1b0.jpg
+2025-03-20 16:17:51,968 - INFO - Drew bounding boxes for x148_jpg.rf.94348bfedc97208482318ce5ffa7d1b0
+2025-03-20 16:17:51,976 - INFO - Saved progress: 10/3114 for ../roboflow2/
+2025-03-20 16:17:52,223 - INFO - Successfully loaded image and labels for img_2-12-53_jpg.rf.35a26f222ff52a8ca568123ea410f58f from ../roboflow2/images/img_2-12-53_jpg.rf.35a26f222ff52a8ca568123ea410f58f.jpg
+2025-03-20 16:17:52,224 - INFO - Drew bounding boxes for img_2-12-53_jpg.rf.35a26f222ff52a8ca568123ea410f58f
+2025-03-20 16:17:52,231 - INFO - Saved progress: 11/3114 for ../roboflow2/
+2025-03-20 16:17:52,664 - INFO - Successfully loaded image and labels for x141_jpg.rf.b670e002dd48b4be7a341cbc165e56d6 from ../roboflow2/images/x141_jpg.rf.b670e002dd48b4be7a341cbc165e56d6.jpg
+2025-03-20 16:17:52,664 - INFO - Drew bounding boxes for x141_jpg.rf.b670e002dd48b4be7a341cbc165e56d6
+2025-03-20 16:17:52,672 - INFO - Saved progress: 12/3114 for ../roboflow2/
+2025-03-20 16:17:52,896 - INFO - Successfully loaded image and labels for img_2-12-74_jpg.rf.ce2776bc3b2f88ff6af588303b0cf29d from ../roboflow2/images/img_2-12-74_jpg.rf.ce2776bc3b2f88ff6af588303b0cf29d.jpg
+2025-03-20 16:17:52,896 - INFO - Drew bounding boxes for img_2-12-74_jpg.rf.ce2776bc3b2f88ff6af588303b0cf29d
+2025-03-20 16:17:52,904 - INFO - Saved progress: 13/3114 for ../roboflow2/
+2025-03-20 16:17:53,167 - INFO - Successfully loaded image and labels for j53_jpg.rf.af039fd2fecdc84f2975064df049898b from ../roboflow2/images/j53_jpg.rf.af039fd2fecdc84f2975064df049898b.jpg
+2025-03-20 16:17:53,167 - INFO - No bounding box data for j53_jpg.rf.af039fd2fecdc84f2975064df049898b
+2025-03-20 16:17:53,177 - INFO - Saved progress: 14/3114 for ../roboflow2/
+2025-03-20 16:17:53,432 - INFO - Successfully loaded image and labels for x3_jpeg.rf.9f5cf4c46e6058ab06b313d1be1dfaed from ../roboflow2/images/x3_jpeg.rf.9f5cf4c46e6058ab06b313d1be1dfaed.jpg
+2025-03-20 16:17:53,432 - INFO - Drew bounding boxes for x3_jpeg.rf.9f5cf4c46e6058ab06b313d1be1dfaed
+2025-03-20 16:17:53,440 - INFO - Saved progress: 15/3114 for ../roboflow2/
+2025-03-20 16:17:53,760 - INFO - Successfully loaded image and labels for 842_jpg.rf.7268e81e0cacfbc93fc2ca78961e0287 from ../roboflow2/images/842_jpg.rf.7268e81e0cacfbc93fc2ca78961e0287.jpg
+2025-03-20 16:17:53,760 - INFO - Drew bounding boxes for 842_jpg.rf.7268e81e0cacfbc93fc2ca78961e0287
+2025-03-20 16:17:53,768 - INFO - Saved progress: 16/3114 for ../roboflow2/
+2025-03-20 16:17:54,159 - INFO - Successfully loaded image and labels for x3_jpeg.rf.9f5cf4c46e6058ab06b313d1be1dfaed from ../roboflow2/images/x3_jpeg.rf.9f5cf4c46e6058ab06b313d1be1dfaed.jpg
+2025-03-20 16:17:54,160 - INFO - Drew bounding boxes for x3_jpeg.rf.9f5cf4c46e6058ab06b313d1be1dfaed
+2025-03-20 16:17:54,168 - INFO - Saved progress: 15/3114 for ../roboflow2/
+2025-03-20 16:17:54,408 - INFO - Successfully loaded image and labels for 842_jpg.rf.7268e81e0cacfbc93fc2ca78961e0287 from ../roboflow2/images/842_jpg.rf.7268e81e0cacfbc93fc2ca78961e0287.jpg
+2025-03-20 16:17:54,408 - INFO - Drew bounding boxes for 842_jpg.rf.7268e81e0cacfbc93fc2ca78961e0287
+2025-03-20 16:17:54,417 - INFO - Saved progress: 16/3114 for ../roboflow2/
+2025-03-20 16:17:54,631 - INFO - Successfully loaded image and labels for img_16-23-60_jpg.rf.cf7c32a7ded60bb9947ee2bbbd276cf4 from ../roboflow2/images/img_16-23-60_jpg.rf.cf7c32a7ded60bb9947ee2bbbd276cf4.jpg
+2025-03-20 16:17:54,632 - INFO - Drew bounding boxes for img_16-23-60_jpg.rf.cf7c32a7ded60bb9947ee2bbbd276cf4
+2025-03-20 16:17:54,640 - INFO - Saved progress: 17/3114 for ../roboflow2/
+2025-03-20 16:17:54,863 - INFO - Successfully loaded image and labels for s6_jpeg.rf.b9b98077aaedb7b8f050ef9f450a914f from ../roboflow2/images/s6_jpeg.rf.b9b98077aaedb7b8f050ef9f450a914f.jpg
+2025-03-20 16:17:54,864 - INFO - Drew bounding boxes for s6_jpeg.rf.b9b98077aaedb7b8f050ef9f450a914f
+2025-03-20 16:17:54,872 - INFO - Saved progress: 18/3114 for ../roboflow2/
+2025-03-20 16:17:55,072 - INFO - Successfully loaded image and labels for uyy133_jpg.rf.9ea8dff5322e461c1dae3bc89369b6ea from ../roboflow2/images/uyy133_jpg.rf.9ea8dff5322e461c1dae3bc89369b6ea.jpg
+2025-03-20 16:17:55,072 - INFO - Drew bounding boxes for uyy133_jpg.rf.9ea8dff5322e461c1dae3bc89369b6ea
+2025-03-20 16:17:55,079 - INFO - Saved progress: 19/3114 for ../roboflow2/
+2025-03-20 16:17:55,271 - INFO - Successfully loaded image and labels for x234_jpg.rf.db3ae3f7448d300d00a5fd3a8ca24c2d from ../roboflow2/images/x234_jpg.rf.db3ae3f7448d300d00a5fd3a8ca24c2d.jpg
+2025-03-20 16:17:55,271 - INFO - Drew bounding boxes for x234_jpg.rf.db3ae3f7448d300d00a5fd3a8ca24c2d
+2025-03-20 16:17:55,279 - INFO - Saved progress: 20/3114 for ../roboflow2/
+2025-03-20 16:17:55,536 - INFO - Successfully loaded image and labels for x99_jpg.rf.5c008145ff0f6b61f44fde619824c970 from ../roboflow2/images/x99_jpg.rf.5c008145ff0f6b61f44fde619824c970.jpg
+2025-03-20 16:17:55,536 - INFO - Drew bounding boxes for x99_jpg.rf.5c008145ff0f6b61f44fde619824c970
+2025-03-20 16:17:55,548 - INFO - Saved progress: 21/3114 for ../roboflow2/
+2025-03-20 16:17:55,935 - INFO - Successfully loaded image and labels for j78_jpg.rf.081b9abe444c2ee2573fec91f23b96f0 from ../roboflow2/images/j78_jpg.rf.081b9abe444c2ee2573fec91f23b96f0.jpg
+2025-03-20 16:17:55,935 - INFO - Drew bounding boxes for j78_jpg.rf.081b9abe444c2ee2573fec91f23b96f0
+2025-03-20 16:17:55,942 - INFO - Saved progress: 22/3114 for ../roboflow2/
+2025-03-20 16:17:56,144 - INFO - Successfully loaded image and labels for x203_jpg.rf.c407bcca736c24f23480b408d574184a from ../roboflow2/images/x203_jpg.rf.c407bcca736c24f23480b408d574184a.jpg
+2025-03-20 16:17:56,144 - INFO - Drew bounding boxes for x203_jpg.rf.c407bcca736c24f23480b408d574184a
+2025-03-20 16:17:56,150 - INFO - Saved progress: 23/3114 for ../roboflow2/
+2025-03-20 16:17:56,495 - INFO - Successfully loaded image and labels for x46_jpeg.rf.2c03092138e9a45ad541da5013eea844 from ../roboflow2/images/x46_jpeg.rf.2c03092138e9a45ad541da5013eea844.jpg
+2025-03-20 16:17:56,495 - INFO - Drew bounding boxes for x46_jpeg.rf.2c03092138e9a45ad541da5013eea844
+2025-03-20 16:17:56,502 - INFO - Saved progress: 24/3114 for ../roboflow2/
+2025-03-20 16:17:56,711 - INFO - Successfully loaded image and labels for bbb10_jpg.rf.1f5ba0ddf5270b1e55fb4e4aaafcedb5 from ../roboflow2/images/bbb10_jpg.rf.1f5ba0ddf5270b1e55fb4e4aaafcedb5.jpg
+2025-03-20 16:17:56,711 - INFO - Drew bounding boxes for bbb10_jpg.rf.1f5ba0ddf5270b1e55fb4e4aaafcedb5
+2025-03-20 16:17:56,718 - INFO - Saved progress: 25/3114 for ../roboflow2/
+2025-03-20 16:17:56,911 - INFO - Successfully loaded image and labels for img_16-23-47_jpg.rf.06e54135c3c9e198195e066bb13d0d89 from ../roboflow2/images/img_16-23-47_jpg.rf.06e54135c3c9e198195e066bb13d0d89.jpg
+2025-03-20 16:17:56,911 - INFO - Drew bounding boxes for img_16-23-47_jpg.rf.06e54135c3c9e198195e066bb13d0d89
+2025-03-20 16:17:56,918 - INFO - Saved progress: 26/3114 for ../roboflow2/
+2025-03-20 16:17:57,112 - INFO - Successfully loaded image and labels for 262_jpg.rf.7e4f9cb6426314f03237fb5e32040d7d from ../roboflow2/images/262_jpg.rf.7e4f9cb6426314f03237fb5e32040d7d.jpg
+2025-03-20 16:17:57,113 - INFO - Drew bounding boxes for 262_jpg.rf.7e4f9cb6426314f03237fb5e32040d7d
+2025-03-20 16:17:57,119 - INFO - Saved progress: 27/3114 for ../roboflow2/
+2025-03-20 16:17:57,303 - INFO - Successfully loaded image and labels for x60_jpg.rf.a2d7126cf655e31b4798ee97ec4da14b from ../roboflow2/images/x60_jpg.rf.a2d7126cf655e31b4798ee97ec4da14b.jpg
+2025-03-20 16:17:57,304 - INFO - Drew bounding boxes for x60_jpg.rf.a2d7126cf655e31b4798ee97ec4da14b
+2025-03-20 16:17:57,311 - INFO - Saved progress: 28/3114 for ../roboflow2/
+2025-03-20 16:17:57,511 - INFO - Successfully loaded image and labels for x67_jpg.rf.78c09913e81d0b735fc473db710307a7 from ../roboflow2/images/x67_jpg.rf.78c09913e81d0b735fc473db710307a7.jpg
+2025-03-20 16:17:57,512 - INFO - Drew bounding boxes for x67_jpg.rf.78c09913e81d0b735fc473db710307a7
+2025-03-20 16:17:57,519 - INFO - Saved progress: 29/3114 for ../roboflow2/
+2025-03-20 16:17:57,720 - INFO - Successfully loaded image and labels for img_16-22-82_jpg.rf.1aa81c3cc7f8f2d18c68e3217476f110 from ../roboflow2/images/img_16-22-82_jpg.rf.1aa81c3cc7f8f2d18c68e3217476f110.jpg
+2025-03-20 16:17:57,720 - INFO - Drew bounding boxes for img_16-22-82_jpg.rf.1aa81c3cc7f8f2d18c68e3217476f110
+2025-03-20 16:17:57,729 - INFO - Saved progress: 30/3114 for ../roboflow2/
+2025-03-20 16:17:57,903 - INFO - Successfully loaded image and labels for x134_jpg.rf.4a21165b668042413cd2cf6d946a928a from ../roboflow2/images/x134_jpg.rf.4a21165b668042413cd2cf6d946a928a.jpg
+2025-03-20 16:17:57,904 - INFO - Drew bounding boxes for x134_jpg.rf.4a21165b668042413cd2cf6d946a928a
+2025-03-20 16:17:57,911 - INFO - Saved progress: 31/3114 for ../roboflow2/
+2025-03-20 16:17:58,159 - INFO - Successfully loaded image and labels for 807_jpg.rf.b9e6db2f98bae758a1214103f60dd774 from ../roboflow2/images/807_jpg.rf.b9e6db2f98bae758a1214103f60dd774.jpg
+2025-03-20 16:17:58,159 - INFO - Drew bounding boxes for 807_jpg.rf.b9e6db2f98bae758a1214103f60dd774
+2025-03-20 16:17:58,168 - INFO - Saved progress: 32/3114 for ../roboflow2/
+2025-03-20 16:17:58,447 - INFO - Successfully loaded image and labels for 407_jpg.rf.10f2a500084906bce9acdc171c2414a5 from ../roboflow2/images/407_jpg.rf.10f2a500084906bce9acdc171c2414a5.jpg
+2025-03-20 16:17:58,448 - INFO - Drew bounding boxes for 407_jpg.rf.10f2a500084906bce9acdc171c2414a5
+2025-03-20 16:17:58,456 - INFO - Saved progress: 33/3114 for ../roboflow2/
+2025-03-20 16:17:58,687 - INFO - Successfully loaded image and labels for x248_jpg.rf.8ef988fbb64b9855d81c9e0476172dfb from ../roboflow2/images/x248_jpg.rf.8ef988fbb64b9855d81c9e0476172dfb.jpg
+2025-03-20 16:17:58,687 - INFO - Drew bounding boxes for x248_jpg.rf.8ef988fbb64b9855d81c9e0476172dfb
+2025-03-20 16:17:58,696 - INFO - Saved progress: 34/3114 for ../roboflow2/
+2025-03-20 16:17:59,015 - INFO - Successfully loaded image and labels for bk94_jpg.rf.44a11da52ab9005e5f8048cf399e2316 from ../roboflow2/images/bk94_jpg.rf.44a11da52ab9005e5f8048cf399e2316.jpg
+2025-03-20 16:17:59,015 - INFO - Drew bounding boxes for bk94_jpg.rf.44a11da52ab9005e5f8048cf399e2316
+2025-03-20 16:17:59,024 - INFO - Saved progress: 35/3114 for ../roboflow2/
+2025-03-20 16:17:59,279 - INFO - Successfully loaded image and labels for x248_jpg.rf.8ef988fbb64b9855d81c9e0476172dfb from ../roboflow2/images/x248_jpg.rf.8ef988fbb64b9855d81c9e0476172dfb.jpg
+2025-03-20 16:17:59,279 - INFO - Drew bounding boxes for x248_jpg.rf.8ef988fbb64b9855d81c9e0476172dfb
+2025-03-20 16:17:59,288 - INFO - Saved progress: 34/3114 for ../roboflow2/
+2025-03-20 16:17:59,503 - INFO - Successfully loaded image and labels for 407_jpg.rf.10f2a500084906bce9acdc171c2414a5 from ../roboflow2/images/407_jpg.rf.10f2a500084906bce9acdc171c2414a5.jpg
+2025-03-20 16:17:59,504 - INFO - Drew bounding boxes for 407_jpg.rf.10f2a500084906bce9acdc171c2414a5
+2025-03-20 16:17:59,511 - INFO - Saved progress: 33/3114 for ../roboflow2/
+2025-03-20 16:18:04,967 - INFO - Successfully loaded image and labels for x248_jpg.rf.8ef988fbb64b9855d81c9e0476172dfb from ../roboflow2/images/x248_jpg.rf.8ef988fbb64b9855d81c9e0476172dfb.jpg
+2025-03-20 16:18:04,967 - INFO - Drew bounding boxes for x248_jpg.rf.8ef988fbb64b9855d81c9e0476172dfb
+2025-03-20 16:18:04,974 - INFO - Saved progress: 34/3114 for ../roboflow2/
+2025-03-20 16:18:05,335 - INFO - Successfully loaded image and labels for bk94_jpg.rf.44a11da52ab9005e5f8048cf399e2316 from ../roboflow2/images/bk94_jpg.rf.44a11da52ab9005e5f8048cf399e2316.jpg
+2025-03-20 16:18:05,335 - INFO - Drew bounding boxes for bk94_jpg.rf.44a11da52ab9005e5f8048cf399e2316
+2025-03-20 16:18:05,341 - INFO - Saved progress: 35/3114 for ../roboflow2/
+2025-03-20 16:18:06,727 - INFO - Successfully loaded image and labels for m18_jpeg.rf.7d86df0f75a32d9a9647f8f021bba0df from ../roboflow2/images/m18_jpeg.rf.7d86df0f75a32d9a9647f8f021bba0df.jpg
+2025-03-20 16:18:06,728 - INFO - Drew bounding boxes for m18_jpeg.rf.7d86df0f75a32d9a9647f8f021bba0df
+2025-03-20 16:18:06,736 - INFO - Saved progress: 36/3114 for ../roboflow2/
+2025-03-20 16:18:08,511 - INFO - Successfully loaded image and labels for 209_jpg.rf.b85bfd7f1245c7f25fe5036ac1f63675 from ../roboflow2/images/209_jpg.rf.b85bfd7f1245c7f25fe5036ac1f63675.jpg
+2025-03-20 16:18:08,511 - INFO - Drew bounding boxes for 209_jpg.rf.b85bfd7f1245c7f25fe5036ac1f63675
+2025-03-20 16:18:08,519 - INFO - Saved progress: 37/3114 for ../roboflow2/
+2025-03-20 16:18:09,215 - INFO - Successfully loaded image and labels for 369_jpg.rf.490a038116cd1690a13340dd28d9696b from ../roboflow2/images/369_jpg.rf.490a038116cd1690a13340dd28d9696b.jpg
+2025-03-20 16:18:09,216 - INFO - Drew bounding boxes for 369_jpg.rf.490a038116cd1690a13340dd28d9696b
+2025-03-20 16:18:09,224 - INFO - Saved progress: 38/3114 for ../roboflow2/
+2025-03-20 16:18:09,615 - INFO - Successfully loaded image and labels for img_2-10-88_jpg.rf.9501a4c0f0830abe6ddbdf78e97a7455 from ../roboflow2/images/img_2-10-88_jpg.rf.9501a4c0f0830abe6ddbdf78e97a7455.jpg
+2025-03-20 16:18:09,615 - INFO - Drew bounding boxes for img_2-10-88_jpg.rf.9501a4c0f0830abe6ddbdf78e97a7455
+2025-03-20 16:18:09,623 - INFO - Saved progress: 39/3114 for ../roboflow2/
+2025-03-20 16:18:09,919 - INFO - Successfully loaded image and labels for 608_jpg.rf.1adcdc1417a955abfebb196348afa1d8 from ../roboflow2/images/608_jpg.rf.1adcdc1417a955abfebb196348afa1d8.jpg
+2025-03-20 16:18:09,919 - INFO - Drew bounding boxes for 608_jpg.rf.1adcdc1417a955abfebb196348afa1d8
+2025-03-20 16:18:09,927 - INFO - Saved progress: 40/3114 for ../roboflow2/
+2025-03-20 16:18:10,367 - INFO - Successfully loaded image and labels for em13_jpg.rf.1ccbd813569cba17c8ef8a03a470f72d from ../roboflow2/images/em13_jpg.rf.1ccbd813569cba17c8ef8a03a470f72d.jpg
+2025-03-20 16:18:10,367 - INFO - No bounding box data for em13_jpg.rf.1ccbd813569cba17c8ef8a03a470f72d
+2025-03-20 16:18:10,385 - INFO - Saved progress: 41/3114 for ../roboflow2/
+2025-03-20 16:18:10,911 - INFO - Successfully loaded image and labels for em13_jpg.rf.c7480f4e387daa0e69c4383e4a704f1e from ../roboflow2/images/em13_jpg.rf.c7480f4e387daa0e69c4383e4a704f1e.jpg
+2025-03-20 16:18:10,911 - INFO - No bounding box data for em13_jpg.rf.c7480f4e387daa0e69c4383e4a704f1e
+2025-03-20 16:18:10,918 - INFO - Saved progress: 42/3114 for ../roboflow2/
+2025-03-20 16:18:11,471 - INFO - Successfully loaded image and labels for em13_jpg.rf.1ccbd813569cba17c8ef8a03a470f72d from ../roboflow2/images/em13_jpg.rf.1ccbd813569cba17c8ef8a03a470f72d.jpg
+2025-03-20 16:18:11,471 - INFO - No bounding box data for em13_jpg.rf.1ccbd813569cba17c8ef8a03a470f72d
+2025-03-20 16:18:11,478 - INFO - Saved progress: 41/3114 for ../roboflow2/
+2025-03-20 16:18:13,839 - INFO - Successfully loaded image and labels for 608_jpg.rf.1adcdc1417a955abfebb196348afa1d8 from ../roboflow2/images/608_jpg.rf.1adcdc1417a955abfebb196348afa1d8.jpg
+2025-03-20 16:18:13,839 - INFO - Drew bounding boxes for 608_jpg.rf.1adcdc1417a955abfebb196348afa1d8
+2025-03-20 16:18:13,847 - INFO - Saved progress: 40/3114 for ../roboflow2/
+2025-03-20 16:18:14,583 - INFO - Successfully loaded image and labels for em13_jpg.rf.1ccbd813569cba17c8ef8a03a470f72d from ../roboflow2/images/em13_jpg.rf.1ccbd813569cba17c8ef8a03a470f72d.jpg
+2025-03-20 16:18:14,583 - INFO - No bounding box data for em13_jpg.rf.1ccbd813569cba17c8ef8a03a470f72d
+2025-03-20 16:18:14,591 - INFO - Saved progress: 41/3114 for ../roboflow2/
+2025-03-20 16:18:28,585 - INFO - Successfully loaded image and labels for em13_jpg.rf.c7480f4e387daa0e69c4383e4a704f1e from ../roboflow2/images/em13_jpg.rf.c7480f4e387daa0e69c4383e4a704f1e.jpg
+2025-03-20 16:18:28,585 - INFO - No bounding box data for em13_jpg.rf.c7480f4e387daa0e69c4383e4a704f1e
+2025-03-20 16:18:28,600 - INFO - Saved progress: 42/3114 for ../roboflow2/
+2025-03-20 16:18:28,943 - INFO - Successfully loaded image and labels for 135_jpg.rf.4da8e477e63e72d89c9ff38e38c85e2b from ../roboflow2/images/135_jpg.rf.4da8e477e63e72d89c9ff38e38c85e2b.jpg
+2025-03-20 16:18:28,944 - INFO - Drew bounding boxes for 135_jpg.rf.4da8e477e63e72d89c9ff38e38c85e2b
+2025-03-20 16:18:28,951 - INFO - Saved progress: 43/3114 for ../roboflow2/
+2025-03-20 16:18:29,431 - INFO - Successfully loaded image and labels for x87_jpg.rf.6a589f17aabc731ec20ec25037c8260e from ../roboflow2/images/x87_jpg.rf.6a589f17aabc731ec20ec25037c8260e.jpg
+2025-03-20 16:18:29,431 - INFO - Drew bounding boxes for x87_jpg.rf.6a589f17aabc731ec20ec25037c8260e
+2025-03-20 16:18:29,438 - INFO - Saved progress: 44/3114 for ../roboflow2/
+2025-03-20 16:18:29,799 - INFO - Successfully loaded image and labels for 135_jpg.rf.4da8e477e63e72d89c9ff38e38c85e2b from ../roboflow2/images/135_jpg.rf.4da8e477e63e72d89c9ff38e38c85e2b.jpg
+2025-03-20 16:18:29,799 - INFO - Drew bounding boxes for 135_jpg.rf.4da8e477e63e72d89c9ff38e38c85e2b
+2025-03-20 16:18:29,806 - INFO - Saved progress: 43/3114 for ../roboflow2/
+2025-03-20 16:18:30,767 - INFO - Successfully loaded image and labels for x87_jpg.rf.6a589f17aabc731ec20ec25037c8260e from ../roboflow2/images/x87_jpg.rf.6a589f17aabc731ec20ec25037c8260e.jpg
+2025-03-20 16:18:30,767 - INFO - Drew bounding boxes for x87_jpg.rf.6a589f17aabc731ec20ec25037c8260e
+2025-03-20 16:18:30,775 - INFO - Saved progress: 44/3114 for ../roboflow2/
+2025-03-20 16:18:31,223 - INFO - Successfully loaded image and labels for 135_jpg.rf.4da8e477e63e72d89c9ff38e38c85e2b from ../roboflow2/images/135_jpg.rf.4da8e477e63e72d89c9ff38e38c85e2b.jpg
+2025-03-20 16:18:31,223 - INFO - Drew bounding boxes for 135_jpg.rf.4da8e477e63e72d89c9ff38e38c85e2b
+2025-03-20 16:18:31,232 - INFO - Saved progress: 43/3114 for ../roboflow2/
+2025-03-20 16:18:32,071 - INFO - Successfully loaded image and labels for x87_jpg.rf.6a589f17aabc731ec20ec25037c8260e from ../roboflow2/images/x87_jpg.rf.6a589f17aabc731ec20ec25037c8260e.jpg
+2025-03-20 16:18:32,071 - INFO - Drew bounding boxes for x87_jpg.rf.6a589f17aabc731ec20ec25037c8260e
+2025-03-20 16:18:32,079 - INFO - Saved progress: 44/3114 for ../roboflow2/
+2025-03-20 16:18:32,335 - INFO - Successfully loaded image and labels for img_16-23-86_jpg.rf.94ee2d109072baca3a248bdb9441e8d1 from ../roboflow2/images/img_16-23-86_jpg.rf.94ee2d109072baca3a248bdb9441e8d1.jpg
+2025-03-20 16:18:32,335 - INFO - Drew bounding boxes for img_16-23-86_jpg.rf.94ee2d109072baca3a248bdb9441e8d1
+2025-03-20 16:18:32,343 - INFO - Saved progress: 45/3114 for ../roboflow2/
+2025-03-20 16:18:32,790 - INFO - Successfully loaded image and labels for j34_jpeg.rf.efd403464a4d36def87ab0b057cff58a from ../roboflow2/images/j34_jpeg.rf.efd403464a4d36def87ab0b057cff58a.jpg
+2025-03-20 16:18:32,790 - INFO - Drew bounding boxes for j34_jpeg.rf.efd403464a4d36def87ab0b057cff58a
+2025-03-20 16:18:32,798 - INFO - Saved progress: 46/3114 for ../roboflow2/
+2025-03-20 16:18:32,975 - INFO - Successfully loaded image and labels for aa27_jpg.rf.3c4e3309c566db328761ce41888fb372 from ../roboflow2/images/aa27_jpg.rf.3c4e3309c566db328761ce41888fb372.jpg
+2025-03-20 16:18:32,975 - INFO - No bounding box data for aa27_jpg.rf.3c4e3309c566db328761ce41888fb372
+2025-03-20 16:18:32,983 - INFO - Saved progress: 47/3114 for ../roboflow2/
+2025-03-20 16:18:33,255 - INFO - Successfully loaded image and labels for j0_jpeg.rf.53370e107e7a7928e124765e64d7c63d from ../roboflow2/images/j0_jpeg.rf.53370e107e7a7928e124765e64d7c63d.jpg
+2025-03-20 16:18:33,255 - INFO - Drew bounding boxes for j0_jpeg.rf.53370e107e7a7928e124765e64d7c63d
+2025-03-20 16:18:33,263 - INFO - Saved progress: 48/3114 for ../roboflow2/
+2025-03-20 16:18:33,463 - INFO - Successfully loaded image and labels for 128_jpg.rf.0edc01045d6dc95ced5aa1e2d1256684 from ../roboflow2/images/128_jpg.rf.0edc01045d6dc95ced5aa1e2d1256684.jpg
+2025-03-20 16:18:33,463 - INFO - Drew bounding boxes for 128_jpg.rf.0edc01045d6dc95ced5aa1e2d1256684
+2025-03-20 16:18:33,471 - INFO - Saved progress: 49/3114 for ../roboflow2/
+2025-03-20 16:18:33,967 - INFO - Successfully loaded image and labels for x85_jpg.rf.d8d3ba8f32e74fcf214889cf2fd050fc from ../roboflow2/images/x85_jpg.rf.d8d3ba8f32e74fcf214889cf2fd050fc.jpg
+2025-03-20 16:18:33,967 - INFO - Drew bounding boxes for x85_jpg.rf.d8d3ba8f32e74fcf214889cf2fd050fc
+2025-03-20 16:18:33,976 - INFO - Saved progress: 50/3114 for ../roboflow2/
+2025-03-20 16:18:34,375 - INFO - Successfully loaded image and labels for x54_jpg.rf.594e7bcaad9edf674aba08c7f657b854 from ../roboflow2/images/x54_jpg.rf.594e7bcaad9edf674aba08c7f657b854.jpg
+2025-03-20 16:18:34,375 - INFO - Drew bounding boxes for x54_jpg.rf.594e7bcaad9edf674aba08c7f657b854
+2025-03-20 16:18:34,382 - INFO - Saved progress: 51/3114 for ../roboflow2/
+2025-03-20 16:18:34,591 - INFO - Successfully loaded image and labels for u12_jpg.rf.65d92208ae257055848a6b0f6de705d8 from ../roboflow2/images/u12_jpg.rf.65d92208ae257055848a6b0f6de705d8.jpg
+2025-03-20 16:18:34,591 - INFO - No bounding box data for u12_jpg.rf.65d92208ae257055848a6b0f6de705d8
+2025-03-20 16:18:34,598 - INFO - Saved progress: 52/3114 for ../roboflow2/
+2025-03-20 16:18:34,847 - INFO - Successfully loaded image and labels for 388_jpg.rf.35e1a9f638cd290393c1eaf9ee447730 from ../roboflow2/images/388_jpg.rf.35e1a9f638cd290393c1eaf9ee447730.jpg
+2025-03-20 16:18:34,847 - INFO - Drew bounding boxes for 388_jpg.rf.35e1a9f638cd290393c1eaf9ee447730
+2025-03-20 16:18:34,854 - INFO - Saved progress: 53/3114 for ../roboflow2/
+2025-03-20 16:18:35,375 - INFO - Successfully loaded image and labels for x5_jpeg.rf.6ca9bc62630b52b2342fa73eb11c74ce from ../roboflow2/images/x5_jpeg.rf.6ca9bc62630b52b2342fa73eb11c74ce.jpg
+2025-03-20 16:18:35,376 - INFO - Drew bounding boxes for x5_jpeg.rf.6ca9bc62630b52b2342fa73eb11c74ce
+2025-03-20 16:18:35,382 - INFO - Saved progress: 54/3114 for ../roboflow2/
+2025-03-20 16:18:35,807 - INFO - Successfully loaded image and labels for 388_jpg.rf.35e1a9f638cd290393c1eaf9ee447730 from ../roboflow2/images/388_jpg.rf.35e1a9f638cd290393c1eaf9ee447730.jpg
+2025-03-20 16:18:35,807 - INFO - Drew bounding boxes for 388_jpg.rf.35e1a9f638cd290393c1eaf9ee447730
+2025-03-20 16:18:35,815 - INFO - Saved progress: 53/3114 for ../roboflow2/
+2025-03-20 16:18:36,023 - INFO - Successfully loaded image and labels for u12_jpg.rf.65d92208ae257055848a6b0f6de705d8 from ../roboflow2/images/u12_jpg.rf.65d92208ae257055848a6b0f6de705d8.jpg
+2025-03-20 16:18:36,023 - INFO - No bounding box data for u12_jpg.rf.65d92208ae257055848a6b0f6de705d8
+2025-03-20 16:18:36,029 - INFO - Saved progress: 52/3114 for ../roboflow2/
+2025-03-20 16:18:44,409 - INFO - Saved progress: 52/3114 for ../roboflow2/

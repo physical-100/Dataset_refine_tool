@@ -1,6 +1,7 @@
 ###사용법###
-# python refine_tool.py <dataset_base_path>
+# python refine_tool.py <dataset_base_path> [class]
 # 예: python refine_tool.py ./refined/train
+# 예: python refine_tool.py ./refined/train 0
 # 좌클릭: 바운딩 박스 클릭 시 수정/삭제 팝업 표시
 # 우클릭: add ambiguity /add box 팝업 표시
 #      A: 새로운 바운딩 박스 추가 (4가지 점을 클릭해서 추가)
@@ -8,9 +9,10 @@
 # R: 선택한 바운딩 박스 삭제
 # L: 현재 이미지의 라벨 정보 표시
 # S: 현재 이미지의 크기 표시
-    # Esc: 팝업 창 닫기 
+# Esc: 팝업 창 닫기 
 # 좌우 화살표: 이전/다음 이미지로 이동
 # 창 닫을 때 진행률 저장
+# 인자 -> 해당 클래스만 있는 이미지만 볼 수 있다.   (0: pedestrian, 1: bicycle, 2: motorcycle, 3: vehicle, 4: bus, 5: truck)
 
 import cv2, os, logging, json
 from datetime import datetime
@@ -121,16 +123,36 @@ class REFINE:
             logging.error(f"Save error: {e}")
 
 class GUI:
-    def __init__(self, root, base_path, img_dir, label_dir):
+    def __init__(self, root, base_path, img_dir, label_dir, filter_class=None):
         self.root = root
         self.root.title("Dataset Refinement Tool")
         self.base_path = base_path
         self.img_dir = img_dir  # 인자로 받은 경로
         self.label_dir = label_dir  # 인자로 받은 경로
-        
-        # 이미지 목록 가져오기
-        self.images = [os.path.splitext(f)[0] for f in os.listdir(self.img_dir) if f.endswith(('.jpeg', '.png', '.jpg'))]
-        
+        self.filter_class = filter_class  # 필터링할 클래스 ID (None이면 모든 이미지 표시)
+
+        # 이미지 목록 가져오기 및 클래스 필터링
+        all_images = [os.path.splitext(f)[0] for f in os.listdir(self.img_dir) if f.endswith(('.jpeg', '.png', '.jpg'))]
+        if self.filter_class is not None:
+            self.images = []
+            for img_name in all_images:
+                label_path = os.path.join(self.label_dir, img_name + '.txt')
+                if os.path.exists(label_path):
+                    with open(label_path, 'r') as f:
+                        for line in f:
+                            class_id = float(line.split()[0])
+                            if class_id == self.filter_class:
+                                self.images.append(img_name)
+                                break
+            logging.info(f"Filtered images with class {self.filter_class}: {len(self.images)} images found")
+        else:
+            self.images = all_images
+            logging.info(f"Loaded all images: {len(self.images)} images found")
+
+        if not self.images:
+            messagebox.showerror("Error", "No images found matching the criteria!")
+            sys.exit(1)
+
         # 프로그레스 로드
         self.progress_file = 'progress.json'
         self.load_progress()
@@ -350,7 +372,6 @@ class GUI:
             text_widget.pack(side=tk.LEFT, fill=tk.BOTH, expand=True)
             scrollbar.config(command=text_widget.yview)
 
-    
             text_widget.insert(tk.END, "\n".join(label_info))
             text_widget.config(state=tk.DISABLED)  # 텍스트 위젯 읽기 전용 설정
 
@@ -527,16 +548,26 @@ class GUI:
 if __name__ == "__main__":
     import sys
     if len(sys.argv) < 2:
-        print("Usage: python script.py <dataset_base_path>")
+        print("Usage: python script.py <dataset_base_path> [class]")
         sys.exit(1)
 
     base_path = sys.argv[1]  # 예: './refined/train'
     img_dir = os.path.join(base_path, 'images')
     label_dir = os.path.join(base_path, 'labels')
-    # img_dir = os.path.join(base_path, 'images/train')
-    # label_dir = os.path.join(base_path, 'labels/train')
+
+    # 클래스 인자 처리
+    filter_class = None
+    if len(sys.argv) > 2:
+        try:
+            filter_class = float(sys.argv[2])
+            if filter_class not in class_mapping:
+                print(f"Error: Invalid class ID {filter_class}. Available classes: {class_mapping}")
+                sys.exit(1)
+        except ValueError:
+            print(f"Error: Class ID must be a number. Got: {sys.argv[2]}")
+            sys.exit(1)
 
     root = tk.Tk()
-    app = GUI(root, base_path, img_dir, label_dir)
+    app = GUI(root, base_path, img_dir, label_dir, filter_class=filter_class)
     root.protocol("WM_DELETE_WINDOW", app.on_closing)  # 창 닫을 때 진행률 저장
     root.mainloop()
